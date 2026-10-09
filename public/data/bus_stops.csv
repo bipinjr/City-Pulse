@@ -1,0 +1,901 @@
+stop_id,stop_name,area,lat,lng,daily_boardings
+BS0001,Koramangala Stop 1,Koramangala,12.93767,77.59336,2707
+BS0002,Koramangala Stop 2,Koramangala,12.93177,77.65599,1790
+BS0003,Bellandur Stop 3,Bellandur,12.93773,77.66389,1490
+BS0004,MG Road Stop 4,MG Road,12.98281,77.61607,2618
+BS0005,Banashankari Stop 5,Banashankari,12.93682,77.54866,1237
+BS0006,Electronic City Stop 6,Electronic City,12.83103,77.67333,916
+BS0007,Marathahalli Stop 7,Marathahalli,12.96683,77.70746,1914
+BS0008,Koramangala Stop 8,Koramangala,12.92711,77.65362,1359
+BS0009,Malleshwaram Stop 9,Malleshwaram,13.02442,77.57449,1548
+BS0010,Indiranagar Stop 10,Indiranagar,12.98962,77.62839,2059
+BS0011,Koramangala Stop 11,Koramangala,12.91448,77.62665,2329
+BS0012,Indiranagar Stop 12,Indiranagar,13.00751,77.64340,1655
+BS0013,Indiranagar Stop 13,Indiranagar,12.98167,77.63075,1984
+BS0014,Yelahanka Stop 14,Yelahanka,13.09066,77.60507,587
+BS0015,Koramangala Stop 15,Koramangala,12.90646,77.62876,1975
+BS0016,Hebbal Stop 16,Hebbal,13.02307,77.60745,692
+BS0017,Banashankari Stop 17,Banashankari,12.92525,77.54764,1626
+BS0018,Majestic Stop 18,Majestic,12.96278,77.52838,857
+BS0019,Malleshwaram Stop 19,Malleshwaram,13.01467,77.58499,913
+BS0020,Marathahalli Stop 20,Marathahalli,12.94799,77.71212,1263
+BS0021,Marathahalli Stop 21,Marathahalli,12.92594,77.69012,1388
+BS0022,Indiranagar Stop 22,Indiranagar,12.98566,77.63929,2043
+BS0023,Banashankari Stop 23,Banashankari,12.92329,77.54704,1250
+BS0024,Indiranagar Stop 24,Indiranagar,12.95089,77.65096,2462
+BS0025,Malleshwaram Stop 25,Malleshwaram,12.98117,77.54722,884
+BS0026,Whitefield Stop 26,Whitefield,12.96428,77.73041,1547
+BS0027,Jayanagar Stop 27,Jayanagar,12.93096,77.61340,1719
+BS0028,Electronic City Stop 28,Electronic City,12.82432,77.67223,892
+BS0029,BTM Layout Stop 29,BTM Layout,12.89455,77.62901,1621
+BS0030,Malleshwaram Stop 30,Malleshwaram,13.03573,77.58713,1127
+BS0031,Whitefield Stop 31,Whitefield,12.98462,77.74814,1184
+BS0032,Majestic Stop 32,Majestic,12.99394,77.56062,2280
+BS0033,Koramangala Stop 33,Koramangala,12.92093,77.63098,1430
+BS0034,Yelahanka Stop 34,Yelahanka,13.08483,77.58583,609
+BS0035,Indiranagar Stop 35,Indiranagar,12.96526,77.66063,825
+BS0036,Whitefield Stop 36,Whitefield,12.94759,77.72689,1474
+BS0037,Banashankari Stop 37,Banashankari,12.91425,77.60078,777
+BS0038,Jayanagar Stop 38,Jayanagar,12.94249,77.63258,1763
+BS0039,Koramangala Stop 39,Koramangala,12.93150,77.65840,1790
+BS0040,HSR Layout Stop 40,HSR Layout,12.92119,77.62911,1116
+BS0041,BTM Layout Stop 41,BTM Layout,12.92601,77.62124,1030
+BS0042,Indiranagar Stop 42,Indiranagar,12.98500,77.62435,2189
+BS0043,Electronic City Stop 43,Electronic City,12.87143,77.65558,1656
+BS0044,Electronic City Stop 44,Electronic City,12.85171,77.66389,812
+BS0045,Electronic City Stop 45,Electronic City,12.84763,77.63666,724
+BS0046,Banashankari Stop 46,Banashankari,12.91336,77.53386,900
+BS0047,Hebbal Stop 47,Hebbal,13.01729,77.57552,1307
+BS0048,Indiranagar Stop 48,Indiranagar,12.95987,77.69856,1874
+BS0049,HSR Layout Stop 49,HSR Layout,12.91633,77.65726,1646
+BS0050,Whitefield Stop 50,Whitefield,12.95884,77.74810,1819
+BS0051,Koramangala Stop 51,Koramangala,12.92590,77.62732,2260
+BS0052,Hebbal Stop 52,Hebbal,13.06294,77.60140,877
+BS0053,MG Road Stop 53,MG Road,13.00015,77.58427,2231
+BS0054,Banashankari Stop 54,Banashankari,12.93777,77.53209,743
+BS0055,Indiranagar Stop 55,Indiranagar,12.96502,77.63815,2072
+BS0056,Electronic City Stop 56,Electronic City,12.82005,77.65095,888
+BS0057,MG Road Stop 57,MG Road,13.01548,77.57660,1717
+BS0058,Jayanagar Stop 58,Jayanagar,12.90579,77.58603,1487
+BS0059,Marathahalli Stop 59,Marathahalli,12.98220,77.69934,977
+BS0060,Malleshwaram Stop 60,Malleshwaram,13.00258,77.56730,586
+BS0061,Majestic Stop 61,Majestic,13.01125,77.55864,2123
+BS0062,Majestic Stop 62,Majestic,12.98394,77.58837,1961
+BS0063,Jayanagar Stop 63,Jayanagar,12.91891,77.56573,910
+BS0064,MG Road Stop 64,MG Road,12.96555,77.59694,2470
+BS0065,Koramangala Stop 65,Koramangala,12.91741,77.64246,2226
+BS0066,Whitefield Stop 66,Whitefield,12.97917,77.75109,1737
+BS0067,Yelahanka Stop 67,Yelahanka,13.09528,77.60183,527
+BS0068,Koramangala Stop 68,Koramangala,12.96008,77.62356,2164
+BS0069,Koramangala Stop 69,Koramangala,12.94320,77.62985,2162
+BS0070,Whitefield Stop 70,Whitefield,12.98041,77.73211,1643
+BS0071,MG Road Stop 71,MG Road,12.98216,77.59894,1929
+BS0072,MG Road Stop 72,MG Road,13.01092,77.63427,1661
+BS0073,MG Road Stop 73,MG Road,12.97295,77.60390,973
+BS0074,Majestic Stop 74,Majestic,12.94739,77.55709,2084
+BS0075,Marathahalli Stop 75,Marathahalli,12.97490,77.72506,1187
+BS0076,Yelahanka Stop 76,Yelahanka,13.10594,77.59222,591
+BS0077,Jayanagar Stop 77,Jayanagar,12.93927,77.64170,1327
+BS0078,Indiranagar Stop 78,Indiranagar,12.99511,77.63605,2196
+BS0079,Whitefield Stop 79,Whitefield,12.96941,77.72820,986
+BS0080,Whitefield Stop 80,Whitefield,12.99701,77.73153,624
+BS0081,MG Road Stop 81,MG Road,12.97972,77.62998,933
+BS0082,Banashankari Stop 82,Banashankari,12.93118,77.57697,1024
+BS0083,BTM Layout Stop 83,BTM Layout,12.92521,77.62566,796
+BS0084,Malleshwaram Stop 84,Malleshwaram,13.00104,77.58706,1254
+BS0085,Banashankari Stop 85,Banashankari,12.90307,77.54899,1506
+BS0086,Malleshwaram Stop 86,Malleshwaram,12.98586,77.53808,883
+BS0087,Whitefield Stop 87,Whitefield,12.98900,77.78189,1277
+BS0088,HSR Layout Stop 88,HSR Layout,12.91817,77.62644,1554
+BS0089,Marathahalli Stop 89,Marathahalli,12.96919,77.67156,1284
+BS0090,Banashankari Stop 90,Banashankari,12.91979,77.53169,1518
+BS0091,Yelahanka Stop 91,Yelahanka,13.09908,77.56184,864
+BS0092,Hebbal Stop 92,Hebbal,13.05424,77.59300,1064
+BS0093,BTM Layout Stop 93,BTM Layout,12.93341,77.61207,1841
+BS0094,Bellandur Stop 94,Bellandur,12.96137,77.69801,1557
+BS0095,Banashankari Stop 95,Banashankari,12.95511,77.52002,1338
+BS0096,HSR Layout Stop 96,HSR Layout,12.92355,77.63771,1010
+BS0097,MG Road Stop 97,MG Road,12.99617,77.58591,1997
+BS0098,Whitefield Stop 98,Whitefield,12.95693,77.73458,806
+BS0099,Koramangala Stop 99,Koramangala,12.90420,77.63417,907
+BS0100,Banashankari Stop 100,Banashankari,12.93663,77.51431,556
+BS0101,Koramangala Stop 101,Koramangala,12.93220,77.62133,1347
+BS0102,Whitefield Stop 102,Whitefield,12.97962,77.73130,1155
+BS0103,MG Road Stop 103,MG Road,12.98718,77.62789,1865
+BS0104,Koramangala Stop 104,Koramangala,12.94471,77.68870,2179
+BS0105,Whitefield Stop 105,Whitefield,12.95479,77.73718,1935
+BS0106,Yelahanka Stop 106,Yelahanka,13.08344,77.58025,692
+BS0107,Electronic City Stop 107,Electronic City,12.82383,77.67387,648
+BS0108,Koramangala Stop 108,Koramangala,12.92397,77.63715,1465
+BS0109,Marathahalli Stop 109,Marathahalli,12.98087,77.73197,1698
+BS0110,Indiranagar Stop 110,Indiranagar,12.96843,77.67342,1066
+BS0111,Bellandur Stop 111,Bellandur,12.94379,77.64581,816
+BS0112,Marathahalli Stop 112,Marathahalli,12.97653,77.70215,1008
+BS0113,Indiranagar Stop 113,Indiranagar,13.02281,77.63975,2089
+BS0114,HSR Layout Stop 114,HSR Layout,12.94384,77.64061,1030
+BS0115,Electronic City Stop 115,Electronic City,12.85724,77.67487,919
+BS0116,Koramangala Stop 116,Koramangala,12.91490,77.63753,2735
+BS0117,Malleshwaram Stop 117,Malleshwaram,13.03460,77.58388,816
+BS0118,BTM Layout Stop 118,BTM Layout,12.90738,77.62833,1088
+BS0119,Electronic City Stop 119,Electronic City,12.84929,77.63033,938
+BS0120,Jayanagar Stop 120,Jayanagar,12.91543,77.61649,1573
+BS0121,Marathahalli Stop 121,Marathahalli,12.93917,77.68500,1253
+BS0122,Banashankari Stop 122,Banashankari,12.91134,77.55613,1417
+BS0123,BTM Layout Stop 123,BTM Layout,12.89176,77.62557,920
+BS0124,Whitefield Stop 124,Whitefield,12.98358,77.74531,968
+BS0125,Whitefield Stop 125,Whitefield,12.97172,77.74466,908
+BS0126,Malleshwaram Stop 126,Malleshwaram,13.01290,77.56946,548
+BS0127,Koramangala Stop 127,Koramangala,12.92634,77.64806,2688
+BS0128,Hebbal Stop 128,Hebbal,13.02990,77.59574,1053
+BS0129,Bellandur Stop 129,Bellandur,12.92303,77.67336,1338
+BS0130,Koramangala Stop 130,Koramangala,12.96424,77.64359,1193
+BS0131,Banashankari Stop 131,Banashankari,12.90448,77.54447,1016
+BS0132,Majestic Stop 132,Majestic,12.99693,77.56529,2148
+BS0133,Indiranagar Stop 133,Indiranagar,13.00484,77.62289,2453
+BS0134,Whitefield Stop 134,Whitefield,12.98898,77.75322,734
+BS0135,Banashankari Stop 135,Banashankari,12.93870,77.51771,1004
+BS0136,Indiranagar Stop 136,Indiranagar,12.97557,77.68687,2383
+BS0137,Yelahanka Stop 137,Yelahanka,13.12434,77.59454,559
+BS0138,Yelahanka Stop 138,Yelahanka,13.10472,77.58018,1007
+BS0139,Indiranagar Stop 139,Indiranagar,12.96843,77.61649,1425
+BS0140,Majestic Stop 140,Majestic,12.95252,77.57471,1050
+BS0141,MG Road Stop 141,MG Road,12.96615,77.59194,1729
+BS0142,Majestic Stop 142,Majestic,12.99386,77.55052,1242
+BS0143,Whitefield Stop 143,Whitefield,12.95877,77.76163,952
+BS0144,Majestic Stop 144,Majestic,12.96338,77.58789,1717
+BS0145,MG Road Stop 145,MG Road,12.96030,77.60909,2070
+BS0146,MG Road Stop 146,MG Road,12.96329,77.61594,2162
+BS0147,MG Road Stop 147,MG Road,12.98604,77.61010,2522
+BS0148,Banashankari Stop 148,Banashankari,12.92251,77.55670,1154
+BS0149,Indiranagar Stop 149,Indiranagar,12.98842,77.67157,1393
+BS0150,Yelahanka Stop 150,Yelahanka,13.10794,77.59267,799
+BS0151,Jayanagar Stop 151,Jayanagar,12.90443,77.62839,1014
+BS0152,Indiranagar Stop 152,Indiranagar,12.97532,77.63592,1358
+BS0153,Electronic City Stop 153,Electronic City,12.86573,77.64964,741
+BS0154,Electronic City Stop 154,Electronic City,12.82753,77.64987,1007
+BS0155,Malleshwaram Stop 155,Malleshwaram,13.00244,77.58846,1078
+BS0156,Jayanagar Stop 156,Jayanagar,12.91835,77.60093,1600
+BS0157,MG Road Stop 157,MG Road,13.00025,77.60178,2454
+BS0158,HSR Layout Stop 158,HSR Layout,12.92247,77.66249,1131
+BS0159,Majestic Stop 159,Majestic,12.97345,77.59036,911
+BS0160,Malleshwaram Stop 160,Malleshwaram,13.00837,77.56179,1690
+BS0161,Koramangala Stop 161,Koramangala,12.93897,77.65143,2553
+BS0162,Malleshwaram Stop 162,Malleshwaram,13.01114,77.53321,844
+BS0163,Jayanagar Stop 163,Jayanagar,12.92530,77.60768,1915
+BS0164,Banashankari Stop 164,Banashankari,12.92224,77.49011,1441
+BS0165,Hebbal Stop 165,Hebbal,13.04070,77.61765,780
+BS0166,BTM Layout Stop 166,BTM Layout,12.92892,77.64340,922
+BS0167,Majestic Stop 167,Majestic,12.99718,77.57431,2153
+BS0168,BTM Layout Stop 168,BTM Layout,12.93712,77.60456,811
+BS0169,Yelahanka Stop 169,Yelahanka,13.09630,77.58968,808
+BS0170,Hebbal Stop 170,Hebbal,13.04837,77.60418,593
+BS0171,Malleshwaram Stop 171,Malleshwaram,12.99726,77.59243,1528
+BS0172,Jayanagar Stop 172,Jayanagar,12.94292,77.58320,1994
+BS0173,Koramangala Stop 173,Koramangala,12.95175,77.61914,1415
+BS0174,Bellandur Stop 174,Bellandur,12.94152,77.67079,1422
+BS0175,Jayanagar Stop 175,Jayanagar,12.91300,77.59284,1527
+BS0176,Koramangala Stop 176,Koramangala,12.90100,77.62853,2204
+BS0177,MG Road Stop 177,MG Road,12.95775,77.60474,1671
+BS0178,Koramangala Stop 178,Koramangala,12.93154,77.62720,1902
+BS0179,Majestic Stop 179,Majestic,12.99436,77.57418,990
+BS0180,MG Road Stop 180,MG Road,12.99643,77.60615,1057
+BS0181,Majestic Stop 181,Majestic,12.94157,77.52904,2433
+BS0182,Koramangala Stop 182,Koramangala,12.96154,77.64008,1154
+BS0183,Hebbal Stop 183,Hebbal,13.05176,77.62695,1006
+BS0184,Electronic City Stop 184,Electronic City,12.84003,77.68949,852
+BS0185,Malleshwaram Stop 185,Malleshwaram,13.00373,77.55360,760
+BS0186,Indiranagar Stop 186,Indiranagar,12.99732,77.64336,1788
+BS0187,MG Road Stop 187,MG Road,12.98357,77.58082,1876
+BS0188,MG Road Stop 188,MG Road,12.96323,77.62303,1257
+BS0189,Marathahalli Stop 189,Marathahalli,12.97493,77.69391,706
+BS0190,Whitefield Stop 190,Whitefield,12.96963,77.74171,1465
+BS0191,Jayanagar Stop 191,Jayanagar,12.92811,77.61168,1013
+BS0192,BTM Layout Stop 192,BTM Layout,12.88696,77.60655,1170
+BS0193,Jayanagar Stop 193,Jayanagar,12.90320,77.58330,1939
+BS0194,Marathahalli Stop 194,Marathahalli,12.94483,77.67513,669
+BS0195,Marathahalli Stop 195,Marathahalli,12.96011,77.70566,1676
+BS0196,Banashankari Stop 196,Banashankari,12.93980,77.53248,1161
+BS0197,Majestic Stop 197,Majestic,13.00876,77.55395,1284
+BS0198,Bellandur Stop 198,Bellandur,12.93628,77.67896,1473
+BS0199,Indiranagar Stop 199,Indiranagar,12.96675,77.65410,1695
+BS0200,Malleshwaram Stop 200,Malleshwaram,12.97675,77.56596,710
+BS0201,Bellandur Stop 201,Bellandur,12.94094,77.64111,1277
+BS0202,Marathahalli Stop 202,Marathahalli,12.97902,77.66915,663
+BS0203,Malleshwaram Stop 203,Malleshwaram,13.01747,77.58476,680
+BS0204,Hebbal Stop 204,Hebbal,12.99646,77.56609,1086
+BS0205,Whitefield Stop 205,Whitefield,12.97004,77.75353,1141
+BS0206,Koramangala Stop 206,Koramangala,12.95227,77.62237,1270
+BS0207,Majestic Stop 207,Majestic,13.00255,77.54829,1182
+BS0208,Electronic City Stop 208,Electronic City,12.83001,77.66490,1220
+BS0209,Hebbal Stop 209,Hebbal,13.04086,77.58678,1159
+BS0210,Whitefield Stop 210,Whitefield,12.97155,77.73073,944
+BS0211,Malleshwaram Stop 211,Malleshwaram,12.98938,77.59820,1447
+BS0212,BTM Layout Stop 212,BTM Layout,12.93234,77.62613,750
+BS0213,Indiranagar Stop 213,Indiranagar,12.97363,77.65696,2167
+BS0214,Indiranagar Stop 214,Indiranagar,12.99516,77.65012,1852
+BS0215,Hebbal Stop 215,Hebbal,13.03317,77.58400,1004
+BS0216,Marathahalli Stop 216,Marathahalli,12.96552,77.66008,997
+BS0217,Yelahanka Stop 217,Yelahanka,13.10658,77.58095,858
+BS0218,Hebbal Stop 218,Hebbal,13.03438,77.58372,923
+BS0219,HSR Layout Stop 219,HSR Layout,12.90421,77.66873,1563
+BS0220,Whitefield Stop 220,Whitefield,12.95576,77.75299,1318
+BS0221,Whitefield Stop 221,Whitefield,13.00023,77.73117,1095
+BS0222,Hebbal Stop 222,Hebbal,13.01847,77.57552,511
+BS0223,Marathahalli Stop 223,Marathahalli,12.97123,77.68307,601
+BS0224,Indiranagar Stop 224,Indiranagar,12.99299,77.66261,2487
+BS0225,BTM Layout Stop 225,BTM Layout,12.93518,77.60636,844
+BS0226,Majestic Stop 226,Majestic,12.97814,77.54431,2191
+BS0227,Bellandur Stop 227,Bellandur,12.94385,77.67860,1432
+BS0228,Majestic Stop 228,Majestic,12.98890,77.56753,1828
+BS0229,Indiranagar Stop 229,Indiranagar,12.98763,77.64537,1257
+BS0230,Marathahalli Stop 230,Marathahalli,12.95503,77.67299,1663
+BS0231,Indiranagar Stop 231,Indiranagar,12.96936,77.64191,1646
+BS0232,Electronic City Stop 232,Electronic City,12.82931,77.68283,649
+BS0233,Koramangala Stop 233,Koramangala,12.91764,77.61580,1898
+BS0234,Malleshwaram Stop 234,Malleshwaram,12.97986,77.55018,1019
+BS0235,Whitefield Stop 235,Whitefield,12.98985,77.75313,1818
+BS0236,Electronic City Stop 236,Electronic City,12.85361,77.65728,1401
+BS0237,Bellandur Stop 237,Bellandur,12.91917,77.68364,1243
+BS0238,Whitefield Stop 238,Whitefield,12.95500,77.71634,910
+BS0239,Yelahanka Stop 239,Yelahanka,13.09828,77.60070,1161
+BS0240,Electronic City Stop 240,Electronic City,12.86500,77.68000,1465
+BS0241,Malleshwaram Stop 241,Malleshwaram,13.02842,77.61548,752
+BS0242,Electronic City Stop 242,Electronic City,12.86134,77.68555,1701
+BS0243,BTM Layout Stop 243,BTM Layout,12.93687,77.58420,1491
+BS0244,Hebbal Stop 244,Hebbal,13.06429,77.60528,913
+BS0245,Majestic Stop 245,Majestic,12.96817,77.58165,1468
+BS0246,Indiranagar Stop 246,Indiranagar,12.99785,77.63393,1781
+BS0247,HSR Layout Stop 247,HSR Layout,12.90198,77.62841,917
+BS0248,Whitefield Stop 248,Whitefield,12.96279,77.74500,1738
+BS0249,HSR Layout Stop 249,HSR Layout,12.90355,77.62600,2110
+BS0250,Majestic Stop 250,Majestic,12.98769,77.59124,1592
+BS0251,MG Road Stop 251,MG Road,12.97393,77.58756,1662
+BS0252,Jayanagar Stop 252,Jayanagar,12.92608,77.58081,1288
+BS0253,BTM Layout Stop 253,BTM Layout,12.90264,77.61201,1131
+BS0254,Banashankari Stop 254,Banashankari,12.91068,77.57624,1190
+BS0255,Hebbal Stop 255,Hebbal,13.02225,77.60815,548
+BS0256,Whitefield Stop 256,Whitefield,12.97737,77.73448,2006
+BS0257,Banashankari Stop 257,Banashankari,12.92289,77.53871,1619
+BS0258,Whitefield Stop 258,Whitefield,12.97431,77.73169,1806
+BS0259,BTM Layout Stop 259,BTM Layout,12.93536,77.63013,1777
+BS0260,HSR Layout Stop 260,HSR Layout,12.91471,77.67556,881
+BS0261,HSR Layout Stop 261,HSR Layout,12.92114,77.65757,1100
+BS0262,HSR Layout Stop 262,HSR Layout,12.88551,77.64020,1392
+BS0263,MG Road Stop 263,MG Road,12.97735,77.61813,2632
+BS0264,Hebbal Stop 264,Hebbal,13.03367,77.61298,737
+BS0265,Marathahalli Stop 265,Marathahalli,12.95733,77.72945,1172
+BS0266,Marathahalli Stop 266,Marathahalli,12.90988,77.69718,1447
+BS0267,HSR Layout Stop 267,HSR Layout,12.92597,77.65080,1993
+BS0268,MG Road Stop 268,MG Road,12.95713,77.59454,2081
+BS0269,Majestic Stop 269,Majestic,12.95001,77.57027,1757
+BS0270,Indiranagar Stop 270,Indiranagar,12.97865,77.61253,1235
+BS0271,Koramangala Stop 271,Koramangala,12.91675,77.62712,2184
+BS0272,Koramangala Stop 272,Koramangala,12.91614,77.63924,1801
+BS0273,Whitefield Stop 273,Whitefield,12.95732,77.76976,758
+BS0274,Koramangala Stop 274,Koramangala,12.93044,77.63391,1753
+BS0275,HSR Layout Stop 275,HSR Layout,12.92650,77.61859,1120
+BS0276,Indiranagar Stop 276,Indiranagar,12.97913,77.63711,2024
+BS0277,Majestic Stop 277,Majestic,12.97384,77.58375,909
+BS0278,Whitefield Stop 278,Whitefield,12.99496,77.71601,1936
+BS0279,Bellandur Stop 279,Bellandur,12.95020,77.65549,596
+BS0280,Indiranagar Stop 280,Indiranagar,12.99480,77.63031,1639
+BS0281,Indiranagar Stop 281,Indiranagar,12.95616,77.64207,2054
+BS0282,Koramangala Stop 282,Koramangala,12.93169,77.60792,2249
+BS0283,HSR Layout Stop 283,HSR Layout,12.91204,77.64753,1947
+BS0284,BTM Layout Stop 284,BTM Layout,12.91187,77.61932,1247
+BS0285,HSR Layout Stop 285,HSR Layout,12.94109,77.61455,1837
+BS0286,MG Road Stop 286,MG Road,12.98585,77.62106,1936
+BS0287,Whitefield Stop 287,Whitefield,12.98385,77.75009,1953
+BS0288,Marathahalli Stop 288,Marathahalli,12.95468,77.70135,1142
+BS0289,Koramangala Stop 289,Koramangala,12.93570,77.62388,1173
+BS0290,BTM Layout Stop 290,BTM Layout,12.91032,77.62664,1611
+BS0291,Koramangala Stop 291,Koramangala,12.92990,77.63467,1260
+BS0292,Jayanagar Stop 292,Jayanagar,12.91539,77.59401,1189
+BS0293,Indiranagar Stop 293,Indiranagar,12.98533,77.64012,2318
+BS0294,Majestic Stop 294,Majestic,13.00799,77.55793,1638
+BS0295,Malleshwaram Stop 295,Malleshwaram,12.99170,77.55456,753
+BS0296,Bellandur Stop 296,Bellandur,12.94032,77.67432,1230
+BS0297,Banashankari Stop 297,Banashankari,12.90246,77.54110,725
+BS0298,Whitefield Stop 298,Whitefield,12.97069,77.72507,1320
+BS0299,Indiranagar Stop 299,Indiranagar,13.02424,77.62084,1294
+BS0300,MG Road Stop 300,MG Road,12.96843,77.61224,2366
+BS0301,Majestic Stop 301,Majestic,12.98511,77.57446,1732
+BS0302,Whitefield Stop 302,Whitefield,12.97149,77.72542,824
+BS0303,Whitefield Stop 303,Whitefield,12.94537,77.73343,1664
+BS0304,Hebbal Stop 304,Hebbal,13.03264,77.62017,847
+BS0305,Bellandur Stop 305,Bellandur,12.96656,77.68433,1303
+BS0306,MG Road Stop 306,MG Road,12.97785,77.59833,1440
+BS0307,Jayanagar Stop 307,Jayanagar,12.91954,77.59455,1853
+BS0308,BTM Layout Stop 308,BTM Layout,12.93404,77.58711,1133
+BS0309,HSR Layout Stop 309,HSR Layout,12.91900,77.66638,1970
+BS0310,Whitefield Stop 310,Whitefield,12.98289,77.73209,1337
+BS0311,Bellandur Stop 311,Bellandur,12.91745,77.65925,1158
+BS0312,Electronic City Stop 312,Electronic City,12.83917,77.67699,802
+BS0313,Indiranagar Stop 313,Indiranagar,12.97799,77.66073,1143
+BS0314,Indiranagar Stop 314,Indiranagar,13.00516,77.66393,1134
+BS0315,Indiranagar Stop 315,Indiranagar,12.96151,77.65383,972
+BS0316,Koramangala Stop 316,Koramangala,12.93731,77.61300,1257
+BS0317,HSR Layout Stop 317,HSR Layout,12.89638,77.66516,970
+BS0318,Banashankari Stop 318,Banashankari,12.92784,77.56203,730
+BS0319,Hebbal Stop 319,Hebbal,13.02389,77.58290,984
+BS0320,MG Road Stop 320,MG Road,12.99644,77.61099,1666
+BS0321,MG Road Stop 321,MG Road,12.99469,77.60407,1065
+BS0322,Bellandur Stop 322,Bellandur,12.90342,77.66531,1229
+BS0323,Malleshwaram Stop 323,Malleshwaram,12.96909,77.57000,753
+BS0324,Jayanagar Stop 324,Jayanagar,12.95604,77.57921,1231
+BS0325,BTM Layout Stop 325,BTM Layout,12.94982,77.59639,556
+BS0326,Malleshwaram Stop 326,Malleshwaram,13.03005,77.56359,1496
+BS0327,Electronic City Stop 327,Electronic City,12.84100,77.67315,1137
+BS0328,Banashankari Stop 328,Banashankari,12.93489,77.52951,1570
+BS0329,Majestic Stop 329,Majestic,12.98337,77.57979,1862
+BS0330,Bellandur Stop 330,Bellandur,12.91301,77.67775,1508
+BS0331,BTM Layout Stop 331,BTM Layout,12.92713,77.58763,1087
+BS0332,Indiranagar Stop 332,Indiranagar,12.97842,77.65976,1753
+BS0333,Malleshwaram Stop 333,Malleshwaram,12.99695,77.55282,790
+BS0334,Majestic Stop 334,Majestic,12.96557,77.55497,1507
+BS0335,MG Road Stop 335,MG Road,12.98719,77.63532,1813
+BS0336,HSR Layout Stop 336,HSR Layout,12.90866,77.65989,1763
+BS0337,MG Road Stop 337,MG Road,12.94879,77.58174,1154
+BS0338,Banashankari Stop 338,Banashankari,12.92781,77.56248,1444
+BS0339,Indiranagar Stop 339,Indiranagar,12.98536,77.63813,1842
+BS0340,MG Road Stop 340,MG Road,13.01049,77.55451,936
+BS0341,BTM Layout Stop 341,BTM Layout,12.87885,77.61506,682
+BS0342,MG Road Stop 342,MG Road,12.96937,77.59698,1337
+BS0343,Jayanagar Stop 343,Jayanagar,12.90956,77.57802,1382
+BS0344,Indiranagar Stop 344,Indiranagar,12.99778,77.63089,1200
+BS0345,Jayanagar Stop 345,Jayanagar,12.94267,77.58872,1520
+BS0346,Banashankari Stop 346,Banashankari,12.92860,77.55378,1374
+BS0347,Banashankari Stop 347,Banashankari,12.90099,77.56205,639
+BS0348,BTM Layout Stop 348,BTM Layout,12.90044,77.62612,1199
+BS0349,Koramangala Stop 349,Koramangala,12.93472,77.65859,2168
+BS0350,Hebbal Stop 350,Hebbal,13.01035,77.61427,982
+BS0351,Electronic City Stop 351,Electronic City,12.85832,77.64621,1123
+BS0352,Jayanagar Stop 352,Jayanagar,12.92765,77.57334,1701
+BS0353,Bellandur Stop 353,Bellandur,12.91080,77.67456,1026
+BS0354,BTM Layout Stop 354,BTM Layout,12.92375,77.62400,1643
+BS0355,HSR Layout Stop 355,HSR Layout,12.88380,77.60767,1066
+BS0356,Indiranagar Stop 356,Indiranagar,12.99962,77.63643,1463
+BS0357,Whitefield Stop 357,Whitefield,12.98784,77.75329,1098
+BS0358,Banashankari Stop 358,Banashankari,12.92794,77.50776,1134
+BS0359,Majestic Stop 359,Majestic,12.95618,77.56281,1278
+BS0360,Koramangala Stop 360,Koramangala,12.91399,77.64082,2505
+BS0361,Majestic Stop 361,Majestic,12.97901,77.56643,1547
+BS0362,Marathahalli Stop 362,Marathahalli,12.96897,77.72419,1960
+BS0363,Marathahalli Stop 363,Marathahalli,12.98959,77.69079,1460
+BS0364,MG Road Stop 364,MG Road,12.98332,77.57594,1708
+BS0365,Marathahalli Stop 365,Marathahalli,12.95807,77.70120,775
+BS0366,Electronic City Stop 366,Electronic City,12.83279,77.67287,1601
+BS0367,Whitefield Stop 367,Whitefield,12.96293,77.74123,843
+BS0368,Koramangala Stop 368,Koramangala,12.94123,77.58273,1315
+BS0369,Majestic Stop 369,Majestic,12.96906,77.57235,1045
+BS0370,Koramangala Stop 370,Koramangala,12.95949,77.63747,2480
+BS0371,MG Road Stop 371,MG Road,12.95911,77.60052,1408
+BS0372,Whitefield Stop 372,Whitefield,12.92909,77.74725,1469
+BS0373,HSR Layout Stop 373,HSR Layout,12.89393,77.62856,920
+BS0374,Koramangala Stop 374,Koramangala,12.90684,77.64194,2030
+BS0375,HSR Layout Stop 375,HSR Layout,12.92233,77.66363,1902
+BS0376,Majestic Stop 376,Majestic,12.96837,77.57217,2241
+BS0377,MG Road Stop 377,MG Road,12.95392,77.62076,2572
+BS0378,Indiranagar Stop 378,Indiranagar,12.96127,77.64376,2037
+BS0379,Whitefield Stop 379,Whitefield,12.97342,77.75497,1256
+BS0380,Koramangala Stop 380,Koramangala,12.94522,77.64300,1719
+BS0381,Bellandur Stop 381,Bellandur,12.91968,77.69650,876
+BS0382,Yelahanka Stop 382,Yelahanka,13.07551,77.58761,701
+BS0383,Malleshwaram Stop 383,Malleshwaram,12.99548,77.58398,664
+BS0384,Majestic Stop 384,Majestic,12.98662,77.56027,1935
+BS0385,Indiranagar Stop 385,Indiranagar,12.97089,77.65764,806
+BS0386,Yelahanka Stop 386,Yelahanka,13.10044,77.60624,405
+BS0387,Majestic Stop 387,Majestic,12.98327,77.56095,2122
+BS0388,Banashankari Stop 388,Banashankari,12.94309,77.54913,1166
+BS0389,Koramangala Stop 389,Koramangala,12.96628,77.62480,1027
+BS0390,Malleshwaram Stop 390,Malleshwaram,13.01126,77.54072,1445
+BS0391,Whitefield Stop 391,Whitefield,12.95697,77.73549,1266
+BS0392,Bellandur Stop 392,Bellandur,12.92012,77.64861,1206
+BS0393,Whitefield Stop 393,Whitefield,12.98650,77.72943,1772
+BS0394,Yelahanka Stop 394,Yelahanka,13.09222,77.55116,583
+BS0395,Bellandur Stop 395,Bellandur,12.92356,77.68353,1253
+BS0396,HSR Layout Stop 396,HSR Layout,12.92509,77.65431,1265
+BS0397,MG Road Stop 397,MG Road,12.96567,77.60344,1362
+BS0398,Yelahanka Stop 398,Yelahanka,13.10315,77.57830,830
+BS0399,Banashankari Stop 399,Banashankari,12.89939,77.53194,1149
+BS0400,Koramangala Stop 400,Koramangala,12.92604,77.61972,2320
+BS0401,Electronic City Stop 401,Electronic City,12.83491,77.65621,992
+BS0402,Bellandur Stop 402,Bellandur,12.94383,77.64934,1255
+BS0403,Koramangala Stop 403,Koramangala,12.93126,77.62968,2104
+BS0404,Electronic City Stop 404,Electronic City,12.84465,77.64856,1493
+BS0405,Malleshwaram Stop 405,Malleshwaram,13.01801,77.57218,1641
+BS0406,Majestic Stop 406,Majestic,12.98121,77.55416,1240
+BS0407,Majestic Stop 407,Majestic,12.95963,77.58479,1554
+BS0408,Majestic Stop 408,Majestic,12.93773,77.58737,1704
+BS0409,HSR Layout Stop 409,HSR Layout,12.92374,77.66752,777
+BS0410,Whitefield Stop 410,Whitefield,12.96763,77.74548,956
+BS0411,Majestic Stop 411,Majestic,12.97307,77.58843,2258
+BS0412,MG Road Stop 412,MG Road,12.96740,77.63988,1087
+BS0413,Indiranagar Stop 413,Indiranagar,12.95941,77.65986,2185
+BS0414,Koramangala Stop 414,Koramangala,12.93709,77.61433,1215
+BS0415,HSR Layout Stop 415,HSR Layout,12.90381,77.65891,1005
+BS0416,Banashankari Stop 416,Banashankari,12.91636,77.54848,1509
+BS0417,MG Road Stop 417,MG Road,12.99046,77.61963,1386
+BS0418,Marathahalli Stop 418,Marathahalli,12.94563,77.70378,1349
+BS0419,Banashankari Stop 419,Banashankari,12.96696,77.55497,1317
+BS0420,Bellandur Stop 420,Bellandur,12.93192,77.65628,814
+BS0421,Whitefield Stop 421,Whitefield,12.97866,77.75416,1199
+BS0422,Majestic Stop 422,Majestic,12.94386,77.57584,1198
+BS0423,Indiranagar Stop 423,Indiranagar,12.97138,77.65433,1399
+BS0424,Whitefield Stop 424,Whitefield,12.97813,77.72450,1359
+BS0425,Electronic City Stop 425,Electronic City,12.84408,77.66846,522
+BS0426,Malleshwaram Stop 426,Malleshwaram,12.96248,77.59942,1342
+BS0427,MG Road Stop 427,MG Road,12.96522,77.60951,2284
+BS0428,Indiranagar Stop 428,Indiranagar,13.00651,77.62150,1081
+BS0429,Banashankari Stop 429,Banashankari,12.91186,77.54778,597
+BS0430,Jayanagar Stop 430,Jayanagar,12.93845,77.58676,1720
+BS0431,Whitefield Stop 431,Whitefield,12.97339,77.76591,1965
+BS0432,MG Road Stop 432,MG Road,12.99097,77.59144,1602
+BS0433,HSR Layout Stop 433,HSR Layout,12.90269,77.65831,1836
+BS0434,Koramangala Stop 434,Koramangala,12.95190,77.65221,1938
+BS0435,Bellandur Stop 435,Bellandur,12.92895,77.68678,1259
+BS0436,HSR Layout Stop 436,HSR Layout,12.87179,77.65063,1623
+BS0437,Malleshwaram Stop 437,Malleshwaram,12.99597,77.58296,747
+BS0438,Whitefield Stop 438,Whitefield,13.00089,77.75725,1028
+BS0439,Indiranagar Stop 439,Indiranagar,12.96642,77.64999,1899
+BS0440,Jayanagar Stop 440,Jayanagar,12.92594,77.60516,1970
+BS0441,Indiranagar Stop 441,Indiranagar,12.95672,77.64112,2206
+BS0442,HSR Layout Stop 442,HSR Layout,12.91673,77.67700,1071
+BS0443,Koramangala Stop 443,Koramangala,12.91305,77.62333,2124
+BS0444,Indiranagar Stop 444,Indiranagar,12.96523,77.66711,1677
+BS0445,Indiranagar Stop 445,Indiranagar,12.95465,77.63373,1937
+BS0446,Bellandur Stop 446,Bellandur,12.92983,77.63603,1524
+BS0447,Hebbal Stop 447,Hebbal,13.05976,77.60080,490
+BS0448,Whitefield Stop 448,Whitefield,12.97590,77.74448,1152
+BS0449,MG Road Stop 449,MG Road,12.96926,77.59709,2750
+BS0450,Jayanagar Stop 450,Jayanagar,12.87747,77.59078,879
+BS0451,Electronic City Stop 451,Electronic City,12.85769,77.67227,945
+BS0452,Marathahalli Stop 452,Marathahalli,12.95104,77.72133,1037
+BS0453,Indiranagar Stop 453,Indiranagar,12.99909,77.61462,1829
+BS0454,Majestic Stop 454,Majestic,12.98328,77.59836,1108
+BS0455,Jayanagar Stop 455,Jayanagar,12.89876,77.57129,1333
+BS0456,MG Road Stop 456,MG Road,12.97805,77.62128,2386
+BS0457,Majestic Stop 457,Majestic,12.98351,77.55427,2094
+BS0458,HSR Layout Stop 458,HSR Layout,12.89485,77.66004,1920
+BS0459,BTM Layout Stop 459,BTM Layout,12.91548,77.59745,869
+BS0460,Marathahalli Stop 460,Marathahalli,12.98204,77.65951,1089
+BS0461,Majestic Stop 461,Majestic,12.98211,77.54307,1609
+BS0462,Indiranagar Stop 462,Indiranagar,12.97980,77.64421,1747
+BS0463,HSR Layout Stop 463,HSR Layout,12.91466,77.67002,866
+BS0464,MG Road Stop 464,MG Road,12.97926,77.62062,1831
+BS0465,Marathahalli Stop 465,Marathahalli,12.95503,77.69601,1358
+BS0466,Whitefield Stop 466,Whitefield,12.97075,77.74714,1738
+BS0467,Indiranagar Stop 467,Indiranagar,12.97395,77.62782,887
+BS0468,Malleshwaram Stop 468,Malleshwaram,13.02088,77.54630,914
+BS0469,Jayanagar Stop 469,Jayanagar,12.95661,77.60506,1529
+BS0470,Hebbal Stop 470,Hebbal,13.00145,77.60322,550
+BS0471,Koramangala Stop 471,Koramangala,12.92565,77.64084,1922
+BS0472,Electronic City Stop 472,Electronic City,12.86291,77.65990,973
+BS0473,Electronic City Stop 473,Electronic City,12.82930,77.64217,790
+BS0474,Marathahalli Stop 474,Marathahalli,12.97980,77.66802,870
+BS0475,Whitefield Stop 475,Whitefield,12.98706,77.76630,843
+BS0476,Indiranagar Stop 476,Indiranagar,12.98092,77.65838,1083
+BS0477,Indiranagar Stop 477,Indiranagar,12.98092,77.62129,1730
+BS0478,Koramangala Stop 478,Koramangala,12.95936,77.64568,2127
+BS0479,Banashankari Stop 479,Banashankari,12.92690,77.56746,1245
+BS0480,Marathahalli Stop 480,Marathahalli,12.94836,77.72762,1434
+BS0481,BTM Layout Stop 481,BTM Layout,12.90930,77.61492,866
+BS0482,Hebbal Stop 482,Hebbal,13.03472,77.57421,625
+BS0483,Jayanagar Stop 483,Jayanagar,12.94747,77.58241,2243
+BS0484,Bellandur Stop 484,Bellandur,12.95177,77.67072,1555
+BS0485,Yelahanka Stop 485,Yelahanka,13.06418,77.57472,1220
+BS0486,Jayanagar Stop 486,Jayanagar,12.93592,77.58136,1751
+BS0487,Marathahalli Stop 487,Marathahalli,12.96275,77.72422,652
+BS0488,Banashankari Stop 488,Banashankari,12.89540,77.52908,906
+BS0489,Bellandur Stop 489,Bellandur,12.91418,77.67088,1310
+BS0490,Banashankari Stop 490,Banashankari,12.90626,77.53896,1065
+BS0491,HSR Layout Stop 491,HSR Layout,12.91945,77.64281,1765
+BS0492,Jayanagar Stop 492,Jayanagar,12.92755,77.57138,1171
+BS0493,Whitefield Stop 493,Whitefield,12.99393,77.75465,1258
+BS0494,Indiranagar Stop 494,Indiranagar,12.96802,77.63351,1034
+BS0495,Koramangala Stop 495,Koramangala,12.93478,77.59591,2654
+BS0496,MG Road Stop 496,MG Road,12.98889,77.60183,1653
+BS0497,Majestic Stop 497,Majestic,12.96694,77.56921,2406
+BS0498,Majestic Stop 498,Majestic,12.96990,77.57522,1716
+BS0499,Bellandur Stop 499,Bellandur,12.90918,77.65191,1418
+BS0500,Koramangala Stop 500,Koramangala,12.92738,77.61067,1911
+BS0501,Malleshwaram Stop 501,Malleshwaram,13.00593,77.56886,633
+BS0502,Indiranagar Stop 502,Indiranagar,12.98066,77.63028,2093
+BS0503,Indiranagar Stop 503,Indiranagar,12.99122,77.61364,2062
+BS0504,Hebbal Stop 504,Hebbal,13.03292,77.55769,1325
+BS0505,Indiranagar Stop 505,Indiranagar,13.01368,77.66232,1893
+BS0506,Indiranagar Stop 506,Indiranagar,13.00307,77.62245,2207
+BS0507,Banashankari Stop 507,Banashankari,12.89669,77.57466,1394
+BS0508,Majestic Stop 508,Majestic,12.97377,77.55058,1023
+BS0509,Electronic City Stop 509,Electronic City,12.82329,77.66358,1697
+BS0510,Koramangala Stop 510,Koramangala,12.91854,77.64353,2673
+BS0511,Whitefield Stop 511,Whitefield,12.98046,77.74088,1857
+BS0512,Koramangala Stop 512,Koramangala,12.93706,77.61720,2184
+BS0513,Jayanagar Stop 513,Jayanagar,12.95625,77.58391,1031
+BS0514,MG Road Stop 514,MG Road,12.99867,77.61568,2338
+BS0515,BTM Layout Stop 515,BTM Layout,12.92081,77.63421,1285
+BS0516,MG Road Stop 516,MG Road,12.98661,77.60654,1449
+BS0517,Electronic City Stop 517,Electronic City,12.86652,77.66980,1577
+BS0518,Hebbal Stop 518,Hebbal,13.04594,77.59562,998
+BS0519,Banashankari Stop 519,Banashankari,12.93112,77.55063,1091
+BS0520,HSR Layout Stop 520,HSR Layout,12.90252,77.64221,1851
+BS0521,Bellandur Stop 521,Bellandur,12.93836,77.68346,811
+BS0522,Bellandur Stop 522,Bellandur,12.93044,77.64148,1510
+BS0523,Banashankari Stop 523,Banashankari,12.93152,77.52613,833
+BS0524,Marathahalli Stop 524,Marathahalli,12.96911,77.69587,1259
+BS0525,HSR Layout Stop 525,HSR Layout,12.91835,77.64946,901
+BS0526,BTM Layout Stop 526,BTM Layout,12.92603,77.61575,1540
+BS0527,Koramangala Stop 527,Koramangala,12.90094,77.61451,1556
+BS0528,Indiranagar Stop 528,Indiranagar,12.96463,77.61480,2492
+BS0529,Majestic Stop 529,Majestic,12.95836,77.56585,2049
+BS0530,MG Road Stop 530,MG Road,12.97404,77.59463,1770
+BS0531,MG Road Stop 531,MG Road,12.96994,77.62129,1734
+BS0532,Koramangala Stop 532,Koramangala,12.91352,77.63200,1265
+BS0533,Bellandur Stop 533,Bellandur,12.92388,77.69374,1631
+BS0534,Jayanagar Stop 534,Jayanagar,12.93952,77.63912,922
+BS0535,Yelahanka Stop 535,Yelahanka,13.11964,77.60327,1152
+BS0536,Majestic Stop 536,Majestic,12.97800,77.58492,1307
+BS0537,Majestic Stop 537,Majestic,12.96490,77.58949,1092
+BS0538,Jayanagar Stop 538,Jayanagar,12.93239,77.61096,1330
+BS0539,Banashankari Stop 539,Banashankari,12.92548,77.52784,1152
+BS0540,Yelahanka Stop 540,Yelahanka,13.10020,77.61366,921
+BS0541,Hebbal Stop 541,Hebbal,13.02194,77.61041,1331
+BS0542,Malleshwaram Stop 542,Malleshwaram,12.97514,77.55173,1433
+BS0543,Jayanagar Stop 543,Jayanagar,12.94336,77.61963,972
+BS0544,Hebbal Stop 544,Hebbal,13.00529,77.58049,931
+BS0545,HSR Layout Stop 545,HSR Layout,12.89923,77.63694,1577
+BS0546,Majestic Stop 546,Majestic,12.98618,77.60585,1334
+BS0547,HSR Layout Stop 547,HSR Layout,12.92962,77.61427,1057
+BS0548,Electronic City Stop 548,Electronic City,12.81869,77.69706,1126
+BS0549,Marathahalli Stop 549,Marathahalli,12.93123,77.70118,1252
+BS0550,Whitefield Stop 550,Whitefield,12.97855,77.76982,1266
+BS0551,BTM Layout Stop 551,BTM Layout,12.92335,77.59387,818
+BS0552,Whitefield Stop 552,Whitefield,12.94417,77.75919,1220
+BS0553,Jayanagar Stop 553,Jayanagar,12.93467,77.57664,1860
+BS0554,HSR Layout Stop 554,HSR Layout,12.93034,77.67688,1185
+BS0555,Majestic Stop 555,Majestic,12.95771,77.60425,869
+BS0556,Jayanagar Stop 556,Jayanagar,12.91909,77.63443,1672
+BS0557,MG Road Stop 557,MG Road,12.94415,77.62665,2605
+BS0558,Jayanagar Stop 558,Jayanagar,12.91195,77.63527,1362
+BS0559,Majestic Stop 559,Majestic,12.96842,77.59048,1551
+BS0560,MG Road Stop 560,MG Road,12.95573,77.61146,2074
+BS0561,Koramangala Stop 561,Koramangala,12.92205,77.64467,879
+BS0562,Marathahalli Stop 562,Marathahalli,12.95530,77.71431,1149
+BS0563,MG Road Stop 563,MG Road,12.96245,77.61936,1566
+BS0564,Banashankari Stop 564,Banashankari,12.92201,77.53187,1575
+BS0565,Indiranagar Stop 565,Indiranagar,12.97285,77.61555,1585
+BS0566,MG Road Stop 566,MG Road,12.97693,77.57716,1276
+BS0567,Whitefield Stop 567,Whitefield,12.97946,77.72709,866
+BS0568,Yelahanka Stop 568,Yelahanka,13.10618,77.54765,555
+BS0569,MG Road Stop 569,MG Road,12.97343,77.62481,1587
+BS0570,Koramangala Stop 570,Koramangala,12.90182,77.64310,906
+BS0571,Koramangala Stop 571,Koramangala,12.94395,77.62330,2310
+BS0572,Yelahanka Stop 572,Yelahanka,13.09317,77.58377,828
+BS0573,Koramangala Stop 573,Koramangala,12.96856,77.64357,1275
+BS0574,HSR Layout Stop 574,HSR Layout,12.86870,77.63853,1829
+BS0575,BTM Layout Stop 575,BTM Layout,12.91089,77.63111,930
+BS0576,Marathahalli Stop 576,Marathahalli,12.98613,77.70793,925
+BS0577,Indiranagar Stop 577,Indiranagar,12.96317,77.63773,1139
+BS0578,Indiranagar Stop 578,Indiranagar,12.99174,77.63803,1429
+BS0579,HSR Layout Stop 579,HSR Layout,12.90168,77.63855,867
+BS0580,Jayanagar Stop 580,Jayanagar,12.91379,77.61286,1777
+BS0581,Indiranagar Stop 581,Indiranagar,12.98911,77.61706,1138
+BS0582,Malleshwaram Stop 582,Malleshwaram,12.98916,77.57809,1497
+BS0583,Indiranagar Stop 583,Indiranagar,12.98137,77.60218,1960
+BS0584,Bellandur Stop 584,Bellandur,12.93513,77.70041,1375
+BS0585,Electronic City Stop 585,Electronic City,12.85193,77.65502,1514
+BS0586,HSR Layout Stop 586,HSR Layout,12.89214,77.66494,2181
+BS0587,Electronic City Stop 587,Electronic City,12.84236,77.68931,1248
+BS0588,Jayanagar Stop 588,Jayanagar,12.93678,77.58081,974
+BS0589,Electronic City Stop 589,Electronic City,12.88212,77.65223,1349
+BS0590,HSR Layout Stop 590,HSR Layout,12.89275,77.63049,1516
+BS0591,Marathahalli Stop 591,Marathahalli,12.92693,77.69625,1365
+BS0592,MG Road Stop 592,MG Road,12.94784,77.60020,2007
+BS0593,Indiranagar Stop 593,Indiranagar,12.97260,77.65062,1306
+BS0594,Electronic City Stop 594,Electronic City,12.83889,77.65296,585
+BS0595,Whitefield Stop 595,Whitefield,12.95513,77.78895,1624
+BS0596,Jayanagar Stop 596,Jayanagar,12.91879,77.58936,1053
+BS0597,Jayanagar Stop 597,Jayanagar,12.95786,77.58854,1816
+BS0598,BTM Layout Stop 598,BTM Layout,12.93090,77.62287,1058
+BS0599,Banashankari Stop 599,Banashankari,12.93910,77.53182,1482
+BS0600,Whitefield Stop 600,Whitefield,12.99199,77.73037,1562
+BS0601,HSR Layout Stop 601,HSR Layout,12.90839,77.63452,1531
+BS0602,Majestic Stop 602,Majestic,12.97671,77.56386,968
+BS0603,Whitefield Stop 603,Whitefield,12.96504,77.74320,1015
+BS0604,Koramangala Stop 604,Koramangala,12.94337,77.60448,2573
+BS0605,Koramangala Stop 605,Koramangala,12.88886,77.62106,1297
+BS0606,Malleshwaram Stop 606,Malleshwaram,12.99909,77.57323,1109
+BS0607,HSR Layout Stop 607,HSR Layout,12.90515,77.67752,948
+BS0608,Marathahalli Stop 608,Marathahalli,12.96345,77.69918,759
+BS0609,Electronic City Stop 609,Electronic City,12.82347,77.66432,1364
+BS0610,Electronic City Stop 610,Electronic City,12.86562,77.66141,885
+BS0611,Indiranagar Stop 611,Indiranagar,12.99433,77.64728,2362
+BS0612,Indiranagar Stop 612,Indiranagar,13.00314,77.65187,920
+BS0613,Hebbal Stop 613,Hebbal,13.03566,77.56648,488
+BS0614,Indiranagar Stop 614,Indiranagar,12.99634,77.63069,1429
+BS0615,Marathahalli Stop 615,Marathahalli,12.98175,77.68910,1833
+BS0616,HSR Layout Stop 616,HSR Layout,12.90118,77.63644,1103
+BS0617,HSR Layout Stop 617,HSR Layout,12.93611,77.62668,1231
+BS0618,Jayanagar Stop 618,Jayanagar,12.93422,77.57651,1628
+BS0619,MG Road Stop 619,MG Road,12.96423,77.62233,2011
+BS0620,Marathahalli Stop 620,Marathahalli,12.96643,77.69296,956
+BS0621,Hebbal Stop 621,Hebbal,13.04892,77.57881,1072
+BS0622,Indiranagar Stop 622,Indiranagar,12.96298,77.65119,1894
+BS0623,Banashankari Stop 623,Banashankari,12.94467,77.54145,578
+BS0624,HSR Layout Stop 624,HSR Layout,12.94066,77.67008,1593
+BS0625,BTM Layout Stop 625,BTM Layout,12.92668,77.62081,1591
+BS0626,Malleshwaram Stop 626,Malleshwaram,13.01068,77.55141,814
+BS0627,Electronic City Stop 627,Electronic City,12.85655,77.63045,1450
+BS0628,Banashankari Stop 628,Banashankari,12.91588,77.55847,1558
+BS0629,Banashankari Stop 629,Banashankari,12.90368,77.51215,531
+BS0630,HSR Layout Stop 630,HSR Layout,12.90965,77.60962,916
+BS0631,Yelahanka Stop 631,Yelahanka,13.09176,77.60447,735
+BS0632,MG Road Stop 632,MG Road,12.97380,77.61195,2403
+BS0633,Whitefield Stop 633,Whitefield,12.96630,77.75049,810
+BS0634,Indiranagar Stop 634,Indiranagar,12.96373,77.61808,2258
+BS0635,Jayanagar Stop 635,Jayanagar,12.92149,77.60465,1325
+BS0636,Marathahalli Stop 636,Marathahalli,12.96950,77.69383,1423
+BS0637,Whitefield Stop 637,Whitefield,12.97599,77.75317,1510
+BS0638,Marathahalli Stop 638,Marathahalli,12.92504,77.68218,1167
+BS0639,Bellandur Stop 639,Bellandur,12.89969,77.67686,698
+BS0640,Majestic Stop 640,Majestic,12.97239,77.56227,1680
+BS0641,Marathahalli Stop 641,Marathahalli,12.92264,77.67290,1124
+BS0642,HSR Layout Stop 642,HSR Layout,12.88553,77.62049,1835
+BS0643,Indiranagar Stop 643,Indiranagar,12.96660,77.62589,2120
+BS0644,Jayanagar Stop 644,Jayanagar,12.91328,77.57213,1764
+BS0645,Electronic City Stop 645,Electronic City,12.85726,77.68611,875
+BS0646,HSR Layout Stop 646,HSR Layout,12.90286,77.65194,687
+BS0647,Jayanagar Stop 647,Jayanagar,12.94228,77.62571,1562
+BS0648,Indiranagar Stop 648,Indiranagar,13.00375,77.62169,2446
+BS0649,Malleshwaram Stop 649,Malleshwaram,13.00260,77.57898,1523
+BS0650,Hebbal Stop 650,Hebbal,13.02183,77.59138,1016
+BS0651,HSR Layout Stop 651,HSR Layout,12.89408,77.70604,1256
+BS0652,BTM Layout Stop 652,BTM Layout,12.91369,77.62205,1464
+BS0653,Malleshwaram Stop 653,Malleshwaram,13.01374,77.54343,1050
+BS0654,MG Road Stop 654,MG Road,12.96276,77.60689,1811
+BS0655,Yelahanka Stop 655,Yelahanka,13.08287,77.57978,1268
+BS0656,Whitefield Stop 656,Whitefield,12.97630,77.72239,1154
+BS0657,Whitefield Stop 657,Whitefield,12.97385,77.78253,2128
+BS0658,Electronic City Stop 658,Electronic City,12.84378,77.66300,823
+BS0659,MG Road Stop 659,MG Road,12.94881,77.60596,2717
+BS0660,Whitefield Stop 660,Whitefield,12.99944,77.76076,1786
+BS0661,Banashankari Stop 661,Banashankari,12.90300,77.58025,1440
+BS0662,Majestic Stop 662,Majestic,12.97620,77.57477,979
+BS0663,Majestic Stop 663,Majestic,12.94732,77.59169,755
+BS0664,MG Road Stop 664,MG Road,12.98721,77.57860,1033
+BS0665,Jayanagar Stop 665,Jayanagar,12.90930,77.57135,1154
+BS0666,Majestic Stop 666,Majestic,12.97738,77.57948,1176
+BS0667,Majestic Stop 667,Majestic,12.96558,77.58537,2373
+BS0668,MG Road Stop 668,MG Road,12.98107,77.61564,1455
+BS0669,Indiranagar Stop 669,Indiranagar,12.98748,77.64802,2277
+BS0670,Banashankari Stop 670,Banashankari,12.90192,77.52776,1350
+BS0671,Whitefield Stop 671,Whitefield,12.98952,77.75409,1252
+BS0672,Malleshwaram Stop 672,Malleshwaram,13.01364,77.57827,893
+BS0673,Whitefield Stop 673,Whitefield,12.96118,77.76759,1855
+BS0674,Malleshwaram Stop 674,Malleshwaram,13.01835,77.58587,1411
+BS0675,HSR Layout Stop 675,HSR Layout,12.92142,77.65439,989
+BS0676,Marathahalli Stop 676,Marathahalli,12.93038,77.68625,1311
+BS0677,Banashankari Stop 677,Banashankari,12.90492,77.59171,598
+BS0678,HSR Layout Stop 678,HSR Layout,12.90530,77.65239,1144
+BS0679,Whitefield Stop 679,Whitefield,12.97212,77.74869,895
+BS0680,Jayanagar Stop 680,Jayanagar,12.94003,77.56094,1328
+BS0681,Marathahalli Stop 681,Marathahalli,12.93652,77.70811,1600
+BS0682,Jayanagar Stop 682,Jayanagar,12.93511,77.57895,1696
+BS0683,Koramangala Stop 683,Koramangala,12.93772,77.61606,1959
+BS0684,MG Road Stop 684,MG Road,12.98815,77.66147,1967
+BS0685,Marathahalli Stop 685,Marathahalli,12.93657,77.72068,1360
+BS0686,Indiranagar Stop 686,Indiranagar,12.97153,77.67393,1842
+BS0687,Hebbal Stop 687,Hebbal,13.03489,77.59701,1226
+BS0688,Koramangala Stop 688,Koramangala,12.88994,77.61825,1283
+BS0689,Yelahanka Stop 689,Yelahanka,13.11180,77.58165,1027
+BS0690,Hebbal Stop 690,Hebbal,13.04926,77.57712,1022
+BS0691,MG Road Stop 691,MG Road,12.99871,77.61790,962
+BS0692,BTM Layout Stop 692,BTM Layout,12.91375,77.61012,1510
+BS0693,Majestic Stop 693,Majestic,12.96521,77.57254,762
+BS0694,Koramangala Stop 694,Koramangala,12.92077,77.64760,1439
+BS0695,Whitefield Stop 695,Whitefield,12.94649,77.75052,1512
+BS0696,BTM Layout Stop 696,BTM Layout,12.90433,77.60776,928
+BS0697,MG Road Stop 697,MG Road,13.00728,77.60462,1911
+BS0698,Koramangala Stop 698,Koramangala,12.93706,77.62705,1624
+BS0699,Jayanagar Stop 699,Jayanagar,12.91536,77.61215,2090
+BS0700,HSR Layout Stop 700,HSR Layout,12.91221,77.65930,1131
+BS0701,BTM Layout Stop 701,BTM Layout,12.90589,77.58912,859
+BS0702,Majestic Stop 702,Majestic,12.96721,77.60302,1069
+BS0703,HSR Layout Stop 703,HSR Layout,12.91645,77.69968,1308
+BS0704,Bellandur Stop 704,Bellandur,12.94268,77.68670,1752
+BS0705,HSR Layout Stop 705,HSR Layout,12.92863,77.64568,1095
+BS0706,Malleshwaram Stop 706,Malleshwaram,13.01930,77.58885,1118
+BS0707,BTM Layout Stop 707,BTM Layout,12.93173,77.60540,1007
+BS0708,HSR Layout Stop 708,HSR Layout,12.91129,77.63449,1685
+BS0709,Majestic Stop 709,Majestic,12.95747,77.60074,802
+BS0710,Indiranagar Stop 710,Indiranagar,12.99087,77.65171,1639
+BS0711,Indiranagar Stop 711,Indiranagar,12.97763,77.63671,2065
+BS0712,Marathahalli Stop 712,Marathahalli,12.94619,77.67621,1050
+BS0713,Majestic Stop 713,Majestic,12.98123,77.55302,1730
+BS0714,Koramangala Stop 714,Koramangala,12.94019,77.61542,998
+BS0715,Electronic City Stop 715,Electronic City,12.86600,77.61904,1115
+BS0716,Marathahalli Stop 716,Marathahalli,12.99019,77.71827,1991
+BS0717,BTM Layout Stop 717,BTM Layout,12.91720,77.62593,1841
+BS0718,HSR Layout Stop 718,HSR Layout,12.93918,77.64573,1821
+BS0719,Bellandur Stop 719,Bellandur,12.93350,77.69335,1000
+BS0720,Marathahalli Stop 720,Marathahalli,12.93931,77.69085,670
+BS0721,HSR Layout Stop 721,HSR Layout,12.94425,77.64900,1946
+BS0722,Yelahanka Stop 722,Yelahanka,13.11119,77.61895,630
+BS0723,Yelahanka Stop 723,Yelahanka,13.07376,77.59241,750
+BS0724,Indiranagar Stop 724,Indiranagar,12.97633,77.65254,1976
+BS0725,HSR Layout Stop 725,HSR Layout,12.91202,77.64773,1196
+BS0726,Indiranagar Stop 726,Indiranagar,13.02165,77.66637,1970
+BS0727,Marathahalli Stop 727,Marathahalli,12.95912,77.67139,1777
+BS0728,Koramangala Stop 728,Koramangala,12.94717,77.63812,2095
+BS0729,MG Road Stop 729,MG Road,12.94204,77.60322,2685
+BS0730,BTM Layout Stop 730,BTM Layout,12.91356,77.60231,1632
+BS0731,Whitefield Stop 731,Whitefield,12.97817,77.76263,897
+BS0732,BTM Layout Stop 732,BTM Layout,12.91369,77.59781,1300
+BS0733,MG Road Stop 733,MG Road,12.95975,77.58850,1969
+BS0734,BTM Layout Stop 734,BTM Layout,12.93265,77.56426,1652
+BS0735,HSR Layout Stop 735,HSR Layout,12.92200,77.64444,1431
+BS0736,Whitefield Stop 736,Whitefield,12.98237,77.74474,1887
+BS0737,Malleshwaram Stop 737,Malleshwaram,12.98739,77.58697,615
+BS0738,Indiranagar Stop 738,Indiranagar,13.02120,77.66039,1601
+BS0739,Koramangala Stop 739,Koramangala,12.92480,77.62165,1276
+BS0740,Whitefield Stop 740,Whitefield,12.99575,77.76551,2047
+BS0741,Malleshwaram Stop 741,Malleshwaram,12.96555,77.58111,1353
+BS0742,HSR Layout Stop 742,HSR Layout,12.88199,77.65683,1760
+BS0743,Majestic Stop 743,Majestic,12.98881,77.55067,1100
+BS0744,Majestic Stop 744,Majestic,12.98478,77.54256,1542
+BS0745,MG Road Stop 745,MG Road,12.97814,77.64837,2786
+BS0746,Indiranagar Stop 746,Indiranagar,12.99315,77.68148,942
+BS0747,BTM Layout Stop 747,BTM Layout,12.92448,77.61581,1771
+BS0748,HSR Layout Stop 748,HSR Layout,12.93473,77.67811,2146
+BS0749,Koramangala Stop 749,Koramangala,12.89863,77.59314,1270
+BS0750,Whitefield Stop 750,Whitefield,12.99438,77.73002,1926
+BS0751,Hebbal Stop 751,Hebbal,13.01825,77.60816,1366
+BS0752,Koramangala Stop 752,Koramangala,12.93417,77.63536,1635
+BS0753,Koramangala Stop 753,Koramangala,12.94831,77.60957,1476
+BS0754,Majestic Stop 754,Majestic,12.96730,77.55335,843
+BS0755,Bellandur Stop 755,Bellandur,12.91217,77.66271,1349
+BS0756,Hebbal Stop 756,Hebbal,13.01943,77.59501,1360
+BS0757,MG Road Stop 757,MG Road,12.98497,77.61369,1554
+BS0758,Electronic City Stop 758,Electronic City,12.86791,77.63977,778
+BS0759,Whitefield Stop 759,Whitefield,12.94902,77.73528,1079
+BS0760,Majestic Stop 760,Majestic,12.97459,77.57492,988
+BS0761,Indiranagar Stop 761,Indiranagar,12.95890,77.66081,1241
+BS0762,Marathahalli Stop 762,Marathahalli,12.94578,77.71745,1917
+BS0763,Jayanagar Stop 763,Jayanagar,12.92999,77.59964,891
+BS0764,Indiranagar Stop 764,Indiranagar,12.98209,77.62767,1658
+BS0765,Yelahanka Stop 765,Yelahanka,13.09757,77.57570,688
+BS0766,Hebbal Stop 766,Hebbal,13.01547,77.63147,850
+BS0767,Koramangala Stop 767,Koramangala,12.95567,77.59531,2064
+BS0768,BTM Layout Stop 768,BTM Layout,12.92810,77.63335,1772
+BS0769,BTM Layout Stop 769,BTM Layout,12.90831,77.58135,1042
+BS0770,Jayanagar Stop 770,Jayanagar,12.92909,77.60060,1898
+BS0771,Koramangala Stop 771,Koramangala,12.92013,77.62946,1890
+BS0772,MG Road Stop 772,MG Road,12.99532,77.61108,1442
+BS0773,Hebbal Stop 773,Hebbal,13.04085,77.59760,565
+BS0774,Malleshwaram Stop 774,Malleshwaram,12.97053,77.53867,928
+BS0775,Jayanagar Stop 775,Jayanagar,12.93817,77.59478,2026
+BS0776,Bellandur Stop 776,Bellandur,12.92212,77.67436,1521
+BS0777,HSR Layout Stop 777,HSR Layout,12.87662,77.65159,667
+BS0778,HSR Layout Stop 778,HSR Layout,12.89048,77.66563,1052
+BS0779,Bellandur Stop 779,Bellandur,12.93903,77.67734,1296
+BS0780,BTM Layout Stop 780,BTM Layout,12.89601,77.59127,1753
+BS0781,HSR Layout Stop 781,HSR Layout,12.87182,77.64844,1485
+BS0782,Majestic Stop 782,Majestic,12.94078,77.53352,1453
+BS0783,Marathahalli Stop 783,Marathahalli,12.93887,77.70703,1185
+BS0784,Hebbal Stop 784,Hebbal,13.03223,77.61737,1060
+BS0785,Bellandur Stop 785,Bellandur,12.95595,77.68515,967
+BS0786,HSR Layout Stop 786,HSR Layout,12.90721,77.64019,1132
+BS0787,HSR Layout Stop 787,HSR Layout,12.87411,77.62251,1397
+BS0788,Koramangala Stop 788,Koramangala,12.93547,77.62406,1946
+BS0789,Banashankari Stop 789,Banashankari,12.90751,77.54727,1155
+BS0790,Banashankari Stop 790,Banashankari,12.90427,77.54977,1356
+BS0791,MG Road Stop 791,MG Road,12.99764,77.63279,1442
+BS0792,Jayanagar Stop 792,Jayanagar,12.91227,77.57589,1402
+BS0793,Majestic Stop 793,Majestic,12.98409,77.57355,2181
+BS0794,HSR Layout Stop 794,HSR Layout,12.93845,77.62890,882
+BS0795,Majestic Stop 795,Majestic,12.98976,77.57477,1895
+BS0796,Whitefield Stop 796,Whitefield,12.97204,77.72913,1248
+BS0797,Whitefield Stop 797,Whitefield,12.98325,77.76669,1116
+BS0798,Electronic City Stop 798,Electronic City,12.84695,77.67764,769
+BS0799,HSR Layout Stop 799,HSR Layout,12.90687,77.63161,890
+BS0800,Majestic Stop 800,Majestic,12.98337,77.61268,787
+BS0801,Majestic Stop 801,Majestic,12.96727,77.59267,1957
+BS0802,Koramangala Stop 802,Koramangala,12.94561,77.64283,2613
+BS0803,Whitefield Stop 803,Whitefield,12.99630,77.74534,2032
+BS0804,Whitefield Stop 804,Whitefield,12.95347,77.71243,1172
+BS0805,Banashankari Stop 805,Banashankari,12.93511,77.55633,915
+BS0806,Yelahanka Stop 806,Yelahanka,13.11101,77.60748,981
+BS0807,BTM Layout Stop 807,BTM Layout,12.90209,77.63982,1313
+BS0808,BTM Layout Stop 808,BTM Layout,12.94070,77.56825,1752
+BS0809,Koramangala Stop 809,Koramangala,12.91619,77.60807,990
+BS0810,Majestic Stop 810,Majestic,12.99854,77.56534,1417
+BS0811,Koramangala Stop 811,Koramangala,12.93752,77.64380,1348
+BS0812,Koramangala Stop 812,Koramangala,12.93670,77.63030,2129
+BS0813,Jayanagar Stop 813,Jayanagar,12.93397,77.58562,759
+BS0814,Malleshwaram Stop 814,Malleshwaram,12.98381,77.57765,908
+BS0815,Banashankari Stop 815,Banashankari,12.94796,77.54220,1120
+BS0816,Bellandur Stop 816,Bellandur,12.93497,77.64788,805
+BS0817,Jayanagar Stop 817,Jayanagar,12.95154,77.56904,1297
+BS0818,Marathahalli Stop 818,Marathahalli,12.95902,77.69653,1341
+BS0819,Bellandur Stop 819,Bellandur,12.92109,77.69777,1510
+BS0820,Marathahalli Stop 820,Marathahalli,12.95235,77.69171,1008
+BS0821,Electronic City Stop 821,Electronic City,12.86694,77.68108,1233
+BS0822,BTM Layout Stop 822,BTM Layout,12.91243,77.60934,1130
+BS0823,Majestic Stop 823,Majestic,12.97840,77.60012,2494
+BS0824,Malleshwaram Stop 824,Malleshwaram,13.00831,77.56280,1365
+BS0825,HSR Layout Stop 825,HSR Layout,12.93159,77.62957,771
+BS0826,Malleshwaram Stop 826,Malleshwaram,13.01496,77.51980,1180
+BS0827,Bellandur Stop 827,Bellandur,12.91359,77.68889,873
+BS0828,Koramangala Stop 828,Koramangala,12.91174,77.63843,1937
+BS0829,Koramangala Stop 829,Koramangala,12.92653,77.60994,1865
+BS0830,Yelahanka Stop 830,Yelahanka,13.11685,77.62518,1034
+BS0831,Koramangala Stop 831,Koramangala,12.92567,77.60757,1589
+BS0832,Jayanagar Stop 832,Jayanagar,12.92125,77.60747,2085
+BS0833,BTM Layout Stop 833,BTM Layout,12.91824,77.58027,867
+BS0834,BTM Layout Stop 834,BTM Layout,12.90205,77.62413,1343
+BS0835,Whitefield Stop 835,Whitefield,12.92107,77.80308,1303
+BS0836,Whitefield Stop 836,Whitefield,12.97577,77.72881,1359
+BS0837,MG Road Stop 837,MG Road,13.01013,77.58365,1489
+BS0838,Majestic Stop 838,Majestic,12.97202,77.58815,1636
+BS0839,Koramangala Stop 839,Koramangala,12.90879,77.59574,2275
+BS0840,Hebbal Stop 840,Hebbal,13.06494,77.61775,864
+BS0841,Marathahalli Stop 841,Marathahalli,12.96212,77.67692,1099
+BS0842,BTM Layout Stop 842,BTM Layout,12.91731,77.58976,1112
+BS0843,Bellandur Stop 843,Bellandur,12.92340,77.68055,983
+BS0844,Whitefield Stop 844,Whitefield,12.99982,77.73500,1698
+BS0845,Jayanagar Stop 845,Jayanagar,12.95124,77.60358,1471
+BS0846,Koramangala Stop 846,Koramangala,12.92755,77.61902,2274
+BS0847,MG Road Stop 847,MG Road,12.94203,77.60414,1617
+BS0848,Hebbal Stop 848,Hebbal,13.05685,77.59926,1361
+BS0849,MG Road Stop 849,MG Road,12.97204,77.58126,1095
+BS0850,Koramangala Stop 850,Koramangala,12.93148,77.61368,1520
+BS0851,Banashankari Stop 851,Banashankari,12.92575,77.53104,1455
+BS0852,Yelahanka Stop 852,Yelahanka,13.08891,77.60528,314
+BS0853,BTM Layout Stop 853,BTM Layout,12.92958,77.61526,835
+BS0854,Majestic Stop 854,Majestic,12.98095,77.58175,931
+BS0855,Majestic Stop 855,Majestic,12.98027,77.57730,1853
+BS0856,Indiranagar Stop 856,Indiranagar,13.00177,77.63909,1384
+BS0857,BTM Layout Stop 857,BTM Layout,12.93669,77.62107,671
+BS0858,Majestic Stop 858,Majestic,12.99028,77.54735,2063
+BS0859,Indiranagar Stop 859,Indiranagar,13.03192,77.64358,1537
+BS0860,Koramangala Stop 860,Koramangala,12.91286,77.63685,1199
+BS0861,Whitefield Stop 861,Whitefield,12.97097,77.76500,1069
+BS0862,Hebbal Stop 862,Hebbal,13.01033,77.60604,753
+BS0863,Whitefield Stop 863,Whitefield,12.97699,77.75906,1173
+BS0864,Indiranagar Stop 864,Indiranagar,12.96709,77.61020,1827
+BS0865,Koramangala Stop 865,Koramangala,12.91135,77.60313,2221
+BS0866,Jayanagar Stop 866,Jayanagar,12.94603,77.61260,943
+BS0867,Malleshwaram Stop 867,Malleshwaram,13.00772,77.54662,1519
+BS0868,BTM Layout Stop 868,BTM Layout,12.92607,77.63868,1815
+BS0869,Electronic City Stop 869,Electronic City,12.81633,77.63683,900
+BS0870,Hebbal Stop 870,Hebbal,13.06721,77.59293,973
+BS0871,HSR Layout Stop 871,HSR Layout,12.90542,77.65387,1673
+BS0872,Bellandur Stop 872,Bellandur,12.92264,77.68198,1332
+BS0873,Electronic City Stop 873,Electronic City,12.86994,77.67412,1218
+BS0874,Jayanagar Stop 874,Jayanagar,12.91084,77.59396,1398
+BS0875,Electronic City Stop 875,Electronic City,12.85670,77.65995,1391
+BS0876,Whitefield Stop 876,Whitefield,13.01443,77.73217,1533
+BS0877,HSR Layout Stop 877,HSR Layout,12.89637,77.65737,1140
+BS0878,Indiranagar Stop 878,Indiranagar,12.95085,77.63602,2337
+BS0879,BTM Layout Stop 879,BTM Layout,12.94650,77.60103,999
+BS0880,Indiranagar Stop 880,Indiranagar,12.96117,77.65575,1154
+BS0881,Majestic Stop 881,Majestic,12.98284,77.57868,2072
+BS0882,HSR Layout Stop 882,HSR Layout,12.93032,77.63099,1763
+BS0883,Whitefield Stop 883,Whitefield,12.93689,77.74738,1778
+BS0884,Electronic City Stop 884,Electronic City,12.85479,77.65560,1114
+BS0885,MG Road Stop 885,MG Road,13.01932,77.59293,2458
+BS0886,Indiranagar Stop 886,Indiranagar,12.96426,77.63161,1217
+BS0887,Jayanagar Stop 887,Jayanagar,12.93999,77.60051,768
+BS0888,Banashankari Stop 888,Banashankari,12.90904,77.51614,1458
+BS0889,Banashankari Stop 889,Banashankari,12.92404,77.55928,1385
+BS0890,Whitefield Stop 890,Whitefield,12.93925,77.73801,834
+BS0891,Koramangala Stop 891,Koramangala,12.94606,77.63190,1831
+BS0892,Whitefield Stop 892,Whitefield,12.97883,77.73338,1625
+BS0893,HSR Layout Stop 893,HSR Layout,12.86679,77.62199,920
+BS0894,BTM Layout Stop 894,BTM Layout,12.92094,77.62624,1973
+BS0895,HSR Layout Stop 895,HSR Layout,12.91575,77.64082,1287
+BS0896,Whitefield Stop 896,Whitefield,12.93642,77.77298,1395
+BS0897,Koramangala Stop 897,Koramangala,12.90136,77.60181,2478
+BS0898,Banashankari Stop 898,Banashankari,12.90791,77.50939,1304
+BS0899,Electronic City Stop 899,Electronic City,12.84282,77.64275,1554
+BS0900,Koramangala Stop 900,Koramangala,12.94550,77.60858,1208

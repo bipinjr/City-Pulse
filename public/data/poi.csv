@@ -1,0 +1,1801 @@
+poi_id,name,category,area,lat,lng,rating
+P1,Indiranagar Business Bay 12,Tech Park,Indiranagar,12.97783,77.65207,3.7
+P2,MG Road Business Bay 39,Tech Park,MG Road,12.98222,77.61638,3.5
+P3,Hebbal Clinic 25,Hospital,Hebbal,13.05958,77.59047,3.2
+P4,Malleshwaram College 30,College,Malleshwaram,12.99660,77.58818,5.0
+P5,Majestic IT Campus 25,Tech Park,Majestic,12.96641,77.57388,3.9
+P6,Indiranagar Brew 7,Cafe,Indiranagar,12.97532,77.66062,4.1
+P7,HSR Layout Bar 27,Pub,HSR Layout,12.88920,77.65732,4.8
+P8,Banashankari Garden 2,Park,Banashankari,12.93389,77.53978,3.6
+P9,Jayanagar Park 3,Park,Jayanagar,12.92198,77.59061,3.4
+P10,Jayanagar Clinic 20,Hospital,Jayanagar,12.92277,77.59837,4.5
+P11,Marathahalli Taproom 13,Pub,Marathahalli,12.94016,77.69801,4.1
+P12,Marathahalli Garden 15,Park,Marathahalli,12.95500,77.68987,4.2
+P13,Hebbal Filter Coffee 17,Cafe,Hebbal,13.03864,77.59641,3.2
+P14,Electronic City Meals 6,Restaurant,Electronic City,12.82718,77.66460,3.6
+P15,Koramangala Arcade 36,Mall,Koramangala,12.89989,77.61813,4.2
+P16,Koramangala Institute 14,College,Koramangala,12.93494,77.63214,3.7
+P17,Whitefield Business Bay 2,Tech Park,Whitefield,12.97048,77.76615,3.7
+P18,Koramangala Brew 26,Cafe,Koramangala,12.92324,77.63277,4.3
+P19,MG Road IT Campus 11,Tech Park,MG Road,12.96607,77.60306,5.0
+P20,Bellandur College 3,College,Bellandur,12.95041,77.68396,3.1
+P21,Whitefield Business Bay 1,Tech Park,Whitefield,12.96063,77.75555,3.2
+P22,Malleshwaram Lake View 39,Park,Malleshwaram,12.99186,77.58081,4.6
+P23,BTM Layout Garden 23,Park,BTM Layout,12.90042,77.60697,3.1
+P24,Marathahalli Filter Coffee 7,Cafe,Marathahalli,12.96322,77.70691,4.2
+P25,Indiranagar Brewpub 28,Pub,Indiranagar,12.96622,77.63666,3.6
+P26,BTM Layout Academy 7,College,BTM Layout,12.93854,77.60820,4.3
+P27,MG Road Bar 16,Pub,MG Road,12.98101,77.61992,3.7
+P28,Whitefield Biryani House 29,Restaurant,Whitefield,12.97100,77.74616,5.0
+P29,Malleshwaram Health Centre 33,Hospital,Malleshwaram,13.00717,77.57067,3.1
+P30,Banashankari Academy 40,College,Banashankari,12.93689,77.55309,4.4
+P31,Indiranagar College 28,College,Indiranagar,12.98549,77.63936,3.4
+P32,Malleshwaram Academy 25,College,Malleshwaram,12.99657,77.56247,3.7
+P33,Koramangala Mall 22,Mall,Koramangala,12.93880,77.61565,4.3
+P34,Hebbal Health Centre 7,Hospital,Hebbal,13.03747,77.61441,3.1
+P35,Koramangala Taproom 27,Pub,Koramangala,12.92207,77.60836,3.8
+P36,Indiranagar Brewpub 30,Pub,Indiranagar,12.98966,77.65301,4.4
+P37,Majestic Brew 40,Cafe,Majestic,12.97646,77.55351,4.7
+P38,Majestic Meals 9,Restaurant,Majestic,12.96723,77.54705,3.1
+P39,Whitefield Plaza 3,Mall,Whitefield,12.97192,77.74690,3.5
+P40,Malleshwaram Lake View 24,Park,Malleshwaram,13.00091,77.56642,4.4
+P41,Malleshwaram Garden 17,Park,Malleshwaram,12.99388,77.56196,4.8
+P42,Majestic Brewpub 15,Pub,Majestic,12.96761,77.55102,3.8
+P43,Indiranagar Dosa Corner 4,Restaurant,Indiranagar,12.97274,77.61522,4.0
+P44,Malleshwaram Garden 5,Park,Malleshwaram,12.99650,77.54748,4.8
+P45,Marathahalli Taproom 39,Pub,Marathahalli,12.93236,77.70204,4.8
+P46,Whitefield Institute 26,College,Whitefield,12.97819,77.74566,3.5
+P47,BTM Layout IT Campus 36,Tech Park,BTM Layout,12.92025,77.59077,4.1
+P48,Indiranagar Filter Coffee 24,Cafe,Indiranagar,12.98408,77.61961,4.9
+P49,Hebbal Institute 31,College,Hebbal,13.03723,77.59482,4.8
+P50,HSR Layout Dosa Corner 35,Restaurant,HSR Layout,12.92576,77.64937,4.5
+P51,BTM Layout Bar 5,Pub,BTM Layout,12.91983,77.61557,3.5
+P52,Jayanagar Tech Park 6,Tech Park,Jayanagar,12.95161,77.61583,3.9
+P53,Malleshwaram College 23,College,Malleshwaram,12.98843,77.56625,4.5
+P54,HSR Layout Arcade 10,Mall,HSR Layout,12.92171,77.64977,4.5
+P55,Hebbal Meals 16,Restaurant,Hebbal,13.03441,77.57963,4.5
+P56,Yelahanka Dosa Corner 30,Restaurant,Yelahanka,13.09727,77.59478,4.7
+P57,HSR Layout Hospital 2,Hospital,HSR Layout,12.92208,77.64236,3.5
+P58,Koramangala Garden 31,Park,Koramangala,12.95769,77.61650,4.3
+P59,Koramangala Park 4,Park,Koramangala,12.94411,77.62418,3.0
+P60,Whitefield Institute 30,College,Whitefield,12.96634,77.73611,3.1
+P61,Bellandur Hospital 22,Hospital,Bellandur,12.93410,77.68341,4.0
+P62,HSR Layout Brew 20,Cafe,HSR Layout,12.92525,77.65084,5.0
+P63,MG Road Plaza 4,Mall,MG Road,12.98035,77.61261,3.7
+P64,Jayanagar Park 27,Park,Jayanagar,12.92649,77.58325,4.3
+P65,Bellandur Business Bay 10,Tech Park,Bellandur,12.94421,77.66060,4.0
+P66,Koramangala Dosa Corner 20,Restaurant,Koramangala,12.91826,77.60963,4.5
+P67,Hebbal Filter Coffee 25,Cafe,Hebbal,13.02583,77.58942,4.0
+P68,Marathahalli Brew 17,Cafe,Marathahalli,12.93766,77.67612,4.6
+P69,Marathahalli Brewpub 4,Pub,Marathahalli,12.96377,77.68025,4.9
+P70,Banashankari Hospital 27,Hospital,Banashankari,12.93325,77.55140,3.5
+P71,Koramangala Lake View 1,Park,Koramangala,12.92621,77.62102,4.1
+P72,BTM Layout IT Campus 27,Tech Park,BTM Layout,12.90064,77.61111,4.7
+P73,Koramangala Lake View 6,Park,Koramangala,12.93857,77.61560,4.0
+P74,Whitefield Institute 1,College,Whitefield,12.97238,77.74149,4.8
+P75,BTM Layout Brewpub 39,Pub,BTM Layout,12.90062,77.61166,3.5
+P76,BTM Layout Filter Coffee 24,Cafe,BTM Layout,12.91922,77.59470,3.7
+P77,Majestic Arcade 39,Mall,Majestic,12.98417,77.59883,3.9
+P78,Jayanagar Filter Coffee 16,Cafe,Jayanagar,12.91960,77.62238,3.2
+P79,BTM Layout Filter Coffee 14,Cafe,BTM Layout,12.90259,77.59513,3.3
+P80,Bellandur Academy 1,College,Bellandur,12.94566,77.67566,3.4
+P81,Jayanagar Garden 36,Park,Jayanagar,12.91734,77.61446,5.0
+P82,MG Road Park 12,Park,MG Road,12.98906,77.61225,4.1
+P83,Marathahalli Brew 37,Cafe,Marathahalli,12.94726,77.69766,3.4
+P84,Electronic City IT Campus 14,Tech Park,Electronic City,12.84886,77.65676,4.6
+P85,MG Road Arcade 6,Mall,MG Road,12.97100,77.60823,3.3
+P86,Majestic Darshini 21,Cafe,Majestic,12.98510,77.55022,3.7
+P87,Electronic City IT Campus 9,Tech Park,Electronic City,12.82915,77.67737,3.1
+P88,HSR Layout Lake View 11,Park,HSR Layout,12.90658,77.65737,4.5
+P89,HSR Layout Plaza 35,Mall,HSR Layout,12.91449,77.67727,3.5
+P90,Whitefield Park 12,Park,Whitefield,12.97343,77.75913,3.8
+P91,Electronic City Tech Park 36,Tech Park,Electronic City,12.82495,77.66638,4.6
+P92,Bellandur Darshini 29,Cafe,Bellandur,12.92113,77.66695,4.6
+P93,Malleshwaram Darshini 27,Cafe,Malleshwaram,13.00109,77.57164,4.9
+P94,Jayanagar Health Centre 27,Hospital,Jayanagar,12.92217,77.59855,4.5
+P95,Whitefield Mall 14,Mall,Whitefield,12.95875,77.73336,4.6
+P96,Marathahalli Health Centre 2,Hospital,Marathahalli,12.95795,77.68319,4.9
+P97,HSR Layout Brew 10,Cafe,HSR Layout,12.92749,77.66351,4.9
+P98,Yelahanka Mall 35,Mall,Yelahanka,13.09509,77.62517,3.7
+P99,Whitefield Tech Park 10,Tech Park,Whitefield,12.96497,77.75290,4.2
+P100,Malleshwaram Arcade 36,Mall,Malleshwaram,13.02725,77.58987,4.6
+P101,Bellandur Bar 33,Pub,Bellandur,12.93783,77.69480,3.7
+P102,Banashankari Hospital 8,Hospital,Banashankari,12.91188,77.54449,4.2
+P103,Majestic Tech Park 16,Tech Park,Majestic,12.96062,77.58937,3.4
+P104,Bellandur Biryani House 35,Restaurant,Bellandur,12.95153,77.66997,3.8
+P105,MG Road Business Bay 3,Tech Park,MG Road,12.99312,77.60146,3.5
+P106,MG Road Meals 35,Restaurant,MG Road,12.99367,77.61192,3.3
+P107,Jayanagar Filter Coffee 14,Cafe,Jayanagar,12.91783,77.57476,4.6
+P108,HSR Layout Lake View 21,Park,HSR Layout,12.90419,77.62661,4.6
+P109,Banashankari Dosa Corner 31,Restaurant,Banashankari,12.90922,77.52679,3.6
+P110,Bellandur Filter Coffee 8,Cafe,Bellandur,12.92432,77.68329,4.2
+P111,MG Road Meals 20,Restaurant,MG Road,12.98767,77.61628,4.0
+P112,Majestic Mall 15,Mall,Majestic,12.98299,77.58432,4.6
+P113,Whitefield Business Bay 8,Tech Park,Whitefield,12.95652,77.73473,4.3
+P114,MG Road Biryani House 9,Restaurant,MG Road,12.97622,77.59376,3.4
+P115,Majestic Business Bay 23,Tech Park,Majestic,12.96269,77.56121,3.9
+P116,Koramangala Hospital 13,Hospital,Koramangala,12.94552,77.62365,4.8
+P117,Banashankari Bar 7,Pub,Banashankari,12.91197,77.54990,5.0
+P118,Malleshwaram Brewpub 6,Pub,Malleshwaram,12.99740,77.55591,3.3
+P119,Koramangala Meals 2,Restaurant,Koramangala,12.94760,77.62479,3.8
+P120,Hebbal Brewpub 3,Pub,Hebbal,13.03767,77.59354,3.5
+P121,MG Road Brew 32,Cafe,MG Road,12.94692,77.59463,4.8
+P122,Marathahalli Hospital 22,Hospital,Marathahalli,12.99163,77.68918,3.4
+P123,BTM Layout Filter Coffee 15,Cafe,BTM Layout,12.91234,77.62191,4.5
+P124,Majestic College 11,College,Majestic,12.98918,77.57424,4.6
+P125,BTM Layout College 25,College,BTM Layout,12.92088,77.60764,3.6
+P126,Whitefield Bar 12,Pub,Whitefield,12.98957,77.74992,4.3
+P127,Koramangala Taproom 23,Pub,Koramangala,12.92765,77.63207,4.2
+P128,Majestic Health Centre 14,Hospital,Majestic,12.98210,77.55361,4.4
+P129,Yelahanka Academy 36,College,Yelahanka,13.10837,77.58824,4.8
+P130,BTM Layout Brew 19,Cafe,BTM Layout,12.90156,77.63371,3.7
+P131,HSR Layout Mall 40,Mall,HSR Layout,12.87928,77.66382,4.7
+P132,Majestic Business Bay 31,Tech Park,Majestic,12.99125,77.56617,3.2
+P133,Jayanagar Bar 16,Pub,Jayanagar,12.92042,77.59385,4.7
+P134,Hebbal Plaza 1,Mall,Hebbal,13.04760,77.59311,4.0
+P135,Jayanagar Hospital 3,Hospital,Jayanagar,12.92566,77.58290,3.9
+P136,BTM Layout Garden 2,Park,BTM Layout,12.93358,77.60489,3.5
+P137,Koramangala Institute 38,College,Koramangala,12.93403,77.63230,3.7
+P138,Bellandur Bar 9,Pub,Bellandur,12.92509,77.68881,3.2
+P139,Marathahalli Darshini 2,Cafe,Marathahalli,12.94683,77.70508,3.5
+P140,Koramangala Health Centre 32,Hospital,Koramangala,12.92784,77.63005,4.7
+P141,Jayanagar Bar 37,Pub,Jayanagar,12.91046,77.58932,3.5
+P142,Malleshwaram Clinic 13,Hospital,Malleshwaram,13.01921,77.56969,4.9
+P143,Koramangala Park 23,Park,Koramangala,12.96599,77.62761,4.8
+P144,Marathahalli Clinic 34,Hospital,Marathahalli,12.95216,77.67010,3.8
+P145,Malleshwaram Hospital 37,Hospital,Malleshwaram,12.99783,77.57974,3.9
+P146,MG Road Lake View 19,Park,MG Road,12.98354,77.60028,3.1
+P147,Whitefield Hospital 25,Hospital,Whitefield,12.95614,77.75290,4.5
+P148,Marathahalli Health Centre 33,Hospital,Marathahalli,12.96119,77.68511,4.1
+P149,Electronic City Hospital 17,Hospital,Electronic City,12.82829,77.63358,4.9
+P150,Whitefield Garden 25,Park,Whitefield,12.98231,77.75145,4.4
+P151,Indiranagar Garden 22,Park,Indiranagar,12.96623,77.65466,4.3
+P152,MG Road Plaza 10,Mall,MG Road,12.99451,77.58880,3.7
+P153,Indiranagar College 13,College,Indiranagar,12.96707,77.63979,4.9
+P154,Yelahanka Lake View 2,Park,Yelahanka,13.06928,77.60312,4.2
+P155,MG Road Taproom 33,Pub,MG Road,12.97272,77.61661,3.8
+P156,Koramangala Park 37,Park,Koramangala,12.94884,77.62964,4.2
+P157,Malleshwaram Clinic 17,Hospital,Malleshwaram,13.02422,77.57462,3.3
+P158,Indiranagar Filter Coffee 3,Cafe,Indiranagar,12.97628,77.65352,4.7
+P159,Majestic Academy 32,College,Majestic,12.96847,77.58337,3.5
+P160,Electronic City Arcade 35,Mall,Electronic City,12.82576,77.66849,3.5
+P161,Banashankari Park 17,Park,Banashankari,12.91442,77.55853,3.2
+P162,BTM Layout Dosa Corner 7,Restaurant,BTM Layout,12.91031,77.60676,3.9
+P163,Indiranagar Plaza 10,Mall,Indiranagar,12.98990,77.62964,4.8
+P164,HSR Layout Filter Coffee 27,Cafe,HSR Layout,12.91614,77.64991,3.4
+P165,HSR Layout IT Campus 2,Tech Park,HSR Layout,12.91889,77.64494,4.4
+P166,Majestic Health Centre 11,Hospital,Majestic,12.99838,77.59852,3.7
+P167,MG Road Park 6,Park,MG Road,12.97537,77.59480,5.0
+P168,Banashankari Meals 37,Restaurant,Banashankari,12.93694,77.54601,3.3
+P169,Indiranagar Biryani House 37,Restaurant,Indiranagar,13.00156,77.64316,4.2
+P170,Electronic City Garden 27,Park,Electronic City,12.87452,77.64044,4.3
+P171,MG Road Hospital 38,Hospital,MG Road,12.98550,77.60548,4.9
+P172,Malleshwaram Lake View 23,Park,Malleshwaram,13.02858,77.58687,3.7
+P173,Majestic Health Centre 33,Hospital,Majestic,12.97257,77.57900,3.9
+P174,Yelahanka Taproom 30,Pub,Yelahanka,13.11576,77.58802,4.7
+P175,MG Road Academy 37,College,MG Road,12.95509,77.62014,4.8
+P176,Bellandur Lake View 35,Park,Bellandur,12.92150,77.67251,4.6
+P177,Majestic Mall 14,Mall,Majestic,12.97459,77.57229,3.0
+P178,Jayanagar Plaza 13,Mall,Jayanagar,12.93632,77.59487,3.8
+P179,Whitefield Dosa Corner 13,Restaurant,Whitefield,12.97684,77.73377,4.4
+P180,Marathahalli Filter Coffee 25,Cafe,Marathahalli,12.96766,77.68194,3.0
+P181,Koramangala Arcade 32,Mall,Koramangala,12.93300,77.62160,3.3
+P182,Koramangala Dosa Corner 17,Restaurant,Koramangala,12.93635,77.64572,3.8
+P183,Bellandur Brew 12,Cafe,Bellandur,12.94702,77.68502,4.9
+P184,BTM Layout Taproom 20,Pub,BTM Layout,12.93067,77.60350,3.3
+P185,Indiranagar College 40,College,Indiranagar,12.98881,77.64955,4.2
+P186,Koramangala Hospital 3,Hospital,Koramangala,12.95140,77.63141,4.9
+P187,Jayanagar Brewpub 20,Pub,Jayanagar,12.92363,77.57616,3.3
+P188,Majestic Plaza 9,Mall,Majestic,12.98310,77.54625,3.6
+P189,HSR Layout Arcade 25,Mall,HSR Layout,12.89557,77.63301,4.2
+P190,Hebbal Brewpub 27,Pub,Hebbal,13.05782,77.61201,4.5
+P191,HSR Layout Institute 28,College,HSR Layout,12.91512,77.63751,4.2
+P192,BTM Layout Garden 11,Park,BTM Layout,12.92259,77.61010,3.3
+P193,Majestic College 22,College,Majestic,12.96582,77.56681,3.2
+P194,Marathahalli Clinic 30,Hospital,Marathahalli,12.96092,77.69495,4.1
+P195,Hebbal Arcade 31,Mall,Hebbal,13.05956,77.57510,4.1
+P196,BTM Layout Bar 21,Pub,BTM Layout,12.89785,77.58702,4.2
+P197,Majestic Academy 37,College,Majestic,12.98730,77.57377,3.7
+P198,Banashankari College 30,College,Banashankari,12.92036,77.53115,4.0
+P199,Hebbal Darshini 12,Cafe,Hebbal,13.01097,77.58349,4.7
+P200,Yelahanka Meals 23,Restaurant,Yelahanka,13.11214,77.60348,3.9
+P201,Koramangala Plaza 36,Mall,Koramangala,12.94086,77.61510,3.4
+P202,Banashankari Taproom 18,Pub,Banashankari,12.94874,77.57224,3.6
+P203,MG Road Bar 6,Pub,MG Road,12.97246,77.60181,3.1
+P204,Marathahalli Arcade 1,Mall,Marathahalli,12.94668,77.69444,4.7
+P205,Indiranagar Mall 22,Mall,Indiranagar,12.97620,77.61984,4.6
+P206,BTM Layout Taproom 23,Pub,BTM Layout,12.91839,77.59830,3.4
+P207,Electronic City IT Campus 17,Tech Park,Electronic City,12.83815,77.63084,3.6
+P208,Majestic Hospital 12,Hospital,Majestic,12.95789,77.56090,4.5
+P209,MG Road IT Campus 5,Tech Park,MG Road,12.98664,77.60554,4.1
+P210,MG Road IT Campus 36,Tech Park,MG Road,12.96525,77.61087,3.1
+P211,Hebbal Garden 29,Park,Hebbal,13.03818,77.62147,4.5
+P212,MG Road IT Campus 4,Tech Park,MG Road,12.98117,77.62581,3.5
+P213,Majestic Dosa Corner 4,Restaurant,Majestic,12.97315,77.56135,4.5
+P214,Koramangala College 9,College,Koramangala,12.93617,77.63512,3.1
+P215,BTM Layout Lake View 17,Park,BTM Layout,12.91331,77.59553,4.1
+P216,Majestic Academy 27,College,Majestic,12.97496,77.57348,3.3
+P217,Hebbal Hospital 23,Hospital,Hebbal,13.05406,77.57438,4.6
+P218,Marathahalli Garden 12,Park,Marathahalli,12.96385,77.69111,3.2
+P219,BTM Layout Brew 13,Cafe,BTM Layout,12.92137,77.61562,4.2
+P220,Banashankari Institute 35,College,Banashankari,12.91605,77.54717,3.2
+P221,Koramangala Tech Park 36,Tech Park,Koramangala,12.94095,77.62310,4.8
+P222,Majestic Meals 12,Restaurant,Majestic,12.98897,77.54170,4.3
+P223,MG Road Dosa Corner 8,Restaurant,MG Road,12.95959,77.60278,4.2
+P224,Jayanagar Institute 39,College,Jayanagar,12.93429,77.61603,4.1
+P225,Bellandur Health Centre 13,Hospital,Bellandur,12.93975,77.67487,3.5
+P226,Electronic City Tech Park 34,Tech Park,Electronic City,12.84896,77.65242,4.3
+P227,Jayanagar Biryani House 18,Restaurant,Jayanagar,12.94036,77.58436,4.8
+P228,Indiranagar Park 21,Park,Indiranagar,12.98150,77.62993,4.0
+P229,Whitefield Clinic 4,Hospital,Whitefield,12.97234,77.74443,4.1
+P230,Bellandur Biryani House 22,Restaurant,Bellandur,12.93127,77.71567,3.9
+P231,Majestic Brew 7,Cafe,Majestic,12.96293,77.58790,4.7
+P232,Indiranagar Park 19,Park,Indiranagar,12.96640,77.62613,5.0
+P233,Bellandur Lake View 40,Park,Bellandur,12.93931,77.67342,4.9
+P234,Indiranagar Bar 38,Pub,Indiranagar,12.97304,77.62962,4.7
+P235,Malleshwaram Arcade 35,Mall,Malleshwaram,12.99018,77.60455,4.8
+P236,Bellandur Park 16,Park,Bellandur,12.93217,77.66722,4.9
+P237,Marathahalli Filter Coffee 34,Cafe,Marathahalli,12.95452,77.70187,3.7
+P238,Marathahalli Clinic 10,Hospital,Marathahalli,12.97015,77.66573,3.9
+P239,Indiranagar Park 3,Park,Indiranagar,12.98683,77.65207,4.2
+P240,Majestic Brew 3,Cafe,Majestic,12.99020,77.55842,4.9
+P241,Jayanagar Taproom 37,Pub,Jayanagar,12.92789,77.62599,4.9
+P242,Indiranagar Health Centre 26,Hospital,Indiranagar,12.99587,77.65355,3.9
+P243,Koramangala Filter Coffee 2,Cafe,Koramangala,12.93998,77.62944,3.8
+P244,HSR Layout Institute 11,College,HSR Layout,12.91722,77.62990,4.2
+P245,Malleshwaram Arcade 2,Mall,Malleshwaram,13.01630,77.58685,4.6
+P246,BTM Layout Plaza 1,Mall,BTM Layout,12.89518,77.59404,4.8
+P247,Bellandur Institute 39,College,Bellandur,12.94342,77.66236,4.0
+P248,Koramangala Business Bay 23,Tech Park,Koramangala,12.93739,77.62202,3.7
+P249,Jayanagar College 37,College,Jayanagar,12.94078,77.58322,4.4
+P250,BTM Layout Park 39,Park,BTM Layout,12.92641,77.61069,3.1
+P251,MG Road Plaza 1,Mall,MG Road,12.95470,77.60940,4.6
+P252,Majestic Park 15,Park,Majestic,12.97931,77.56409,3.1
+P253,Majestic College 1,College,Majestic,12.97351,77.55979,3.2
+P254,MG Road Brew 28,Cafe,MG Road,12.98077,77.59693,3.1
+P255,Electronic City Darshini 31,Cafe,Electronic City,12.84801,77.64634,3.0
+P256,Hebbal Brew 16,Cafe,Hebbal,13.03960,77.58872,4.8
+P257,HSR Layout Clinic 20,Hospital,HSR Layout,12.90982,77.64467,3.7
+P258,Majestic IT Campus 25,Tech Park,Majestic,12.96222,77.57997,3.3
+P259,MG Road IT Campus 35,Tech Park,MG Road,12.99435,77.60161,4.9
+P260,Hebbal Business Bay 34,Tech Park,Hebbal,13.03771,77.58897,3.4
+P261,Bellandur Business Bay 40,Tech Park,Bellandur,12.93096,77.67979,4.0
+P262,BTM Layout Darshini 21,Cafe,BTM Layout,12.90711,77.59476,4.7
+P263,BTM Layout Biryani House 22,Restaurant,BTM Layout,12.93230,77.61681,3.9
+P264,HSR Layout Meals 4,Restaurant,HSR Layout,12.92078,77.64498,4.9
+P265,Electronic City Mall 6,Mall,Electronic City,12.83788,77.64489,3.5
+P266,Banashankari Meals 26,Restaurant,Banashankari,12.90642,77.52788,4.4
+P267,BTM Layout Park 4,Park,BTM Layout,12.92874,77.58835,4.2
+P268,Hebbal Arcade 36,Mall,Hebbal,13.03620,77.57461,4.5
+P269,MG Road Arcade 12,Mall,MG Road,13.00391,77.59508,4.6
+P270,Malleshwaram Health Centre 12,Hospital,Malleshwaram,13.01250,77.55460,5.0
+P271,BTM Layout Institute 14,College,BTM Layout,12.92997,77.59588,3.5
+P272,Whitefield Plaza 17,Mall,Whitefield,12.96906,77.74827,3.9
+P273,Malleshwaram Plaza 39,Mall,Malleshwaram,13.01353,77.58068,5.0
+P274,Banashankari Brew 9,Cafe,Banashankari,12.93745,77.51761,4.6
+P275,Majestic Plaza 30,Mall,Majestic,12.97805,77.56512,5.0
+P276,Bellandur Brewpub 27,Pub,Bellandur,12.96198,77.67631,4.7
+P277,Yelahanka Brewpub 40,Pub,Yelahanka,13.09385,77.57855,4.7
+P278,Koramangala Mall 27,Mall,Koramangala,12.93937,77.63440,4.1
+P279,Koramangala Darshini 6,Cafe,Koramangala,12.92231,77.62191,4.7
+P280,MG Road Brew 14,Cafe,MG Road,12.99681,77.59584,3.4
+P281,Malleshwaram Filter Coffee 8,Cafe,Malleshwaram,12.99868,77.56952,4.3
+P282,HSR Layout Business Bay 39,Tech Park,HSR Layout,12.93943,77.68142,3.5
+P283,Electronic City Park 11,Park,Electronic City,12.85871,77.65157,4.3
+P284,MG Road Health Centre 39,Hospital,MG Road,12.98335,77.59320,3.8
+P285,Malleshwaram Dosa Corner 13,Restaurant,Malleshwaram,13.01829,77.55858,4.5
+P286,Whitefield IT Campus 19,Tech Park,Whitefield,12.96350,77.74351,3.5
+P287,Majestic Darshini 8,Cafe,Majestic,12.97290,77.57530,4.1
+P288,BTM Layout Academy 12,College,BTM Layout,12.89934,77.61720,3.3
+P289,MG Road Meals 32,Restaurant,MG Road,12.99917,77.63035,4.8
+P290,Marathahalli Darshini 30,Cafe,Marathahalli,12.93498,77.70157,3.4
+P291,MG Road Biryani House 14,Restaurant,MG Road,12.98632,77.60314,4.4
+P292,MG Road Institute 23,College,MG Road,12.94260,77.60338,3.3
+P293,MG Road Brew 4,Cafe,MG Road,12.96795,77.59816,3.3
+P294,Jayanagar Biryani House 3,Restaurant,Jayanagar,12.92897,77.57644,4.0
+P295,Koramangala Health Centre 4,Hospital,Koramangala,12.96836,77.62708,4.0
+P296,MG Road Garden 9,Park,MG Road,12.95892,77.60418,4.4
+P297,Majestic Dosa Corner 14,Restaurant,Majestic,12.99669,77.56243,5.0
+P298,Jayanagar Taproom 23,Pub,Jayanagar,12.90963,77.60461,3.1
+P299,MG Road Tech Park 37,Tech Park,MG Road,12.97784,77.63012,3.0
+P300,Jayanagar Institute 13,College,Jayanagar,12.94530,77.59987,3.5
+P301,BTM Layout Biryani House 40,Restaurant,BTM Layout,12.93279,77.60572,4.7
+P302,Majestic Dosa Corner 3,Restaurant,Majestic,12.95293,77.55869,3.7
+P303,Hebbal College 24,College,Hebbal,13.02472,77.62618,4.1
+P304,BTM Layout Health Centre 39,Hospital,BTM Layout,12.92996,77.61926,4.5
+P305,Jayanagar Arcade 29,Mall,Jayanagar,12.94552,77.62499,4.6
+P306,Yelahanka Bar 23,Pub,Yelahanka,13.10913,77.59235,4.2
+P307,Marathahalli Garden 21,Park,Marathahalli,12.94900,77.70512,4.8
+P308,Majestic Business Bay 18,Tech Park,Majestic,12.98316,77.57165,3.9
+P309,Hebbal College 36,College,Hebbal,13.04238,77.57325,4.9
+P310,Whitefield Park 6,Park,Whitefield,12.95814,77.75401,3.8
+P311,Whitefield Arcade 5,Mall,Whitefield,12.97336,77.77092,3.8
+P312,Koramangala Biryani House 36,Restaurant,Koramangala,12.92333,77.60447,4.7
+P313,BTM Layout Institute 17,College,BTM Layout,12.93102,77.60092,4.6
+P314,MG Road Tech Park 21,Tech Park,MG Road,12.96700,77.59900,4.6
+P315,MG Road Biryani House 11,Restaurant,MG Road,12.95238,77.59701,4.0
+P316,Banashankari Clinic 20,Hospital,Banashankari,12.93933,77.54866,3.1
+P317,MG Road Lake View 26,Park,MG Road,12.98106,77.60621,4.1
+P318,MG Road Brew 15,Cafe,MG Road,12.95599,77.60147,3.4
+P319,Bellandur Brew 28,Cafe,Bellandur,12.94745,77.67867,4.3
+P320,Koramangala Hospital 18,Hospital,Koramangala,12.94526,77.62505,4.8
+P321,Electronic City Hospital 18,Hospital,Electronic City,12.84125,77.65311,3.3
+P322,Malleshwaram College 40,College,Malleshwaram,13.01356,77.55980,3.3
+P323,Indiranagar Health Centre 23,Hospital,Indiranagar,12.98372,77.63185,3.1
+P324,MG Road Hospital 4,Hospital,MG Road,12.96802,77.61163,3.1
+P325,BTM Layout Mall 35,Mall,BTM Layout,12.92578,77.61540,3.1
+P326,MG Road Bar 9,Pub,MG Road,12.97517,77.62237,4.3
+P327,Marathahalli Meals 10,Restaurant,Marathahalli,12.98092,77.69727,4.9
+P328,Bellandur Darshini 32,Cafe,Bellandur,12.95156,77.68193,3.9
+P329,Hebbal Hospital 25,Hospital,Hebbal,13.02772,77.60324,3.2
+P330,MG Road Tech Park 4,Tech Park,MG Road,12.96338,77.62852,3.3
+P331,Hebbal IT Campus 16,Tech Park,Hebbal,13.02642,77.58580,3.0
+P332,Malleshwaram Arcade 9,Mall,Malleshwaram,13.00836,77.57812,4.9
+P333,Koramangala Tech Park 2,Tech Park,Koramangala,12.91636,77.61273,4.4
+P334,Indiranagar Hospital 25,Hospital,Indiranagar,12.97985,77.63913,4.3
+P335,Banashankari Dosa Corner 23,Restaurant,Banashankari,12.92332,77.55680,4.3
+P336,Koramangala Park 15,Park,Koramangala,12.90792,77.61535,3.5
+P337,Malleshwaram Health Centre 29,Hospital,Malleshwaram,13.00183,77.57823,3.9
+P338,Marathahalli Plaza 19,Mall,Marathahalli,12.94584,77.69486,3.8
+P339,BTM Layout Garden 21,Park,BTM Layout,12.92639,77.62305,4.4
+P340,Whitefield Health Centre 8,Hospital,Whitefield,12.96438,77.72807,3.3
+P341,Majestic Meals 32,Restaurant,Majestic,12.96045,77.57673,3.8
+P342,Jayanagar Garden 38,Park,Jayanagar,12.92028,77.57899,4.8
+P343,MG Road Brewpub 22,Pub,MG Road,12.96776,77.59817,3.3
+P344,Jayanagar Biryani House 9,Restaurant,Jayanagar,12.94592,77.57998,4.7
+P345,Banashankari Meals 12,Restaurant,Banashankari,12.92325,77.52884,4.2
+P346,Majestic Park 33,Park,Majestic,12.96380,77.56333,4.6
+P347,Jayanagar Dosa Corner 5,Restaurant,Jayanagar,12.91653,77.60386,3.3
+P348,MG Road Tech Park 25,Tech Park,MG Road,12.94821,77.61919,3.2
+P349,Hebbal Business Bay 14,Tech Park,Hebbal,13.02162,77.59006,4.8
+P350,Whitefield Taproom 37,Pub,Whitefield,12.98663,77.74339,3.9
+P351,HSR Layout Brewpub 25,Pub,HSR Layout,12.89779,77.65754,4.5
+P352,Malleshwaram Taproom 26,Pub,Malleshwaram,12.99187,77.59347,4.7
+P353,MG Road Tech Park 25,Tech Park,MG Road,12.96660,77.58058,4.1
+P354,Majestic Garden 13,Park,Majestic,12.99139,77.54276,4.8
+P355,Yelahanka Filter Coffee 37,Cafe,Yelahanka,13.10445,77.60236,4.9
+P356,Malleshwaram Brew 5,Cafe,Malleshwaram,13.02033,77.56152,3.4
+P357,Indiranagar Garden 37,Park,Indiranagar,12.99496,77.62882,3.3
+P358,Bellandur Garden 4,Park,Bellandur,12.89820,77.67250,3.8
+P359,MG Road Taproom 19,Pub,MG Road,12.96543,77.59481,3.8
+P360,Indiranagar Brew 25,Cafe,Indiranagar,12.97088,77.66326,3.1
+P361,Whitefield Tech Park 36,Tech Park,Whitefield,12.96157,77.74295,3.9
+P362,Marathahalli Plaza 39,Mall,Marathahalli,12.95096,77.69206,3.4
+P363,Whitefield Lake View 8,Park,Whitefield,12.96610,77.73410,4.2
+P364,Marathahalli College 17,College,Marathahalli,12.94457,77.69701,4.8
+P365,Koramangala College 21,College,Koramangala,12.94060,77.61015,4.4
+P366,Majestic Park 40,Park,Majestic,12.97462,77.58544,3.7
+P367,Electronic City IT Campus 30,Tech Park,Electronic City,12.84078,77.66502,3.8
+P368,Yelahanka Health Centre 19,Hospital,Yelahanka,13.10767,77.57795,3.1
+P369,Marathahalli Brewpub 36,Pub,Marathahalli,12.96300,77.68850,3.1
+P370,Bellandur Tech Park 31,Tech Park,Bellandur,12.91746,77.67235,4.9
+P371,MG Road IT Campus 16,Tech Park,MG Road,12.95064,77.60318,3.6
+P372,Yelahanka College 3,College,Yelahanka,13.10479,77.58020,4.1
+P373,Majestic College 11,College,Majestic,12.96950,77.55479,4.4
+P374,Hebbal Plaza 2,Mall,Hebbal,13.05273,77.60347,3.2
+P375,Yelahanka Brew 1,Cafe,Yelahanka,13.10570,77.59601,4.6
+P376,Bellandur Filter Coffee 27,Cafe,Bellandur,12.93755,77.68215,4.1
+P377,Whitefield Health Centre 2,Hospital,Whitefield,12.97558,77.76172,3.2
+P378,Bellandur Meals 22,Restaurant,Bellandur,12.91289,77.67860,3.8
+P379,Whitefield Park 14,Park,Whitefield,12.99598,77.75061,3.9
+P380,Jayanagar Brew 35,Cafe,Jayanagar,12.92897,77.59975,4.6
+P381,Jayanagar Dosa Corner 5,Restaurant,Jayanagar,12.93992,77.57191,4.2
+P382,BTM Layout Clinic 15,Hospital,BTM Layout,12.90057,77.60925,3.0
+P383,Banashankari Mall 6,Mall,Banashankari,12.91238,77.56160,3.0
+P384,Yelahanka Garden 5,Park,Yelahanka,13.09950,77.58923,4.9
+P385,MG Road Plaza 34,Mall,MG Road,13.00855,77.60796,4.4
+P386,Jayanagar Taproom 4,Pub,Jayanagar,12.95234,77.59003,4.6
+P387,Yelahanka Mall 9,Mall,Yelahanka,13.09416,77.57590,3.3
+P388,Majestic Bar 5,Pub,Majestic,12.99694,77.58628,3.9
+P389,Koramangala Academy 32,College,Koramangala,12.93446,77.61554,3.5
+P390,BTM Layout Filter Coffee 21,Cafe,BTM Layout,12.90638,77.60840,4.6
+P391,Bellandur Filter Coffee 23,Cafe,Bellandur,12.92655,77.66389,4.3
+P392,MG Road Biryani House 23,Restaurant,MG Road,12.96760,77.57875,3.0
+P393,Koramangala Park 28,Park,Koramangala,12.94000,77.63710,4.7
+P394,Electronic City Institute 26,College,Electronic City,12.82652,77.65892,3.8
+P395,Malleshwaram Filter Coffee 12,Cafe,Malleshwaram,12.99361,77.58244,3.4
+P396,Yelahanka Dosa Corner 22,Restaurant,Yelahanka,13.11925,77.58754,3.7
+P397,Majestic Darshini 1,Cafe,Majestic,12.97880,77.57130,4.8
+P398,Hebbal Academy 18,College,Hebbal,13.05377,77.61956,4.5
+P399,Banashankari Institute 6,College,Banashankari,12.93661,77.52733,4.2
+P400,Bellandur IT Campus 40,Tech Park,Bellandur,12.92837,77.69099,3.2
+P401,Yelahanka Bar 24,Pub,Yelahanka,13.10312,77.61160,3.1
+P402,Koramangala Arcade 11,Mall,Koramangala,12.93252,77.60386,4.2
+P403,MG Road Bar 23,Pub,MG Road,12.96469,77.60386,3.3
+P404,Indiranagar Lake View 13,Park,Indiranagar,12.96991,77.64922,3.3
+P405,HSR Layout Garden 38,Park,HSR Layout,12.91771,77.64413,4.8
+P406,Bellandur IT Campus 3,Tech Park,Bellandur,12.92253,77.68349,3.9
+P407,Koramangala Taproom 30,Pub,Koramangala,12.91240,77.61531,4.4
+P408,MG Road IT Campus 5,Tech Park,MG Road,12.96793,77.58074,3.3
+P409,Banashankari Academy 30,College,Banashankari,12.93976,77.53404,4.3
+P410,Electronic City Tech Park 9,Tech Park,Electronic City,12.83821,77.67608,4.4
+P411,Bellandur Academy 3,College,Bellandur,12.93557,77.67368,3.9
+P412,Malleshwaram Dosa Corner 36,Restaurant,Malleshwaram,12.99695,77.57796,4.9
+P413,Indiranagar Arcade 13,Mall,Indiranagar,12.96958,77.62077,4.3
+P414,HSR Layout Arcade 14,Mall,HSR Layout,12.92042,77.61830,3.2
+P415,Malleshwaram Business Bay 1,Tech Park,Malleshwaram,13.02954,77.55246,3.2
+P416,Jayanagar Mall 4,Mall,Jayanagar,12.92684,77.59171,4.3
+P417,Jayanagar Institute 7,College,Jayanagar,12.95183,77.59902,5.0
+P418,Majestic Brewpub 5,Pub,Majestic,12.97709,77.58343,3.8
+P419,Banashankari Health Centre 38,Hospital,Banashankari,12.92257,77.53789,3.7
+P420,MG Road Academy 15,College,MG Road,12.97021,77.61631,4.4
+P421,Electronic City Meals 34,Restaurant,Electronic City,12.83573,77.67152,3.9
+P422,Electronic City Bar 13,Pub,Electronic City,12.85333,77.66477,4.8
+P423,Electronic City Health Centre 36,Hospital,Electronic City,12.85833,77.65901,4.8
+P424,Marathahalli Plaza 26,Mall,Marathahalli,12.96592,77.69815,3.2
+P425,Koramangala Dosa Corner 7,Restaurant,Koramangala,12.95132,77.61134,3.0
+P426,Banashankari Institute 29,College,Banashankari,12.90769,77.53218,4.4
+P427,BTM Layout Academy 13,College,BTM Layout,12.92213,77.62677,3.8
+P428,Jayanagar Brew 28,Cafe,Jayanagar,12.92208,77.57479,3.5
+P429,HSR Layout Mall 34,Mall,HSR Layout,12.91655,77.64285,4.5
+P430,Electronic City Business Bay 22,Tech Park,Electronic City,12.84077,77.65725,4.2
+P431,Banashankari Brew 20,Cafe,Banashankari,12.95368,77.53777,3.4
+P432,MG Road Garden 26,Park,MG Road,12.97462,77.58916,4.1
+P433,Majestic Bar 39,Pub,Majestic,12.96876,77.55363,4.5
+P434,MG Road IT Campus 33,Tech Park,MG Road,12.96631,77.61356,3.5
+P435,Hebbal Arcade 17,Mall,Hebbal,13.03509,77.60107,4.8
+P436,Marathahalli Brewpub 37,Pub,Marathahalli,12.95445,77.70065,4.8
+P437,Malleshwaram Taproom 12,Pub,Malleshwaram,12.99320,77.56606,4.2
+P438,Marathahalli Brewpub 30,Pub,Marathahalli,12.96213,77.69779,3.3
+P439,BTM Layout Health Centre 33,Hospital,BTM Layout,12.93983,77.62292,3.4
+P440,Indiranagar Academy 12,College,Indiranagar,12.96261,77.63953,4.9
+P441,Whitefield Biryani House 19,Restaurant,Whitefield,12.96482,77.75534,5.0
+P442,BTM Layout Brew 17,Cafe,BTM Layout,12.92419,77.62371,4.2
+P443,Marathahalli Filter Coffee 40,Cafe,Marathahalli,12.95535,77.68992,3.2
+P444,Banashankari Bar 37,Pub,Banashankari,12.93633,77.53557,3.3
+P445,Malleshwaram Taproom 39,Pub,Malleshwaram,12.99950,77.58260,3.5
+P446,Hebbal Health Centre 13,Hospital,Hebbal,13.03220,77.60952,4.4
+P447,HSR Layout Taproom 38,Pub,HSR Layout,12.91347,77.65148,3.6
+P448,Koramangala Filter Coffee 18,Cafe,Koramangala,12.94288,77.63306,4.3
+P449,Electronic City Business Bay 28,Tech Park,Electronic City,12.86659,77.65658,3.3
+P450,Majestic Arcade 24,Mall,Majestic,12.97073,77.56228,5.0
+P451,Majestic Bar 24,Pub,Majestic,12.99659,77.58554,3.3
+P452,Hebbal Arcade 21,Mall,Hebbal,13.04084,77.56799,4.9
+P453,Indiranagar Brewpub 14,Pub,Indiranagar,12.97391,77.67252,3.2
+P454,Marathahalli Filter Coffee 31,Cafe,Marathahalli,12.95185,77.68333,3.8
+P455,Yelahanka Darshini 27,Cafe,Yelahanka,13.09565,77.61297,3.8
+P456,Yelahanka Taproom 24,Pub,Yelahanka,13.10739,77.59716,4.7
+P457,Marathahalli IT Campus 36,Tech Park,Marathahalli,12.94708,77.70681,3.3
+P458,Indiranagar Taproom 35,Pub,Indiranagar,12.97982,77.65237,4.8
+P459,Hebbal Filter Coffee 8,Cafe,Hebbal,13.03782,77.57066,3.5
+P460,MG Road Business Bay 16,Tech Park,MG Road,12.97373,77.60120,4.5
+P461,MG Road Brew 16,Cafe,MG Road,12.96509,77.59749,3.8
+P462,MG Road Brew 9,Cafe,MG Road,12.98223,77.62087,4.0
+P463,Koramangala Lake View 37,Park,Koramangala,12.94569,77.63066,4.5
+P464,Jayanagar Mall 29,Mall,Jayanagar,12.92011,77.60789,4.3
+P465,Indiranagar College 14,College,Indiranagar,12.96678,77.62991,3.4
+P466,Koramangala Meals 18,Restaurant,Koramangala,12.93885,77.63043,4.9
+P467,Whitefield Bar 28,Pub,Whitefield,12.97792,77.74333,4.8
+P468,HSR Layout Garden 1,Park,HSR Layout,12.91238,77.64854,4.0
+P469,Marathahalli Bar 23,Pub,Marathahalli,12.97489,77.71279,4.9
+P470,Malleshwaram Academy 15,College,Malleshwaram,13.01369,77.56446,4.5
+P471,Yelahanka Brew 40,Cafe,Yelahanka,13.12623,77.60226,3.4
+P472,Koramangala Lake View 26,Park,Koramangala,12.94544,77.62888,3.7
+P473,Koramangala Brew 29,Cafe,Koramangala,12.92504,77.63557,3.2
+P474,Whitefield Brewpub 8,Pub,Whitefield,12.98984,77.73487,4.0
+P475,Marathahalli Park 33,Park,Marathahalli,12.97740,77.68771,3.5
+P476,Indiranagar Brew 38,Cafe,Indiranagar,12.98555,77.67795,3.7
+P477,Jayanagar Brewpub 29,Pub,Jayanagar,12.92808,77.60121,4.1
+P478,MG Road Darshini 16,Cafe,MG Road,13.00839,77.60850,4.5
+P479,MG Road Institute 6,College,MG Road,12.97919,77.60216,4.2
+P480,Electronic City Meals 33,Restaurant,Electronic City,12.87836,77.63923,4.4
+P481,MG Road Darshini 31,Cafe,MG Road,12.95536,77.59628,4.2
+P482,Bellandur College 32,College,Bellandur,12.93184,77.68601,4.2
+P483,Whitefield Garden 36,Park,Whitefield,12.93635,77.74066,4.2
+P484,Jayanagar Health Centre 17,Hospital,Jayanagar,12.93809,77.60031,3.1
+P485,Malleshwaram Mall 16,Mall,Malleshwaram,13.01453,77.55794,4.4
+P486,Marathahalli Health Centre 9,Hospital,Marathahalli,12.96945,77.68114,4.4
+P487,HSR Layout IT Campus 21,Tech Park,HSR Layout,12.90100,77.63345,3.8
+P488,Indiranagar Garden 1,Park,Indiranagar,12.97046,77.64500,3.6
+P489,Hebbal Taproom 7,Pub,Hebbal,13.05203,77.61599,4.5
+P490,Bellandur Mall 21,Mall,Bellandur,12.94023,77.67222,4.9
+P491,Indiranagar Park 3,Park,Indiranagar,12.95982,77.62144,3.8
+P492,Majestic Filter Coffee 13,Cafe,Majestic,12.97048,77.57405,4.2
+P493,HSR Layout Business Bay 16,Tech Park,HSR Layout,12.90172,77.62053,4.7
+P494,Koramangala Business Bay 8,Tech Park,Koramangala,12.93532,77.63948,4.7
+P495,Marathahalli College 4,College,Marathahalli,12.96675,77.70169,4.0
+P496,MG Road Tech Park 5,Tech Park,MG Road,12.96736,77.58400,3.7
+P497,Electronic City College 18,College,Electronic City,12.84727,77.64629,3.8
+P498,Jayanagar Brewpub 40,Pub,Jayanagar,12.94075,77.61419,4.9
+P499,Koramangala Institute 21,College,Koramangala,12.91808,77.62171,4.6
+P500,BTM Layout Bar 38,Pub,BTM Layout,12.91075,77.59904,4.9
+P501,Jayanagar Academy 7,College,Jayanagar,12.92465,77.58217,4.1
+P502,Koramangala Institute 9,College,Koramangala,12.91570,77.62299,4.6
+P503,Banashankari Filter Coffee 15,Cafe,Banashankari,12.93296,77.54829,4.6
+P504,Koramangala Bar 40,Pub,Koramangala,12.94379,77.63443,4.4
+P505,BTM Layout Darshini 40,Cafe,BTM Layout,12.92318,77.60690,3.8
+P506,Koramangala College 37,College,Koramangala,12.96127,77.61209,3.0
+P507,Jayanagar Darshini 34,Cafe,Jayanagar,12.94100,77.58698,3.4
+P508,Jayanagar Park 10,Park,Jayanagar,12.91474,77.58422,4.9
+P509,Yelahanka Lake View 35,Park,Yelahanka,13.11744,77.61189,3.1
+P510,MG Road Park 7,Park,MG Road,12.97771,77.60920,3.3
+P511,Koramangala Institute 1,College,Koramangala,12.94265,77.65480,4.6
+P512,Banashankari Park 8,Park,Banashankari,12.90775,77.55342,4.3
+P513,Whitefield Lake View 14,Park,Whitefield,12.97982,77.74597,4.7
+P514,Bellandur Lake View 31,Park,Bellandur,12.93426,77.68288,4.0
+P515,Bellandur Plaza 2,Mall,Bellandur,12.93174,77.67868,3.8
+P516,BTM Layout Dosa Corner 9,Restaurant,BTM Layout,12.92072,77.62785,3.3
+P517,HSR Layout Brew 32,Cafe,HSR Layout,12.92633,77.63210,4.5
+P518,HSR Layout Institute 32,College,HSR Layout,12.92068,77.64245,4.5
+P519,Whitefield Arcade 36,Mall,Whitefield,12.98686,77.73970,4.8
+P520,Majestic Brew 3,Cafe,Majestic,12.98125,77.54934,4.8
+P521,Yelahanka Health Centre 3,Hospital,Yelahanka,13.11634,77.58171,3.6
+P522,Electronic City Brew 24,Cafe,Electronic City,12.84225,77.66881,5.0
+P523,BTM Layout College 24,College,BTM Layout,12.91713,77.61736,4.9
+P524,Jayanagar Taproom 18,Pub,Jayanagar,12.91674,77.55788,3.5
+P525,HSR Layout Brew 26,Cafe,HSR Layout,12.91276,77.62826,3.9
+P526,Yelahanka Plaza 8,Mall,Yelahanka,13.08911,77.56364,3.0
+P527,MG Road Dosa Corner 40,Restaurant,MG Road,13.00204,77.64118,4.1
+P528,Yelahanka Park 18,Park,Yelahanka,13.09178,77.58788,4.5
+P529,HSR Layout Lake View 35,Park,HSR Layout,12.92809,77.64527,4.1
+P530,BTM Layout Filter Coffee 36,Cafe,BTM Layout,12.90360,77.61618,4.6
+P531,Banashankari Garden 26,Park,Banashankari,12.93487,77.53733,3.8
+P532,HSR Layout Brew 11,Cafe,HSR Layout,12.91632,77.60810,3.1
+P533,Koramangala Arcade 12,Mall,Koramangala,12.93467,77.61729,3.6
+P534,Koramangala Brewpub 34,Pub,Koramangala,12.92283,77.63102,3.5
+P535,BTM Layout Biryani House 33,Restaurant,BTM Layout,12.93532,77.61112,4.4
+P536,Whitefield Filter Coffee 7,Cafe,Whitefield,12.98548,77.76851,4.0
+P537,Indiranagar Business Bay 32,Tech Park,Indiranagar,12.98259,77.64427,4.1
+P538,MG Road Business Bay 5,Tech Park,MG Road,12.98514,77.62033,4.1
+P539,Koramangala Garden 14,Park,Koramangala,12.91060,77.61849,4.6
+P540,Majestic Biryani House 23,Restaurant,Majestic,12.98307,77.58523,3.4
+P541,Majestic Garden 28,Park,Majestic,12.96747,77.58227,4.4
+P542,Jayanagar Institute 36,College,Jayanagar,12.91956,77.59831,3.9
+P543,Indiranagar Meals 25,Restaurant,Indiranagar,12.99966,77.65881,3.7
+P544,Marathahalli Lake View 3,Park,Marathahalli,12.93826,77.71485,4.4
+P545,Banashankari Mall 31,Mall,Banashankari,12.92210,77.53252,4.2
+P546,Jayanagar Bar 4,Pub,Jayanagar,12.92793,77.59581,3.5
+P547,Banashankari Biryani House 32,Restaurant,Banashankari,12.92124,77.56615,3.2
+P548,Jayanagar Bar 15,Pub,Jayanagar,12.90979,77.60073,3.7
+P549,Banashankari Arcade 12,Mall,Banashankari,12.92828,77.53456,3.5
+P550,Malleshwaram Clinic 21,Hospital,Malleshwaram,13.00768,77.58983,4.8
+P551,Yelahanka Meals 29,Restaurant,Yelahanka,13.10039,77.57439,4.1
+P552,Whitefield Clinic 13,Hospital,Whitefield,12.97146,77.74854,4.7
+P553,Banashankari Dosa Corner 36,Restaurant,Banashankari,12.90509,77.54277,4.2
+P554,Jayanagar Lake View 27,Park,Jayanagar,12.94532,77.60302,4.1
+P555,Malleshwaram Taproom 8,Pub,Malleshwaram,13.00025,77.55293,4.7
+P556,Koramangala Mall 18,Mall,Koramangala,12.92077,77.61301,3.2
+P557,Yelahanka Hospital 27,Hospital,Yelahanka,13.11938,77.58058,3.2
+P558,BTM Layout Brew 25,Cafe,BTM Layout,12.92932,77.60571,4.5
+P559,Indiranagar Clinic 16,Hospital,Indiranagar,12.97949,77.65230,3.6
+P560,Majestic Health Centre 21,Hospital,Majestic,12.98455,77.57132,4.9
+P561,Indiranagar IT Campus 36,Tech Park,Indiranagar,12.96591,77.63549,4.3
+P562,Indiranagar Bar 25,Pub,Indiranagar,12.96584,77.64721,4.4
+P563,Yelahanka Taproom 3,Pub,Yelahanka,13.06958,77.60543,3.6
+P564,Whitefield Mall 19,Mall,Whitefield,12.98174,77.74464,4.1
+P565,Majestic Meals 8,Restaurant,Majestic,12.97849,77.56589,4.8
+P566,MG Road Plaza 33,Mall,MG Road,12.97576,77.60617,5.0
+P567,Hebbal Health Centre 29,Hospital,Hebbal,13.03928,77.57049,4.5
+P568,Marathahalli College 30,College,Marathahalli,12.95892,77.69804,3.4
+P569,MG Road Arcade 20,Mall,MG Road,12.97258,77.60395,4.5
+P570,Majestic Biryani House 39,Restaurant,Majestic,12.97959,77.58043,4.4
+P571,Banashankari Plaza 20,Mall,Banashankari,12.90908,77.55798,4.8
+P572,Electronic City Bar 10,Pub,Electronic City,12.85585,77.64427,4.0
+P573,Whitefield Lake View 12,Park,Whitefield,12.97781,77.73635,3.7
+P574,Koramangala Hospital 29,Hospital,Koramangala,12.94483,77.62221,3.9
+P575,Whitefield Darshini 18,Cafe,Whitefield,12.97098,77.73130,3.1
+P576,Jayanagar College 13,College,Jayanagar,12.94025,77.58810,4.7
+P577,MG Road Tech Park 6,Tech Park,MG Road,12.99030,77.61629,3.7
+P578,BTM Layout Meals 36,Restaurant,BTM Layout,12.90263,77.62042,4.9
+P579,Indiranagar Meals 20,Restaurant,Indiranagar,12.96329,77.63390,3.3
+P580,Hebbal Meals 16,Restaurant,Hebbal,13.05168,77.59063,3.2
+P581,Marathahalli Business Bay 20,Tech Park,Marathahalli,12.96070,77.70777,4.9
+P582,Malleshwaram Biryani House 32,Restaurant,Malleshwaram,12.99698,77.57149,4.1
+P583,BTM Layout Lake View 4,Park,BTM Layout,12.94255,77.60007,4.2
+P584,Whitefield Mall 23,Mall,Whitefield,12.95894,77.74017,3.6
+P585,Yelahanka Hospital 15,Hospital,Yelahanka,13.10246,77.57062,4.2
+P586,Malleshwaram Park 17,Park,Malleshwaram,13.00370,77.58744,4.2
+P587,Majestic Taproom 33,Pub,Majestic,12.96704,77.57666,3.8
+P588,MG Road Lake View 5,Park,MG Road,12.97479,77.60779,3.8
+P589,Malleshwaram Mall 8,Mall,Malleshwaram,13.01296,77.57413,3.6
+P590,Indiranagar Meals 3,Restaurant,Indiranagar,12.99031,77.65145,4.3
+P591,Indiranagar Darshini 22,Cafe,Indiranagar,12.97483,77.64314,3.4
+P592,Majestic Bar 29,Pub,Majestic,12.98773,77.57306,4.5
+P593,HSR Layout Hospital 26,Hospital,HSR Layout,12.91889,77.64286,3.7
+P594,Bellandur Biryani House 14,Restaurant,Bellandur,12.94573,77.68360,3.1
+P595,Malleshwaram Health Centre 39,Hospital,Malleshwaram,13.01062,77.55998,4.4
+P596,Indiranagar Hospital 29,Hospital,Indiranagar,12.97605,77.63599,3.6
+P597,Bellandur Business Bay 3,Tech Park,Bellandur,12.93296,77.65465,3.3
+P598,Bellandur Meals 3,Restaurant,Bellandur,12.93177,77.68334,4.7
+P599,Whitefield Health Centre 1,Hospital,Whitefield,12.96587,77.75398,5.0
+P600,Jayanagar Garden 37,Park,Jayanagar,12.93117,77.59475,3.9
+P601,Bellandur College 37,College,Bellandur,12.88838,77.71070,3.4
+P602,Yelahanka Dosa Corner 39,Restaurant,Yelahanka,13.10282,77.60704,3.9
+P603,Majestic College 37,College,Majestic,12.96437,77.58653,3.2
+P604,MG Road Tech Park 1,Tech Park,MG Road,12.98936,77.61240,4.4
+P605,Jayanagar Tech Park 6,Tech Park,Jayanagar,12.91969,77.59324,4.3
+P606,Banashankari Dosa Corner 32,Restaurant,Banashankari,12.94881,77.56558,4.9
+P607,Electronic City Filter Coffee 20,Cafe,Electronic City,12.84688,77.66317,4.4
+P608,BTM Layout Darshini 12,Cafe,BTM Layout,12.92292,77.62414,4.4
+P609,Bellandur Hospital 3,Hospital,Bellandur,12.93294,77.66778,4.2
+P610,Jayanagar Health Centre 8,Hospital,Jayanagar,12.93431,77.59905,4.3
+P611,Majestic College 27,College,Majestic,12.98392,77.57091,4.2
+P612,Yelahanka Arcade 8,Mall,Yelahanka,13.09155,77.59887,3.6
+P613,Indiranagar Dosa Corner 4,Restaurant,Indiranagar,12.94919,77.64213,3.4
+P614,Hebbal Business Bay 15,Tech Park,Hebbal,13.04623,77.56737,4.0
+P615,Banashankari Plaza 22,Mall,Banashankari,12.92374,77.52275,3.4
+P616,Whitefield Biryani House 32,Restaurant,Whitefield,12.98235,77.75757,3.2
+P617,Koramangala Brewpub 40,Pub,Koramangala,12.94323,77.61531,4.5
+P618,Jayanagar Academy 39,College,Jayanagar,12.91813,77.56813,4.0
+P619,Whitefield Institute 35,College,Whitefield,12.96590,77.74333,3.9
+P620,Jayanagar Lake View 17,Park,Jayanagar,12.92376,77.60605,3.8
+P621,BTM Layout Garden 10,Park,BTM Layout,12.91873,77.62454,4.2
+P622,Jayanagar Institute 6,College,Jayanagar,12.90596,77.59690,3.3
+P623,BTM Layout Bar 15,Pub,BTM Layout,12.91331,77.62897,3.8
+P624,Yelahanka Bar 29,Pub,Yelahanka,13.10319,77.59348,4.8
+P625,Koramangala Dosa Corner 28,Restaurant,Koramangala,12.93113,77.62712,3.9
+P626,Koramangala IT Campus 23,Tech Park,Koramangala,12.93358,77.63258,3.7
+P627,Koramangala Academy 36,College,Koramangala,12.92452,77.62356,3.8
+P628,Whitefield IT Campus 38,Tech Park,Whitefield,12.99090,77.74008,3.4
+P629,Hebbal Health Centre 4,Hospital,Hebbal,13.04154,77.58862,4.0
+P630,Marathahalli Lake View 17,Park,Marathahalli,12.94680,77.73092,4.9
+P631,Jayanagar Meals 30,Restaurant,Jayanagar,12.93395,77.60130,3.8
+P632,Electronic City College 20,College,Electronic City,12.81594,77.64964,4.6
+P633,Indiranagar Brew 21,Cafe,Indiranagar,12.97485,77.67274,4.7
+P634,HSR Layout Brewpub 33,Pub,HSR Layout,12.92525,77.64494,4.2
+P635,HSR Layout Dosa Corner 25,Restaurant,HSR Layout,12.88921,77.64729,3.4
+P636,Koramangala Taproom 5,Pub,Koramangala,12.93910,77.62181,3.8
+P637,Indiranagar Meals 9,Restaurant,Indiranagar,12.97765,77.61200,4.1
+P638,Banashankari Brew 2,Cafe,Banashankari,12.93379,77.53456,4.1
+P639,Koramangala Brewpub 38,Pub,Koramangala,12.94987,77.63466,4.3
+P640,Jayanagar Clinic 35,Hospital,Jayanagar,12.90799,77.60956,4.7
+P641,Whitefield IT Campus 2,Tech Park,Whitefield,12.96793,77.75034,4.5
+P642,MG Road IT Campus 6,Tech Park,MG Road,12.94238,77.61101,4.9
+P643,MG Road Tech Park 14,Tech Park,MG Road,12.98207,77.60573,4.5
+P644,Bellandur Plaza 16,Mall,Bellandur,12.95682,77.68155,3.1
+P645,Malleshwaram Meals 32,Restaurant,Malleshwaram,12.99941,77.57416,4.4
+P646,Koramangala Institute 10,College,Koramangala,12.94566,77.60981,5.0
+P647,MG Road Park 28,Park,MG Road,12.98613,77.59836,4.4
+P648,Indiranagar Academy 5,College,Indiranagar,12.97724,77.63613,4.9
+P649,MG Road Plaza 3,Mall,MG Road,12.97090,77.62448,3.2
+P650,Marathahalli Business Bay 18,Tech Park,Marathahalli,12.95363,77.69623,3.4
+P651,Indiranagar Garden 2,Park,Indiranagar,12.98263,77.64041,4.4
+P652,BTM Layout Academy 32,College,BTM Layout,12.90411,77.58995,4.5
+P653,Bellandur College 1,College,Bellandur,12.93460,77.68417,4.2
+P654,Koramangala Brewpub 7,Pub,Koramangala,12.94475,77.59104,5.0
+P655,Jayanagar Arcade 25,Mall,Jayanagar,12.93467,77.59613,4.3
+P656,Koramangala Tech Park 26,Tech Park,Koramangala,12.93598,77.62281,3.6
+P657,MG Road Park 23,Park,MG Road,12.95909,77.60717,4.9
+P658,Bellandur Tech Park 24,Tech Park,Bellandur,12.94409,77.64703,3.3
+P659,Koramangala Park 23,Park,Koramangala,12.92290,77.61544,4.5
+P660,Majestic Brewpub 2,Pub,Majestic,12.98245,77.58488,3.2
+P661,HSR Layout Meals 12,Restaurant,HSR Layout,12.91204,77.66123,4.1
+P662,Indiranagar Dosa Corner 23,Restaurant,Indiranagar,12.99930,77.61402,4.2
+P663,Marathahalli Brewpub 17,Pub,Marathahalli,12.95413,77.68005,4.8
+P664,Bellandur Clinic 28,Hospital,Bellandur,12.93653,77.68331,3.5
+P665,Malleshwaram Dosa Corner 18,Restaurant,Malleshwaram,12.98861,77.58079,3.8
+P666,Malleshwaram Hospital 26,Hospital,Malleshwaram,12.99286,77.58202,4.2
+P667,Jayanagar Plaza 6,Mall,Jayanagar,12.91409,77.57283,4.8
+P668,Koramangala Bar 36,Pub,Koramangala,12.93055,77.64115,4.7
+P669,MG Road Filter Coffee 22,Cafe,MG Road,12.98153,77.61555,3.5
+P670,Bellandur Taproom 13,Pub,Bellandur,12.91497,77.66998,3.0
+P671,BTM Layout Clinic 39,Hospital,BTM Layout,12.90145,77.60986,4.6
+P672,Whitefield IT Campus 9,Tech Park,Whitefield,12.97384,77.74714,4.4
+P673,Marathahalli Arcade 33,Mall,Marathahalli,12.95959,77.71255,4.4
+P674,BTM Layout Bar 3,Pub,BTM Layout,12.91332,77.61534,4.0
+P675,Koramangala IT Campus 9,Tech Park,Koramangala,12.94097,77.62260,3.6
+P676,Marathahalli Arcade 31,Mall,Marathahalli,12.97865,77.68634,3.3
+P677,Electronic City Dosa Corner 20,Restaurant,Electronic City,12.83335,77.66208,3.5
+P678,Majestic Brewpub 26,Pub,Majestic,12.96530,77.59477,4.5
+P679,Whitefield Dosa Corner 28,Restaurant,Whitefield,12.95254,77.73296,4.7
+P680,Electronic City Taproom 18,Pub,Electronic City,12.83701,77.67660,4.4
+P681,BTM Layout Filter Coffee 4,Cafe,BTM Layout,12.90908,77.58314,3.5
+P682,BTM Layout Bar 20,Pub,BTM Layout,12.91693,77.62249,3.1
+P683,Marathahalli Health Centre 34,Hospital,Marathahalli,12.97820,77.71610,4.2
+P684,Jayanagar Biryani House 32,Restaurant,Jayanagar,12.93136,77.58967,3.3
+P685,MG Road IT Campus 7,Tech Park,MG Road,12.96376,77.59089,3.3
+P686,Indiranagar Dosa Corner 11,Restaurant,Indiranagar,12.98659,77.65004,3.1
+P687,Malleshwaram College 2,College,Malleshwaram,12.99179,77.58820,4.2
+P688,Marathahalli Taproom 9,Pub,Marathahalli,12.95090,77.70538,4.4
+P689,Koramangala Taproom 11,Pub,Koramangala,12.93970,77.62038,3.9
+P690,HSR Layout Academy 20,College,HSR Layout,12.89370,77.64342,4.3
+P691,Jayanagar College 27,College,Jayanagar,12.90953,77.59478,3.2
+P692,BTM Layout Hospital 22,Hospital,BTM Layout,12.92193,77.60892,4.1
+P693,Banashankari Darshini 29,Cafe,Banashankari,12.94881,77.55889,5.0
+P694,Marathahalli Darshini 35,Cafe,Marathahalli,12.94973,77.69207,4.2
+P695,BTM Layout Taproom 2,Pub,BTM Layout,12.92589,77.62019,4.6
+P696,Banashankari Darshini 38,Cafe,Banashankari,12.92055,77.52454,3.9
+P697,Yelahanka Meals 15,Restaurant,Yelahanka,13.09964,77.60091,3.9
+P698,MG Road Brew 34,Cafe,MG Road,12.96547,77.60549,3.6
+P699,Koramangala Bar 35,Pub,Koramangala,12.92562,77.64897,4.0
+P700,Indiranagar Clinic 2,Hospital,Indiranagar,12.98708,77.63752,3.2
+P701,Indiranagar Hospital 34,Hospital,Indiranagar,12.98945,77.64206,4.1
+P702,Whitefield Business Bay 22,Tech Park,Whitefield,12.95564,77.73597,3.0
+P703,HSR Layout Academy 20,College,HSR Layout,12.91486,77.64786,3.4
+P704,Marathahalli Lake View 30,Park,Marathahalli,12.96470,77.70184,4.3
+P705,Whitefield Taproom 28,Pub,Whitefield,12.96754,77.75880,4.5
+P706,Jayanagar Arcade 6,Mall,Jayanagar,12.90989,77.58883,4.9
+P707,Majestic Filter Coffee 21,Cafe,Majestic,12.99325,77.56780,4.2
+P708,BTM Layout Garden 31,Park,BTM Layout,12.91891,77.60602,3.0
+P709,Whitefield Dosa Corner 6,Restaurant,Whitefield,12.98156,77.75645,4.6
+P710,Marathahalli Institute 35,College,Marathahalli,12.93492,77.69180,3.5
+P711,Yelahanka College 37,College,Yelahanka,13.08489,77.61338,3.2
+P712,Koramangala Taproom 38,Pub,Koramangala,12.91487,77.62232,4.3
+P713,MG Road Biryani House 9,Restaurant,MG Road,12.96949,77.62745,4.7
+P714,MG Road IT Campus 27,Tech Park,MG Road,12.96647,77.60977,3.6
+P715,Marathahalli College 18,College,Marathahalli,12.95907,77.70533,4.7
+P716,Bellandur Hospital 28,Hospital,Bellandur,12.92074,77.67241,3.9
+P717,HSR Layout Taproom 29,Pub,HSR Layout,12.89954,77.64763,3.2
+P718,Majestic Bar 19,Pub,Majestic,12.97730,77.56540,4.7
+P719,Whitefield Business Bay 32,Tech Park,Whitefield,12.96872,77.75000,4.8
+P720,Electronic City IT Campus 21,Tech Park,Electronic City,12.85334,77.67370,4.0
+P721,Jayanagar IT Campus 38,Tech Park,Jayanagar,12.93524,77.58664,3.1
+P722,Bellandur Bar 18,Pub,Bellandur,12.93146,77.67942,4.0
+P723,Indiranagar Brewpub 16,Pub,Indiranagar,12.97134,77.63780,3.8
+P724,MG Road Institute 20,College,MG Road,12.97566,77.59337,3.8
+P725,Yelahanka Academy 12,College,Yelahanka,13.09781,77.58361,4.2
+P726,MG Road Bar 24,Pub,MG Road,12.97920,77.59773,3.7
+P727,MG Road Biryani House 16,Restaurant,MG Road,12.97186,77.60636,3.7
+P728,Malleshwaram Health Centre 25,Hospital,Malleshwaram,13.00378,77.56014,4.6
+P729,MG Road Academy 18,College,MG Road,12.97081,77.60402,3.2
+P730,MG Road Hospital 22,Hospital,MG Road,12.99763,77.59128,3.8
+P731,Whitefield Institute 9,College,Whitefield,12.97756,77.73761,3.0
+P732,Hebbal Plaza 9,Mall,Hebbal,13.04825,77.62537,4.2
+P733,Malleshwaram Meals 22,Restaurant,Malleshwaram,12.99995,77.58964,4.2
+P734,Electronic City Plaza 10,Mall,Electronic City,12.85415,77.64721,5.0
+P735,Koramangala Clinic 36,Hospital,Koramangala,12.94655,77.63237,3.4
+P736,Banashankari Park 34,Park,Banashankari,12.94946,77.53832,3.1
+P737,MG Road Bar 18,Pub,MG Road,12.94934,77.60084,3.2
+P738,BTM Layout Taproom 13,Pub,BTM Layout,12.91066,77.60019,3.8
+P739,MG Road Clinic 17,Hospital,MG Road,12.97430,77.59733,3.5
+P740,Koramangala IT Campus 8,Tech Park,Koramangala,12.92700,77.63662,4.2
+P741,Hebbal Institute 1,College,Hebbal,13.02256,77.60886,3.9
+P742,Koramangala Lake View 36,Park,Koramangala,12.93493,77.61870,3.6
+P743,Indiranagar Brew 34,Cafe,Indiranagar,12.96993,77.63208,4.5
+P744,Marathahalli Hospital 36,Hospital,Marathahalli,12.98122,77.69973,4.7
+P745,Indiranagar Brew 20,Cafe,Indiranagar,12.96298,77.64518,4.3
+P746,Bellandur College 10,College,Bellandur,12.94984,77.67078,3.8
+P747,Bellandur Garden 13,Park,Bellandur,12.93099,77.67347,4.8
+P748,Hebbal Brew 6,Cafe,Hebbal,13.03482,77.59808,4.2
+P749,HSR Layout Lake View 39,Park,HSR Layout,12.90667,77.66231,3.7
+P750,Malleshwaram Brewpub 10,Pub,Malleshwaram,12.99179,77.58082,3.5
+P751,Majestic Mall 27,Mall,Majestic,12.98578,77.56034,3.8
+P752,MG Road Biryani House 36,Restaurant,MG Road,12.98980,77.61804,3.9
+P753,Banashankari Institute 22,College,Banashankari,12.91157,77.57206,4.5
+P754,Hebbal Brewpub 25,Pub,Hebbal,13.03165,77.60819,3.7
+P755,Yelahanka Garden 29,Park,Yelahanka,13.10018,77.58881,3.7
+P756,Jayanagar College 31,College,Jayanagar,12.92007,77.59385,3.4
+P757,Whitefield IT Campus 1,Tech Park,Whitefield,12.95731,77.74654,3.0
+P758,Marathahalli Institute 16,College,Marathahalli,12.95082,77.71654,4.4
+P759,Whitefield Health Centre 29,Hospital,Whitefield,12.98600,77.73469,4.7
+P760,Indiranagar Darshini 40,Cafe,Indiranagar,12.99886,77.63639,3.7
+P761,Malleshwaram Darshini 18,Cafe,Malleshwaram,12.98452,77.56865,3.6
+P762,Marathahalli Park 40,Park,Marathahalli,12.95841,77.67840,3.1
+P763,Banashankari Arcade 7,Mall,Banashankari,12.90763,77.56099,4.9
+P764,Majestic Darshini 13,Cafe,Majestic,12.97933,77.57470,4.4
+P765,Electronic City Park 26,Park,Electronic City,12.87106,77.66075,3.2
+P766,Koramangala Darshini 34,Cafe,Koramangala,12.92446,77.60366,4.1
+P767,Majestic Bar 20,Pub,Majestic,12.98751,77.56208,3.8
+P768,Indiranagar Arcade 35,Mall,Indiranagar,12.99485,77.62959,3.8
+P769,Yelahanka Biryani House 34,Restaurant,Yelahanka,13.09987,77.59993,3.8
+P770,Indiranagar Brewpub 38,Pub,Indiranagar,12.96744,77.64227,5.0
+P771,Banashankari Darshini 26,Cafe,Banashankari,12.93923,77.54176,4.5
+P772,Electronic City Mall 20,Mall,Electronic City,12.85342,77.66345,4.0
+P773,HSR Layout Mall 18,Mall,HSR Layout,12.89822,77.64241,4.4
+P774,MG Road Bar 39,Pub,MG Road,12.98148,77.61389,3.6
+P775,Majestic Academy 7,College,Majestic,12.98703,77.58719,4.8
+P776,HSR Layout Darshini 9,Cafe,HSR Layout,12.90289,77.65559,3.9
+P777,HSR Layout Institute 27,College,HSR Layout,12.90659,77.67042,3.8
+P778,MG Road Park 37,Park,MG Road,12.97793,77.58831,4.4
+P779,Koramangala Darshini 39,Cafe,Koramangala,12.92132,77.62585,4.7
+P780,Whitefield Taproom 15,Pub,Whitefield,12.97213,77.75100,4.5
+P781,Hebbal Darshini 3,Cafe,Hebbal,13.02255,77.59191,4.5
+P782,Majestic Park 7,Park,Majestic,12.96001,77.59578,3.2
+P783,Electronic City Brew 30,Cafe,Electronic City,12.82541,77.65106,3.7
+P784,Hebbal Lake View 20,Park,Hebbal,13.03962,77.60357,5.0
+P785,Jayanagar Academy 15,College,Jayanagar,12.91560,77.60243,4.6
+P786,MG Road College 2,College,MG Road,12.97048,77.60042,3.0
+P787,Majestic Garden 4,Park,Majestic,12.99470,77.58685,4.1
+P788,Majestic Garden 25,Park,Majestic,12.98557,77.59067,4.8
+P789,Bellandur Brew 32,Cafe,Bellandur,12.91793,77.66937,3.7
+P790,Marathahalli Business Bay 21,Tech Park,Marathahalli,12.93681,77.71234,3.2
+P791,Jayanagar Mall 28,Mall,Jayanagar,12.90095,77.60472,4.6
+P792,Yelahanka Brew 12,Cafe,Yelahanka,13.09883,77.58437,3.9
+P793,Electronic City Tech Park 14,Tech Park,Electronic City,12.84146,77.64459,4.5
+P794,HSR Layout Hospital 35,Hospital,HSR Layout,12.91494,77.64461,3.6
+P795,HSR Layout Clinic 21,Hospital,HSR Layout,12.95249,77.63210,4.6
+P796,BTM Layout Taproom 33,Pub,BTM Layout,12.92954,77.58776,4.0
+P797,Banashankari College 31,College,Banashankari,12.91231,77.50526,4.3
+P798,BTM Layout Darshini 19,Cafe,BTM Layout,12.91863,77.59415,4.5
+P799,Banashankari Meals 8,Restaurant,Banashankari,12.88825,77.54266,4.8
+P800,HSR Layout Garden 23,Park,HSR Layout,12.90991,77.63959,4.7
+P801,Jayanagar Darshini 9,Cafe,Jayanagar,12.92630,77.61293,3.3
+P802,MG Road Garden 17,Park,MG Road,12.98625,77.59788,4.3
+P803,Indiranagar Taproom 17,Pub,Indiranagar,12.98370,77.63943,4.2
+P804,Whitefield Mall 5,Mall,Whitefield,12.96037,77.73012,4.7
+P805,Koramangala IT Campus 22,Tech Park,Koramangala,12.96355,77.63907,5.0
+P806,Jayanagar College 8,College,Jayanagar,12.93262,77.59996,3.8
+P807,Indiranagar Institute 25,College,Indiranagar,12.98231,77.64847,4.5
+P808,Whitefield Garden 34,Park,Whitefield,12.94177,77.74064,4.8
+P809,MG Road Business Bay 15,Tech Park,MG Road,12.98155,77.60126,3.1
+P810,Indiranagar Mall 31,Mall,Indiranagar,12.98722,77.63874,3.7
+P811,MG Road Meals 4,Restaurant,MG Road,12.97362,77.59958,4.3
+P812,Koramangala Institute 4,College,Koramangala,12.94214,77.63429,3.4
+P813,MG Road Business Bay 13,Tech Park,MG Road,12.95764,77.60379,4.9
+P814,BTM Layout Brew 7,Cafe,BTM Layout,12.91632,77.62028,3.9
+P815,Yelahanka Garden 10,Park,Yelahanka,13.11146,77.60827,4.0
+P816,Malleshwaram Biryani House 32,Restaurant,Malleshwaram,12.98570,77.57894,3.8
+P817,Whitefield Tech Park 40,Tech Park,Whitefield,12.96554,77.73119,3.5
+P818,Koramangala Tech Park 40,Tech Park,Koramangala,12.93600,77.62705,3.8
+P819,Hebbal Lake View 11,Park,Hebbal,13.02546,77.59994,4.4
+P820,BTM Layout Brewpub 29,Pub,BTM Layout,12.92547,77.62122,3.6
+P821,MG Road Taproom 18,Pub,MG Road,12.97493,77.60241,4.8
+P822,Electronic City Business Bay 34,Tech Park,Electronic City,12.82595,77.66417,3.5
+P823,Electronic City Meals 27,Restaurant,Electronic City,12.86078,77.64478,3.8
+P824,Indiranagar Mall 36,Mall,Indiranagar,12.98514,77.65382,3.1
+P825,Jayanagar Lake View 40,Park,Jayanagar,12.93761,77.59168,4.1
+P826,MG Road Academy 31,College,MG Road,12.97505,77.62205,3.8
+P827,MG Road Biryani House 6,Restaurant,MG Road,12.98570,77.60624,4.3
+P828,Banashankari College 6,College,Banashankari,12.93228,77.54238,3.2
+P829,HSR Layout Health Centre 20,Hospital,HSR Layout,12.91994,77.63947,3.3
+P830,Malleshwaram Health Centre 31,Hospital,Malleshwaram,13.01238,77.59234,3.3
+P831,HSR Layout Plaza 10,Mall,HSR Layout,12.88844,77.65157,4.9
+P832,Marathahalli Hospital 33,Hospital,Marathahalli,12.95054,77.69680,4.1
+P833,Whitefield Filter Coffee 13,Cafe,Whitefield,12.96414,77.76748,3.4
+P834,Koramangala Garden 21,Park,Koramangala,12.94777,77.61232,3.8
+P835,Malleshwaram Health Centre 3,Hospital,Malleshwaram,12.99589,77.56295,4.3
+P836,Marathahalli Institute 22,College,Marathahalli,12.95563,77.69880,3.2
+P837,Electronic City Clinic 22,Hospital,Electronic City,12.84195,77.64926,4.7
+P838,HSR Layout Academy 35,College,HSR Layout,12.88925,77.66481,4.4
+P839,Bellandur Plaza 3,Mall,Bellandur,12.92390,77.65823,3.7
+P840,Hebbal Biryani House 2,Restaurant,Hebbal,13.03214,77.57768,4.7
+P841,Whitefield Plaza 11,Mall,Whitefield,12.96744,77.76873,4.7
+P842,MG Road Park 29,Park,MG Road,12.98009,77.59516,3.7
+P843,Whitefield Hospital 21,Hospital,Whitefield,12.96725,77.76782,4.2
+P844,Malleshwaram Biryani House 14,Restaurant,Malleshwaram,13.01071,77.57128,3.4
+P845,Marathahalli Hospital 36,Hospital,Marathahalli,12.96448,77.69667,4.7
+P846,Koramangala Business Bay 39,Tech Park,Koramangala,12.92192,77.64272,3.1
+P847,Banashankari Meals 18,Restaurant,Banashankari,12.94241,77.54417,3.0
+P848,HSR Layout Health Centre 30,Hospital,HSR Layout,12.92360,77.63399,3.0
+P849,HSR Layout Park 25,Park,HSR Layout,12.90025,77.65230,3.8
+P850,Whitefield Brew 37,Cafe,Whitefield,12.96090,77.74000,3.4
+P851,Jayanagar Biryani House 24,Restaurant,Jayanagar,12.94271,77.61252,3.6
+P852,Banashankari Bar 23,Pub,Banashankari,12.92748,77.54876,3.2
+P853,HSR Layout Clinic 36,Hospital,HSR Layout,12.90004,77.65513,4.7
+P854,MG Road Dosa Corner 3,Restaurant,MG Road,12.97990,77.60296,3.1
+P855,Majestic Bar 31,Pub,Majestic,12.98206,77.58045,4.2
+P856,Koramangala Meals 37,Restaurant,Koramangala,12.94470,77.63083,4.9
+P857,Bellandur Academy 15,College,Bellandur,12.93146,77.67074,4.8
+P858,Electronic City Plaza 3,Mall,Electronic City,12.85670,77.67200,4.9
+P859,MG Road IT Campus 29,Tech Park,MG Road,12.95683,77.60420,4.2
+P860,HSR Layout Dosa Corner 39,Restaurant,HSR Layout,12.92528,77.65590,4.4
+P861,BTM Layout Clinic 19,Hospital,BTM Layout,12.92826,77.61477,3.8
+P862,Jayanagar Institute 33,College,Jayanagar,12.92125,77.62104,4.0
+P863,Electronic City Plaza 25,Mall,Electronic City,12.82064,77.66547,3.5
+P864,BTM Layout Biryani House 24,Restaurant,BTM Layout,12.92323,77.60818,3.1
+P865,Indiranagar Bar 25,Pub,Indiranagar,12.97909,77.63798,4.0
+P866,Majestic Health Centre 34,Hospital,Majestic,12.99537,77.57775,3.1
+P867,Hebbal Garden 4,Park,Hebbal,13.01947,77.62174,4.8
+P868,Bellandur Park 40,Park,Bellandur,12.93547,77.68611,3.7
+P869,Majestic Park 6,Park,Majestic,12.98703,77.56968,4.2
+P870,Indiranagar Meals 34,Restaurant,Indiranagar,12.98520,77.63701,4.3
+P871,HSR Layout Health Centre 30,Hospital,HSR Layout,12.91901,77.64705,3.1
+P872,HSR Layout Taproom 15,Pub,HSR Layout,12.92485,77.64833,4.6
+P873,Whitefield Business Bay 40,Tech Park,Whitefield,12.99141,77.75045,4.9
+P874,HSR Layout Darshini 21,Cafe,HSR Layout,12.88800,77.64000,3.4
+P875,Marathahalli Lake View 26,Park,Marathahalli,12.96730,77.67854,4.7
+P876,Whitefield College 9,College,Whitefield,12.95751,77.74727,4.7
+P877,Hebbal Brew 28,Cafe,Hebbal,13.04725,77.58147,4.9
+P878,BTM Layout Academy 39,College,BTM Layout,12.92803,77.61262,4.9
+P879,HSR Layout College 24,College,HSR Layout,12.90679,77.63835,4.4
+P880,Banashankari Mall 24,Mall,Banashankari,12.92446,77.55697,4.4
+P881,HSR Layout Dosa Corner 5,Restaurant,HSR Layout,12.91454,77.63438,3.0
+P882,Electronic City Filter Coffee 5,Cafe,Electronic City,12.84295,77.67436,4.0
+P883,HSR Layout Garden 27,Park,HSR Layout,12.92430,77.64406,4.1
+P884,Hebbal Garden 28,Park,Hebbal,13.03230,77.60022,4.3
+P885,MG Road College 16,College,MG Road,12.97965,77.60398,4.5
+P886,Whitefield Bar 40,Pub,Whitefield,12.97695,77.73953,3.5
+P887,BTM Layout Health Centre 37,Hospital,BTM Layout,12.91277,77.60750,4.1
+P888,Yelahanka Biryani House 36,Restaurant,Yelahanka,13.13352,77.59282,3.1
+P889,BTM Layout Brewpub 4,Pub,BTM Layout,12.92764,77.60077,4.3
+P890,Banashankari Brew 21,Cafe,Banashankari,12.90276,77.57445,4.2
+P891,MG Road Clinic 17,Hospital,MG Road,12.96934,77.62077,4.2
+P892,HSR Layout Meals 6,Restaurant,HSR Layout,12.92439,77.64851,3.8
+P893,Yelahanka Clinic 1,Hospital,Yelahanka,13.12574,77.59992,3.8
+P894,Whitefield Lake View 16,Park,Whitefield,12.95614,77.73978,3.1
+P895,Banashankari Park 29,Park,Banashankari,12.91839,77.55062,3.5
+P896,Jayanagar Plaza 8,Mall,Jayanagar,12.91823,77.58923,3.5
+P897,Whitefield Plaza 11,Mall,Whitefield,12.97012,77.73406,4.2
+P898,Banashankari Lake View 12,Park,Banashankari,12.92927,77.54213,4.8
+P899,Malleshwaram Biryani House 4,Restaurant,Malleshwaram,13.00088,77.55720,4.7
+P900,BTM Layout Arcade 6,Mall,BTM Layout,12.91618,77.60089,4.5
+P901,HSR Layout Plaza 16,Mall,HSR Layout,12.92022,77.63972,3.4
+P902,Whitefield Tech Park 8,Tech Park,Whitefield,12.98734,77.73424,4.8
+P903,Koramangala Park 24,Park,Koramangala,12.93581,77.61498,3.4
+P904,HSR Layout College 5,College,HSR Layout,12.92906,77.65389,3.1
+P905,Banashankari Clinic 14,Hospital,Banashankari,12.92727,77.55963,3.8
+P906,Bellandur Brewpub 9,Pub,Bellandur,12.92837,77.69892,3.9
+P907,MG Road Academy 39,College,MG Road,12.99036,77.62736,4.9
+P908,HSR Layout Brew 34,Cafe,HSR Layout,12.91991,77.65436,3.2
+P909,Hebbal Health Centre 19,Hospital,Hebbal,13.03303,77.59873,3.3
+P910,Hebbal Institute 30,College,Hebbal,13.03207,77.59463,4.7
+P911,Indiranagar Brew 40,Cafe,Indiranagar,12.97345,77.63686,3.5
+P912,MG Road Dosa Corner 11,Restaurant,MG Road,12.98185,77.60843,3.5
+P913,Malleshwaram College 27,College,Malleshwaram,13.01581,77.56549,4.1
+P914,Hebbal Mall 30,Mall,Hebbal,13.02781,77.59300,4.7
+P915,HSR Layout Health Centre 11,Hospital,HSR Layout,12.92854,77.64804,3.4
+P916,Indiranagar Park 9,Park,Indiranagar,12.99391,77.62186,4.3
+P917,Banashankari Filter Coffee 31,Cafe,Banashankari,12.92218,77.54763,4.1
+P918,Koramangala Meals 18,Restaurant,Koramangala,12.93538,77.65551,4.7
+P919,Marathahalli Tech Park 34,Tech Park,Marathahalli,12.95650,77.67564,4.1
+P920,Majestic Institute 24,College,Majestic,12.95841,77.56863,3.4
+P921,Majestic Filter Coffee 13,Cafe,Majestic,12.94375,77.55875,3.7
+P922,Electronic City Filter Coffee 20,Cafe,Electronic City,12.82667,77.64710,3.7
+P923,Jayanagar Health Centre 21,Hospital,Jayanagar,12.90982,77.59515,4.2
+P924,MG Road Biryani House 6,Restaurant,MG Road,12.96481,77.61219,4.3
+P925,HSR Layout Mall 5,Mall,HSR Layout,12.92917,77.64463,4.0
+P926,Bellandur Health Centre 15,Hospital,Bellandur,12.90662,77.66273,3.3
+P927,Malleshwaram College 29,College,Malleshwaram,12.99819,77.55802,3.8
+P928,MG Road Clinic 13,Hospital,MG Road,13.00143,77.59000,4.1
+P929,Indiranagar Academy 1,College,Indiranagar,12.97418,77.64984,3.9
+P930,Whitefield College 23,College,Whitefield,12.95653,77.75140,3.0
+P931,Hebbal Clinic 13,Hospital,Hebbal,13.04807,77.62671,3.8
+P932,Whitefield Garden 2,Park,Whitefield,12.95602,77.75166,3.8
+P933,Banashankari Dosa Corner 40,Restaurant,Banashankari,12.92872,77.55158,3.4
+P934,Banashankari Filter Coffee 36,Cafe,Banashankari,12.94702,77.53775,4.3
+P935,BTM Layout Lake View 32,Park,BTM Layout,12.93383,77.62321,3.9
+P936,Banashankari Mall 25,Mall,Banashankari,12.91776,77.54816,3.5
+P937,Bellandur Health Centre 30,Hospital,Bellandur,12.92387,77.68647,4.8
+P938,BTM Layout Filter Coffee 31,Cafe,BTM Layout,12.91245,77.61639,4.6
+P939,HSR Layout Park 2,Park,HSR Layout,12.91245,77.63355,3.9
+P940,Koramangala Dosa Corner 36,Restaurant,Koramangala,12.93621,77.61460,4.0
+P941,Electronic City Hospital 30,Hospital,Electronic City,12.84015,77.66587,4.2
+P942,Indiranagar Filter Coffee 39,Cafe,Indiranagar,12.98092,77.63959,4.1
+P943,HSR Layout Plaza 30,Mall,HSR Layout,12.93503,77.64157,3.5
+P944,Banashankari Brewpub 27,Pub,Banashankari,12.92465,77.54897,3.8
+P945,Koramangala Health Centre 6,Hospital,Koramangala,12.93824,77.62117,4.4
+P946,Majestic Park 16,Park,Majestic,12.98611,77.56949,3.9
+P947,Electronic City Tech Park 9,Tech Park,Electronic City,12.83682,77.68192,3.4
+P948,Whitefield Garden 10,Park,Whitefield,12.97073,77.75503,3.2
+P949,Marathahalli Clinic 39,Hospital,Marathahalli,12.95492,77.68415,5.0
+P950,Hebbal Lake View 40,Park,Hebbal,13.04265,77.58319,3.9
+P951,MG Road Tech Park 22,Tech Park,MG Road,12.96564,77.62237,4.8
+P952,HSR Layout Clinic 37,Hospital,HSR Layout,12.92991,77.64136,4.8
+P953,Malleshwaram IT Campus 39,Tech Park,Malleshwaram,12.98911,77.56693,3.7
+P954,Whitefield Health Centre 17,Hospital,Whitefield,12.96438,77.76016,3.5
+P955,Whitefield Park 29,Park,Whitefield,12.98214,77.73396,4.4
+P956,MG Road IT Campus 13,Tech Park,MG Road,12.97474,77.60154,3.2
+P957,Bellandur Biryani House 7,Restaurant,Bellandur,12.91322,77.67178,5.0
+P958,HSR Layout Health Centre 40,Hospital,HSR Layout,12.89579,77.63544,3.5
+P959,Marathahalli Darshini 29,Cafe,Marathahalli,12.95035,77.68938,4.3
+P960,Marathahalli Taproom 17,Pub,Marathahalli,12.96633,77.69410,4.8
+P961,BTM Layout Hospital 11,Hospital,BTM Layout,12.92796,77.59630,4.4
+P962,Malleshwaram Institute 4,College,Malleshwaram,12.98168,77.56418,3.7
+P963,Indiranagar Park 13,Park,Indiranagar,12.97342,77.64096,4.6
+P964,Koramangala Bar 37,Pub,Koramangala,12.91220,77.61639,4.6
+P965,Koramangala Park 13,Park,Koramangala,12.94281,77.62563,4.0
+P966,HSR Layout Plaza 23,Mall,HSR Layout,12.90435,77.65265,4.4
+P967,Marathahalli Filter Coffee 11,Cafe,Marathahalli,12.94318,77.71829,3.5
+P968,Bellandur Business Bay 7,Tech Park,Bellandur,12.91841,77.68419,3.1
+P969,Majestic Meals 28,Restaurant,Majestic,12.98402,77.57364,3.9
+P970,Marathahalli Darshini 26,Cafe,Marathahalli,12.96468,77.69561,3.8
+P971,Majestic Mall 22,Mall,Majestic,12.99382,77.60153,3.2
+P972,BTM Layout Hospital 6,Hospital,BTM Layout,12.91146,77.63425,3.9
+P973,Koramangala Arcade 35,Mall,Koramangala,12.92249,77.63704,4.3
+P974,Koramangala Biryani House 6,Restaurant,Koramangala,12.92823,77.61556,3.3
+P975,BTM Layout Filter Coffee 13,Cafe,BTM Layout,12.90491,77.59558,4.3
+P976,Jayanagar Hospital 7,Hospital,Jayanagar,12.91013,77.58054,3.5
+P977,Koramangala Business Bay 35,Tech Park,Koramangala,12.93290,77.64000,3.4
+P978,Whitefield Biryani House 4,Restaurant,Whitefield,12.96247,77.77291,3.7
+P979,Marathahalli Garden 12,Park,Marathahalli,12.96474,77.67913,3.1
+P980,Indiranagar Biryani House 20,Restaurant,Indiranagar,12.97918,77.62268,3.8
+P981,Malleshwaram Mall 5,Mall,Malleshwaram,12.99240,77.53506,4.4
+P982,Bellandur Biryani House 2,Restaurant,Bellandur,12.93381,77.67895,3.6
+P983,Bellandur Academy 8,College,Bellandur,12.93011,77.65930,4.4
+P984,Malleshwaram Biryani House 3,Restaurant,Malleshwaram,13.00083,77.57681,5.0
+P985,MG Road Lake View 24,Park,MG Road,12.95754,77.60980,4.7
+P986,Jayanagar Darshini 22,Cafe,Jayanagar,12.92844,77.58551,4.5
+P987,Koramangala IT Campus 17,Tech Park,Koramangala,12.94164,77.66447,3.6
+P988,BTM Layout Biryani House 5,Restaurant,BTM Layout,12.91561,77.60798,4.8
+P989,HSR Layout IT Campus 38,Tech Park,HSR Layout,12.92273,77.64113,4.6
+P990,Banashankari College 26,College,Banashankari,12.93303,77.53387,3.1
+P991,Indiranagar Garden 26,Park,Indiranagar,12.99366,77.63108,3.5
+P992,Electronic City Business Bay 4,Tech Park,Electronic City,12.84157,77.65946,3.4
+P993,BTM Layout Academy 35,College,BTM Layout,12.93976,77.60729,3.3
+P994,Majestic Arcade 22,Mall,Majestic,12.98359,77.55058,4.5
+P995,Yelahanka Arcade 12,Mall,Yelahanka,13.12264,77.59837,3.0
+P996,Banashankari Clinic 9,Hospital,Banashankari,12.92290,77.56600,3.8
+P997,Indiranagar Biryani House 40,Restaurant,Indiranagar,12.97987,77.64067,3.3
+P998,Hebbal Tech Park 10,Tech Park,Hebbal,13.05245,77.57542,3.1
+P999,Majestic Mall 15,Mall,Majestic,12.97232,77.58509,4.8
+P1000,Bellandur Plaza 30,Mall,Bellandur,12.91894,77.67813,4.8
+P1001,MG Road Garden 36,Park,MG Road,12.96561,77.62398,4.2
+P1002,Bellandur Institute 37,College,Bellandur,12.95332,77.68235,3.1
+P1003,Koramangala Brewpub 2,Pub,Koramangala,12.92885,77.63551,3.9
+P1004,Marathahalli Brew 18,Cafe,Marathahalli,12.95908,77.70400,4.9
+P1005,Koramangala Institute 36,College,Koramangala,12.92630,77.63335,4.3
+P1006,Koramangala Health Centre 37,Hospital,Koramangala,12.97129,77.62795,4.1
+P1007,Banashankari Bar 13,Pub,Banashankari,12.92916,77.55784,3.4
+P1008,Jayanagar Park 4,Park,Jayanagar,12.91803,77.60044,4.5
+P1009,MG Road College 39,College,MG Road,12.97251,77.59939,3.9
+P1010,BTM Layout Bar 12,Pub,BTM Layout,12.91504,77.59456,3.5
+P1011,HSR Layout Lake View 8,Park,HSR Layout,12.88131,77.65577,4.1
+P1012,Indiranagar Garden 21,Park,Indiranagar,12.97271,77.63505,4.1
+P1013,MG Road Institute 10,College,MG Road,12.97219,77.60834,4.4
+P1014,Malleshwaram Brew 33,Cafe,Malleshwaram,12.98143,77.57814,3.0
+P1015,Bellandur Clinic 15,Hospital,Bellandur,12.92703,77.68803,4.5
+P1016,Jayanagar Plaza 26,Mall,Jayanagar,12.90464,77.61223,3.9
+P1017,HSR Layout Brewpub 2,Pub,HSR Layout,12.91796,77.63779,3.5
+P1018,Jayanagar Brew 34,Cafe,Jayanagar,12.92271,77.55772,5.0
+P1019,Malleshwaram Biryani House 9,Restaurant,Malleshwaram,13.01476,77.57122,4.5
+P1020,HSR Layout Institute 32,College,HSR Layout,12.93112,77.65949,3.1
+P1021,Marathahalli Dosa Corner 21,Restaurant,Marathahalli,12.96754,77.69923,3.5
+P1022,Marathahalli Biryani House 9,Restaurant,Marathahalli,12.97834,77.69940,3.3
+P1023,Jayanagar Mall 27,Mall,Jayanagar,12.91675,77.60549,3.5
+P1024,Marathahalli Filter Coffee 3,Cafe,Marathahalli,12.95519,77.69657,5.0
+P1025,BTM Layout Brewpub 16,Pub,BTM Layout,12.90143,77.62427,4.0
+P1026,Electronic City Business Bay 23,Tech Park,Electronic City,12.85202,77.65042,3.4
+P1027,Whitefield Garden 38,Park,Whitefield,12.97555,77.75840,4.5
+P1028,Electronic City Plaza 8,Mall,Electronic City,12.83270,77.66399,3.4
+P1029,Malleshwaram Academy 35,College,Malleshwaram,13.00534,77.59086,4.4
+P1030,Jayanagar Park 17,Park,Jayanagar,12.92735,77.58885,3.1
+P1031,MG Road Tech Park 37,Tech Park,MG Road,12.97630,77.59349,4.1
+P1032,Marathahalli Lake View 39,Park,Marathahalli,12.95571,77.69901,3.4
+P1033,Indiranagar Garden 27,Park,Indiranagar,12.99948,77.66608,5.0
+P1034,Jayanagar Arcade 23,Mall,Jayanagar,12.91396,77.61542,3.7
+P1035,Indiranagar Mall 33,Mall,Indiranagar,12.97420,77.61493,4.9
+P1036,Yelahanka Plaza 13,Mall,Yelahanka,13.09458,77.59913,4.6
+P1037,Jayanagar Institute 21,College,Jayanagar,12.92907,77.58701,3.8
+P1038,Koramangala Academy 29,College,Koramangala,12.92263,77.64085,3.1
+P1039,HSR Layout Filter Coffee 23,Cafe,HSR Layout,12.89405,77.65006,4.6
+P1040,Banashankari Brew 40,Cafe,Banashankari,12.92728,77.54647,4.7
+P1041,Hebbal Brew 8,Cafe,Hebbal,13.01982,77.59241,3.8
+P1042,Bellandur Lake View 35,Park,Bellandur,12.93371,77.66825,4.8
+P1043,Whitefield Park 26,Park,Whitefield,12.96976,77.73653,4.8
+P1044,Koramangala Academy 30,College,Koramangala,12.94116,77.63654,4.4
+P1045,Yelahanka Garden 20,Park,Yelahanka,13.10470,77.58827,4.3
+P1046,Whitefield Brewpub 23,Pub,Whitefield,13.00274,77.74185,4.4
+P1047,MG Road College 18,College,MG Road,12.96532,77.62191,3.9
+P1048,Whitefield Filter Coffee 12,Cafe,Whitefield,12.96775,77.76314,3.4
+P1049,Malleshwaram Plaza 29,Mall,Malleshwaram,13.01302,77.57025,3.3
+P1050,Koramangala Filter Coffee 7,Cafe,Koramangala,12.94446,77.60537,3.8
+P1051,Marathahalli Tech Park 39,Tech Park,Marathahalli,12.98531,77.68722,3.7
+P1052,BTM Layout Academy 37,College,BTM Layout,12.90794,77.61612,4.3
+P1053,HSR Layout College 16,College,HSR Layout,12.89429,77.63390,3.3
+P1054,Jayanagar Park 18,Park,Jayanagar,12.93415,77.57767,4.8
+P1055,Whitefield Filter Coffee 28,Cafe,Whitefield,12.96569,77.75410,3.5
+P1056,Marathahalli Institute 8,College,Marathahalli,12.96679,77.69056,3.7
+P1057,Koramangala Clinic 6,Hospital,Koramangala,12.90935,77.61831,3.4
+P1058,MG Road Meals 9,Restaurant,MG Road,12.96405,77.59905,3.9
+P1059,Yelahanka Hospital 7,Hospital,Yelahanka,13.09217,77.62431,5.0
+P1060,Marathahalli Dosa Corner 12,Restaurant,Marathahalli,12.95402,77.72784,4.3
+P1061,MG Road Arcade 4,Mall,MG Road,12.99654,77.59707,3.3
+P1062,Banashankari Bar 24,Pub,Banashankari,12.91775,77.53846,4.1
+P1063,Majestic Arcade 23,Mall,Majestic,12.99611,77.55878,4.2
+P1064,Banashankari Mall 39,Mall,Banashankari,12.93421,77.53960,4.3
+P1065,HSR Layout Institute 40,College,HSR Layout,12.93040,77.63556,4.5
+P1066,Koramangala Tech Park 6,Tech Park,Koramangala,12.94274,77.60663,3.3
+P1067,Majestic Brew 40,Cafe,Majestic,12.95951,77.58404,3.3
+P1068,BTM Layout Meals 14,Restaurant,BTM Layout,12.90964,77.60735,3.8
+P1069,HSR Layout Biryani House 12,Restaurant,HSR Layout,12.87964,77.63649,3.9
+P1070,Whitefield Mall 35,Mall,Whitefield,12.97871,77.75705,3.8
+P1071,Whitefield Tech Park 38,Tech Park,Whitefield,12.98851,77.74597,3.9
+P1072,BTM Layout Brew 24,Cafe,BTM Layout,12.91817,77.62266,5.0
+P1073,Indiranagar College 2,College,Indiranagar,12.97610,77.63333,4.5
+P1074,Koramangala College 40,College,Koramangala,12.95773,77.62923,4.5
+P1075,Bellandur Mall 9,Mall,Bellandur,12.93634,77.68429,4.2
+P1076,Koramangala Mall 21,Mall,Koramangala,12.95888,77.59815,3.7
+P1077,Whitefield Brewpub 40,Pub,Whitefield,12.96034,77.76106,3.8
+P1078,Malleshwaram Brewpub 16,Pub,Malleshwaram,12.99534,77.56706,3.2
+P1079,BTM Layout Institute 8,College,BTM Layout,12.92507,77.60958,4.6
+P1080,Jayanagar Dosa Corner 26,Restaurant,Jayanagar,12.92162,77.57513,4.4
+P1081,Indiranagar Health Centre 8,Hospital,Indiranagar,12.99725,77.64228,4.6
+P1082,Koramangala Mall 38,Mall,Koramangala,12.94033,77.60484,3.3
+P1083,Electronic City Tech Park 1,Tech Park,Electronic City,12.84132,77.67135,4.3
+P1084,Malleshwaram IT Campus 24,Tech Park,Malleshwaram,13.02336,77.58392,3.8
+P1085,BTM Layout Lake View 11,Park,BTM Layout,12.90841,77.61316,4.1
+P1086,Majestic Institute 13,College,Majestic,12.97628,77.55767,4.0
+P1087,Electronic City Taproom 9,Pub,Electronic City,12.86670,77.66509,3.2
+P1088,Whitefield Tech Park 2,Tech Park,Whitefield,12.98391,77.76120,3.9
+P1089,Indiranagar IT Campus 25,Tech Park,Indiranagar,12.97121,77.63507,4.8
+P1090,Bellandur Brew 22,Cafe,Bellandur,12.93519,77.68372,3.8
+P1091,Whitefield Meals 29,Restaurant,Whitefield,12.97764,77.74979,3.6
+P1092,Majestic Bar 10,Pub,Majestic,12.96374,77.56850,3.5
+P1093,Whitefield Arcade 34,Mall,Whitefield,12.96284,77.74587,4.5
+P1094,Koramangala Meals 34,Restaurant,Koramangala,12.90834,77.61255,3.3
+P1095,MG Road Biryani House 27,Restaurant,MG Road,12.98373,77.61610,4.1
+P1096,Marathahalli Plaza 17,Mall,Marathahalli,12.94455,77.69886,3.5
+P1097,MG Road Health Centre 13,Hospital,MG Road,12.97339,77.61078,4.9
+P1098,Electronic City Health Centre 3,Hospital,Electronic City,12.86291,77.64758,3.9
+P1099,Bellandur Institute 40,College,Bellandur,12.92650,77.70254,4.9
+P1100,Majestic Mall 10,Mall,Majestic,12.97030,77.58181,3.5
+P1101,Bellandur Brewpub 21,Pub,Bellandur,12.92662,77.66333,4.6
+P1102,Yelahanka Brew 23,Cafe,Yelahanka,13.09016,77.61739,4.4
+P1103,Koramangala Meals 40,Restaurant,Koramangala,12.93729,77.62657,3.1
+P1104,Bellandur Hospital 29,Hospital,Bellandur,12.95046,77.70134,4.7
+P1105,MG Road Hospital 33,Hospital,MG Road,12.94793,77.60159,4.2
+P1106,HSR Layout Taproom 27,Pub,HSR Layout,12.91678,77.63460,3.4
+P1107,Indiranagar Park 7,Park,Indiranagar,12.95787,77.63208,4.1
+P1108,HSR Layout Meals 38,Restaurant,HSR Layout,12.92218,77.64007,4.8
+P1109,Koramangala Dosa Corner 19,Restaurant,Koramangala,12.93280,77.61402,4.8
+P1110,Marathahalli IT Campus 23,Tech Park,Marathahalli,12.94768,77.70314,4.7
+P1111,Indiranagar Institute 23,College,Indiranagar,12.96750,77.63260,3.0
+P1112,Marathahalli Health Centre 17,Hospital,Marathahalli,12.95143,77.68322,3.1
+P1113,Electronic City Tech Park 10,Tech Park,Electronic City,12.84413,77.66574,4.5
+P1114,BTM Layout Plaza 9,Mall,BTM Layout,12.90692,77.60389,4.1
+P1115,Indiranagar Hospital 27,Hospital,Indiranagar,12.97453,77.64053,3.7
+P1116,Marathahalli Biryani House 20,Restaurant,Marathahalli,12.95898,77.70200,3.7
+P1117,Bellandur Meals 26,Restaurant,Bellandur,12.92934,77.66143,3.2
+P1118,Hebbal Bar 11,Pub,Hebbal,13.04625,77.60249,4.5
+P1119,Majestic Darshini 1,Cafe,Majestic,12.97700,77.59389,3.2
+P1120,Marathahalli Clinic 38,Hospital,Marathahalli,12.97483,77.70939,4.3
+P1121,Whitefield Institute 36,College,Whitefield,12.97271,77.75895,3.6
+P1122,MG Road College 7,College,MG Road,12.96963,77.60534,3.8
+P1123,Malleshwaram Dosa Corner 37,Restaurant,Malleshwaram,12.98270,77.57506,4.9
+P1124,Electronic City Arcade 23,Mall,Electronic City,12.83972,77.66275,4.7
+P1125,Hebbal Academy 12,College,Hebbal,13.04089,77.59174,3.5
+P1126,HSR Layout Bar 35,Pub,HSR Layout,12.93789,77.64665,3.8
+P1127,Indiranagar Hospital 34,Hospital,Indiranagar,12.98224,77.66740,4.5
+P1128,Banashankari Tech Park 4,Tech Park,Banashankari,12.91015,77.52965,3.9
+P1129,Yelahanka Biryani House 24,Restaurant,Yelahanka,13.11364,77.59299,4.3
+P1130,Majestic Darshini 12,Cafe,Majestic,12.96714,77.58138,4.9
+P1131,Malleshwaram Health Centre 36,Hospital,Malleshwaram,13.02834,77.54734,3.5
+P1132,Banashankari Brewpub 26,Pub,Banashankari,12.91530,77.55158,3.1
+P1133,HSR Layout Park 7,Park,HSR Layout,12.90337,77.65650,3.2
+P1134,Jayanagar Meals 7,Restaurant,Jayanagar,12.92407,77.58816,4.9
+P1135,Marathahalli Brewpub 37,Pub,Marathahalli,12.93452,77.70791,3.6
+P1136,MG Road Hospital 40,Hospital,MG Road,12.97589,77.61593,4.0
+P1137,Koramangala Health Centre 15,Hospital,Koramangala,12.93653,77.61910,4.1
+P1138,Banashankari Plaza 24,Mall,Banashankari,12.94480,77.56425,4.6
+P1139,Indiranagar Bar 22,Pub,Indiranagar,12.98255,77.63339,4.4
+P1140,Banashankari Clinic 21,Hospital,Banashankari,12.93470,77.54930,5.0
+P1141,MG Road Academy 16,College,MG Road,12.97515,77.61743,4.0
+P1142,Marathahalli Health Centre 1,Hospital,Marathahalli,12.95789,77.71011,4.7
+P1143,Marathahalli College 4,College,Marathahalli,12.96513,77.69259,4.4
+P1144,Marathahalli Park 24,Park,Marathahalli,12.96870,77.68550,4.7
+P1145,Hebbal Hospital 24,Hospital,Hebbal,13.03958,77.59352,3.5
+P1146,Marathahalli Biryani House 36,Restaurant,Marathahalli,12.94814,77.70155,5.0
+P1147,Electronic City Biryani House 24,Restaurant,Electronic City,12.83174,77.65250,4.7
+P1148,Marathahalli Darshini 8,Cafe,Marathahalli,12.95279,77.70182,4.5
+P1149,Jayanagar Brew 10,Cafe,Jayanagar,12.93308,77.58817,3.9
+P1150,Majestic Biryani House 24,Restaurant,Majestic,12.94698,77.56240,4.4
+P1151,Jayanagar Plaza 6,Mall,Jayanagar,12.92812,77.58230,3.4
+P1152,Electronic City Brew 31,Cafe,Electronic City,12.84393,77.65523,4.7
+P1153,BTM Layout Academy 35,College,BTM Layout,12.92846,77.62993,4.7
+P1154,MG Road Park 27,Park,MG Road,12.96521,77.60346,4.9
+P1155,Majestic Biryani House 30,Restaurant,Majestic,12.97592,77.57961,4.2
+P1156,Electronic City Institute 9,College,Electronic City,12.81701,77.65175,3.0
+P1157,Yelahanka Clinic 6,Hospital,Yelahanka,13.11912,77.60103,4.5
+P1158,Jayanagar Plaza 12,Mall,Jayanagar,12.94790,77.56985,4.2
+P1159,Malleshwaram Taproom 39,Pub,Malleshwaram,12.99797,77.57045,3.5
+P1160,Jayanagar Garden 22,Park,Jayanagar,12.92964,77.59779,3.2
+P1161,Whitefield Filter Coffee 30,Cafe,Whitefield,12.97630,77.78507,3.6
+P1162,Hebbal Garden 13,Park,Hebbal,13.04582,77.60090,3.6
+P1163,Marathahalli Tech Park 10,Tech Park,Marathahalli,12.97325,77.70473,4.1
+P1164,Koramangala Garden 15,Park,Koramangala,12.94620,77.62111,3.5
+P1165,HSR Layout Garden 4,Park,HSR Layout,12.90146,77.63496,4.0
+P1166,Hebbal Academy 30,College,Hebbal,13.03009,77.60068,4.5
+P1167,Marathahalli Institute 26,College,Marathahalli,12.94901,77.68419,3.1
+P1168,Majestic Bar 11,Pub,Majestic,12.97274,77.56396,3.8
+P1169,Jayanagar College 24,College,Jayanagar,12.92374,77.56649,3.1
+P1170,Majestic Academy 6,College,Majestic,12.97423,77.55957,3.5
+P1171,Bellandur Health Centre 21,Hospital,Bellandur,12.94660,77.71405,4.5
+P1172,Bellandur Garden 40,Park,Bellandur,12.89780,77.64857,4.1
+P1173,MG Road Filter Coffee 4,Cafe,MG Road,12.96639,77.63109,4.5
+P1174,Majestic Meals 39,Restaurant,Majestic,12.95547,77.56937,4.8
+P1175,Jayanagar Garden 3,Park,Jayanagar,12.92924,77.57560,3.3
+P1176,HSR Layout Mall 29,Mall,HSR Layout,12.93007,77.64554,3.1
+P1177,Bellandur Filter Coffee 32,Cafe,Bellandur,12.92292,77.67768,3.5
+P1178,Marathahalli Mall 13,Mall,Marathahalli,12.95403,77.70317,3.7
+P1179,Koramangala Plaza 38,Mall,Koramangala,12.91788,77.60963,4.5
+P1180,Jayanagar Dosa Corner 25,Restaurant,Jayanagar,12.92817,77.60048,4.5
+P1181,MG Road Clinic 7,Hospital,MG Road,12.97081,77.61227,4.3
+P1182,Whitefield Brew 36,Cafe,Whitefield,12.96052,77.77130,4.9
+P1183,Indiranagar Garden 38,Park,Indiranagar,12.98057,77.63391,4.8
+P1184,Whitefield Garden 35,Park,Whitefield,12.94852,77.76654,3.2
+P1185,Yelahanka Plaza 35,Mall,Yelahanka,13.11841,77.60870,3.2
+P1186,Majestic Arcade 33,Mall,Majestic,12.98682,77.60612,3.2
+P1187,Banashankari Meals 11,Restaurant,Banashankari,12.91652,77.53547,3.6
+P1188,Jayanagar Biryani House 8,Restaurant,Jayanagar,12.89944,77.60753,3.7
+P1189,Whitefield Bar 38,Pub,Whitefield,12.95668,77.75588,3.9
+P1190,MG Road Meals 40,Restaurant,MG Road,12.98255,77.58646,3.5
+P1191,BTM Layout Brew 25,Cafe,BTM Layout,12.91700,77.61672,3.9
+P1192,Indiranagar Brew 37,Cafe,Indiranagar,12.97666,77.65979,3.2
+P1193,Banashankari College 5,College,Banashankari,12.91004,77.56029,4.6
+P1194,Koramangala Dosa Corner 16,Restaurant,Koramangala,12.94877,77.60071,4.4
+P1195,Marathahalli Biryani House 14,Restaurant,Marathahalli,12.96526,77.69117,3.7
+P1196,Koramangala IT Campus 8,Tech Park,Koramangala,12.92818,77.60604,5.0
+P1197,Majestic Darshini 27,Cafe,Majestic,12.99820,77.56568,4.1
+P1198,Hebbal Darshini 14,Cafe,Hebbal,13.04601,77.61254,4.7
+P1199,Hebbal IT Campus 7,Tech Park,Hebbal,13.04016,77.61154,3.5
+P1200,Majestic Plaza 35,Mall,Majestic,12.97655,77.57518,3.2
+P1201,Marathahalli Academy 9,College,Marathahalli,12.94745,77.69152,3.9
+P1202,MG Road Academy 22,College,MG Road,12.98151,77.62013,4.1
+P1203,Koramangala College 24,College,Koramangala,12.93175,77.62718,3.7
+P1204,MG Road Clinic 19,Hospital,MG Road,12.97506,77.62020,4.2
+P1205,Koramangala Lake View 25,Park,Koramangala,12.92114,77.62897,4.5
+P1206,Electronic City Mall 20,Mall,Electronic City,12.84390,77.67141,4.8
+P1207,MG Road Brew 8,Cafe,MG Road,12.97497,77.62337,4.3
+P1208,MG Road Tech Park 24,Tech Park,MG Road,12.99007,77.59135,3.9
+P1209,HSR Layout Park 3,Park,HSR Layout,12.91980,77.64380,3.9
+P1210,Jayanagar College 6,College,Jayanagar,12.92252,77.58961,3.1
+P1211,HSR Layout Clinic 17,Hospital,HSR Layout,12.92339,77.66407,5.0
+P1212,Indiranagar Dosa Corner 21,Restaurant,Indiranagar,12.96700,77.61194,3.4
+P1213,Koramangala Tech Park 20,Tech Park,Koramangala,12.94276,77.60684,4.1
+P1214,Whitefield Clinic 17,Hospital,Whitefield,12.95965,77.73898,4.3
+P1215,Malleshwaram Tech Park 16,Tech Park,Malleshwaram,13.01012,77.57341,4.2
+P1216,Yelahanka Taproom 3,Pub,Yelahanka,13.09413,77.61616,4.0
+P1217,Yelahanka College 2,College,Yelahanka,13.10909,77.61982,5.0
+P1218,Whitefield Clinic 29,Hospital,Whitefield,12.96241,77.73428,3.6
+P1219,Marathahalli Taproom 12,Pub,Marathahalli,12.96262,77.68607,4.7
+P1220,Indiranagar Park 27,Park,Indiranagar,12.99107,77.62139,4.2
+P1221,Marathahalli Mall 35,Mall,Marathahalli,12.96201,77.70742,3.8
+P1222,Indiranagar Bar 28,Pub,Indiranagar,12.96287,77.65622,3.4
+P1223,Banashankari Taproom 12,Pub,Banashankari,12.90432,77.57156,4.6
+P1224,Whitefield Meals 40,Restaurant,Whitefield,12.95429,77.74207,4.0
+P1225,Koramangala Business Bay 3,Tech Park,Koramangala,12.93366,77.64917,4.9
+P1226,MG Road Filter Coffee 5,Cafe,MG Road,12.97682,77.61749,3.5
+P1227,Whitefield IT Campus 29,Tech Park,Whitefield,12.94842,77.75085,3.6
+P1228,Yelahanka Garden 21,Park,Yelahanka,13.08113,77.60119,3.8
+P1229,Majestic Health Centre 27,Hospital,Majestic,12.98774,77.56258,4.8
+P1230,Marathahalli Meals 37,Restaurant,Marathahalli,12.96199,77.69701,4.1
+P1231,Jayanagar Bar 15,Pub,Jayanagar,12.92727,77.57812,4.2
+P1232,Majestic Plaza 1,Mall,Majestic,12.96511,77.57910,3.9
+P1233,Whitefield Biryani House 27,Restaurant,Whitefield,12.94057,77.76516,3.9
+P1234,Yelahanka Institute 37,College,Yelahanka,13.09891,77.58902,3.7
+P1235,Bellandur Business Bay 15,Tech Park,Bellandur,12.93119,77.67061,4.4
+P1236,Koramangala IT Campus 37,Tech Park,Koramangala,12.93169,77.60222,3.1
+P1237,Electronic City Tech Park 32,Tech Park,Electronic City,12.82386,77.68032,3.4
+P1238,MG Road Arcade 6,Mall,MG Road,12.98741,77.61268,4.5
+P1239,Jayanagar Taproom 30,Pub,Jayanagar,12.92190,77.59997,3.1
+P1240,HSR Layout Arcade 35,Mall,HSR Layout,12.91564,77.65413,4.7
+P1241,Hebbal Dosa Corner 24,Restaurant,Hebbal,13.03203,77.59746,3.9
+P1242,BTM Layout Hospital 4,Hospital,BTM Layout,12.91403,77.61986,3.2
+P1243,Majestic Institute 26,College,Majestic,12.97271,77.57933,4.0
+P1244,Marathahalli College 34,College,Marathahalli,12.94833,77.68814,3.4
+P1245,Marathahalli Brew 4,Cafe,Marathahalli,12.93347,77.70164,4.5
+P1246,Marathahalli Filter Coffee 1,Cafe,Marathahalli,12.96099,77.70863,4.8
+P1247,HSR Layout Biryani House 28,Restaurant,HSR Layout,12.90916,77.65661,3.7
+P1248,MG Road Business Bay 5,Tech Park,MG Road,12.96213,77.61779,4.5
+P1249,Koramangala Institute 39,College,Koramangala,12.91441,77.63186,4.5
+P1250,Indiranagar Park 24,Park,Indiranagar,12.98061,77.59970,3.8
+P1251,Indiranagar Brew 18,Cafe,Indiranagar,12.98415,77.64463,3.9
+P1252,Malleshwaram IT Campus 24,Tech Park,Malleshwaram,13.01717,77.55362,3.2
+P1253,Indiranagar Brewpub 6,Pub,Indiranagar,12.99587,77.66049,3.1
+P1254,Marathahalli Garden 11,Park,Marathahalli,12.95399,77.69485,4.1
+P1255,Bellandur Mall 17,Mall,Bellandur,12.92013,77.66862,4.3
+P1256,Hebbal Health Centre 10,Hospital,Hebbal,13.04293,77.59743,4.8
+P1257,Whitefield Dosa Corner 34,Restaurant,Whitefield,12.95925,77.74306,3.4
+P1258,Marathahalli Brewpub 27,Pub,Marathahalli,12.94649,77.69207,4.2
+P1259,Hebbal Dosa Corner 29,Restaurant,Hebbal,13.04030,77.59545,3.4
+P1260,MG Road Brewpub 27,Pub,MG Road,12.96947,77.61776,3.4
+P1261,Indiranagar Filter Coffee 15,Cafe,Indiranagar,12.97873,77.66318,4.2
+P1262,Whitefield Institute 12,College,Whitefield,12.97926,77.74666,4.4
+P1263,Majestic Business Bay 25,Tech Park,Majestic,12.97830,77.59306,3.4
+P1264,Majestic Institute 38,College,Majestic,12.96516,77.56420,4.4
+P1265,Indiranagar Park 21,Park,Indiranagar,12.97756,77.63097,3.2
+P1266,Majestic Lake View 18,Park,Majestic,12.96064,77.58390,3.1
+P1267,MG Road Plaza 34,Mall,MG Road,12.97205,77.58711,3.4
+P1268,Majestic Business Bay 37,Tech Park,Majestic,12.98789,77.57675,3.1
+P1269,HSR Layout Health Centre 4,Hospital,HSR Layout,12.91191,77.65102,3.8
+P1270,Malleshwaram Tech Park 5,Tech Park,Malleshwaram,13.01074,77.55922,4.2
+P1271,Indiranagar Plaza 27,Mall,Indiranagar,12.98848,77.61820,3.4
+P1272,BTM Layout Brewpub 9,Pub,BTM Layout,12.90956,77.62630,3.4
+P1273,HSR Layout Meals 13,Restaurant,HSR Layout,12.91911,77.64485,4.9
+P1274,Bellandur Lake View 21,Park,Bellandur,12.92935,77.69657,4.4
+P1275,Majestic Bar 4,Pub,Majestic,12.97762,77.57242,4.0
+P1276,BTM Layout Taproom 10,Pub,BTM Layout,12.92107,77.61101,3.6
+P1277,MG Road Bar 38,Pub,MG Road,12.96980,77.59068,3.4
+P1278,BTM Layout Health Centre 35,Hospital,BTM Layout,12.91519,77.61858,3.3
+P1279,Indiranagar Tech Park 29,Tech Park,Indiranagar,12.95752,77.60566,3.1
+P1280,Whitefield Bar 10,Pub,Whitefield,12.97903,77.74557,5.0
+P1281,Electronic City Park 23,Park,Electronic City,12.84633,77.62928,3.3
+P1282,HSR Layout Park 4,Park,HSR Layout,12.91587,77.66208,3.1
+P1283,Indiranagar Brew 16,Cafe,Indiranagar,12.94950,77.64347,4.8
+P1284,Whitefield Meals 20,Restaurant,Whitefield,12.95442,77.75240,3.1
+P1285,Marathahalli Health Centre 36,Hospital,Marathahalli,12.96162,77.69194,3.8
+P1286,Indiranagar Clinic 1,Hospital,Indiranagar,12.96967,77.63258,3.7
+P1287,Bellandur Academy 8,College,Bellandur,12.93803,77.68837,3.4
+P1288,Hebbal Clinic 27,Hospital,Hebbal,13.03971,77.59099,3.7
+P1289,BTM Layout Brewpub 20,Pub,BTM Layout,12.90450,77.60254,3.3
+P1290,Indiranagar Dosa Corner 6,Restaurant,Indiranagar,12.96798,77.64430,4.5
+P1291,Banashankari Garden 17,Park,Banashankari,12.93208,77.55806,3.2
+P1292,Jayanagar Garden 30,Park,Jayanagar,12.93255,77.60579,4.1
+P1293,Yelahanka Arcade 9,Mall,Yelahanka,13.11864,77.58968,3.8
+P1294,Bellandur Taproom 23,Pub,Bellandur,12.91788,77.69351,5.0
+P1295,Bellandur Mall 11,Mall,Bellandur,12.92654,77.67752,3.0
+P1296,Majestic Plaza 31,Mall,Majestic,12.96682,77.59926,3.4
+P1297,Malleshwaram Park 11,Park,Malleshwaram,13.01947,77.57138,4.1
+P1298,BTM Layout Park 26,Park,BTM Layout,12.91773,77.60946,3.8
+P1299,Hebbal Plaza 23,Mall,Hebbal,13.05228,77.60142,3.5
+P1300,MG Road Meals 1,Restaurant,MG Road,12.97698,77.59993,4.3
+P1301,Yelahanka Filter Coffee 15,Cafe,Yelahanka,13.10871,77.59921,4.4
+P1302,HSR Layout Academy 8,College,HSR Layout,12.93234,77.65596,3.6
+P1303,Electronic City Park 19,Park,Electronic City,12.84898,77.65496,3.5
+P1304,Majestic Filter Coffee 7,Cafe,Majestic,12.98903,77.56611,4.2
+P1305,Jayanagar Brew 14,Cafe,Jayanagar,12.92171,77.60397,4.4
+P1306,Banashankari Meals 24,Restaurant,Banashankari,12.92313,77.55102,4.7
+P1307,MG Road Hospital 6,Hospital,MG Road,12.95773,77.62521,4.2
+P1308,Electronic City Taproom 6,Pub,Electronic City,12.85756,77.67168,3.8
+P1309,Whitefield Brew 11,Cafe,Whitefield,12.96911,77.73645,4.8
+P1310,Majestic Brew 6,Cafe,Majestic,12.98265,77.60740,3.3
+P1311,Bellandur Meals 28,Restaurant,Bellandur,12.92912,77.68242,3.2
+P1312,BTM Layout College 36,College,BTM Layout,12.90406,77.60144,4.3
+P1313,Bellandur Biryani House 14,Restaurant,Bellandur,12.94275,77.68374,4.3
+P1314,Bellandur Garden 11,Park,Bellandur,12.92388,77.68347,4.9
+P1315,Majestic Clinic 35,Hospital,Majestic,12.97935,77.56231,4.7
+P1316,BTM Layout Biryani House 27,Restaurant,BTM Layout,12.92140,77.62827,3.7
+P1317,Whitefield Academy 40,College,Whitefield,12.97800,77.76313,3.2
+P1318,HSR Layout Lake View 14,Park,HSR Layout,12.93721,77.61883,3.0
+P1319,Jayanagar Mall 6,Mall,Jayanagar,12.93694,77.58880,4.1
+P1320,MG Road Filter Coffee 24,Cafe,MG Road,12.98024,77.61094,3.0
+P1321,Indiranagar Academy 27,College,Indiranagar,12.97983,77.63839,4.7
+P1322,Whitefield Darshini 36,Cafe,Whitefield,12.99502,77.74596,4.3
+P1323,Indiranagar Filter Coffee 30,Cafe,Indiranagar,12.96663,77.64073,3.5
+P1324,Whitefield Clinic 32,Hospital,Whitefield,12.97249,77.75204,4.9
+P1325,Koramangala Biryani House 14,Restaurant,Koramangala,12.95286,77.62760,3.6
+P1326,MG Road Health Centre 3,Hospital,MG Road,12.97807,77.60817,4.2
+P1327,Bellandur Brewpub 13,Pub,Bellandur,12.92631,77.65921,3.9
+P1328,Koramangala Hospital 27,Hospital,Koramangala,12.96385,77.63598,3.1
+P1329,MG Road Tech Park 7,Tech Park,MG Road,12.97374,77.60056,4.3
+P1330,Electronic City Academy 23,College,Electronic City,12.87026,77.63803,3.4
+P1331,Malleshwaram Park 26,Park,Malleshwaram,13.00940,77.59867,4.0
+P1332,Koramangala Bar 18,Pub,Koramangala,12.92148,77.62211,4.6
+P1333,Bellandur Meals 37,Restaurant,Bellandur,12.92183,77.65459,3.4
+P1334,Marathahalli Garden 15,Park,Marathahalli,12.95450,77.70404,3.9
+P1335,Banashankari Filter Coffee 39,Cafe,Banashankari,12.92044,77.55187,4.5
+P1336,Majestic Taproom 13,Pub,Majestic,12.96758,77.57886,3.9
+P1337,Banashankari College 15,College,Banashankari,12.92869,77.53996,3.1
+P1338,Marathahalli Institute 19,College,Marathahalli,12.96612,77.71589,4.5
+P1339,Bellandur IT Campus 33,Tech Park,Bellandur,12.95101,77.66208,3.7
+P1340,Malleshwaram Clinic 23,Hospital,Malleshwaram,13.00665,77.57959,3.1
+P1341,Malleshwaram Institute 29,College,Malleshwaram,13.00513,77.57421,4.9
+P1342,Electronic City Lake View 29,Park,Electronic City,12.84318,77.65981,4.3
+P1343,Majestic Mall 9,Mall,Majestic,12.98306,77.54773,4.8
+P1344,Koramangala Garden 25,Park,Koramangala,12.94569,77.61226,4.0
+P1345,MG Road Mall 34,Mall,MG Road,12.96515,77.59758,4.4
+P1346,Majestic Filter Coffee 18,Cafe,Majestic,12.97215,77.58201,4.5
+P1347,Jayanagar College 30,College,Jayanagar,12.93269,77.60491,4.6
+P1348,Bellandur Taproom 21,Pub,Bellandur,12.90758,77.67696,3.7
+P1349,Majestic Dosa Corner 3,Restaurant,Majestic,12.96424,77.57080,3.2
+P1350,Electronic City Business Bay 30,Tech Park,Electronic City,12.84723,77.66301,4.2
+P1351,Koramangala Taproom 1,Pub,Koramangala,12.93602,77.65084,4.3
+P1352,HSR Layout Clinic 22,Hospital,HSR Layout,12.91730,77.67459,3.8
+P1353,Jayanagar College 31,College,Jayanagar,12.95654,77.59708,4.4
+P1354,Whitefield Academy 29,College,Whitefield,12.95597,77.75065,4.9
+P1355,Majestic Plaza 2,Mall,Majestic,12.98668,77.57347,4.2
+P1356,Banashankari Garden 30,Park,Banashankari,12.91988,77.56560,4.8
+P1357,BTM Layout Arcade 3,Mall,BTM Layout,12.90404,77.61322,3.3
+P1358,Malleshwaram Bar 14,Pub,Malleshwaram,12.98871,77.56192,5.0
+P1359,Marathahalli Business Bay 11,Tech Park,Marathahalli,12.96212,77.71723,3.0
+P1360,Banashankari Meals 13,Restaurant,Banashankari,12.93600,77.53582,4.7
+P1361,Yelahanka Arcade 9,Mall,Yelahanka,13.09446,77.57644,4.8
+P1362,Whitefield Bar 1,Pub,Whitefield,12.96930,77.73349,3.6
+P1363,BTM Layout Filter Coffee 38,Cafe,BTM Layout,12.93870,77.61335,4.3
+P1364,HSR Layout College 16,College,HSR Layout,12.93750,77.64813,5.0
+P1365,Electronic City Plaza 11,Mall,Electronic City,12.85176,77.64786,4.0
+P1366,Indiranagar Brewpub 18,Pub,Indiranagar,12.95906,77.65079,4.6
+P1367,Indiranagar Hospital 8,Hospital,Indiranagar,12.97969,77.63634,4.6
+P1368,Yelahanka Taproom 20,Pub,Yelahanka,13.10064,77.59156,3.5
+P1369,MG Road College 27,College,MG Road,12.99565,77.60581,3.3
+P1370,Majestic Plaza 11,Mall,Majestic,12.99081,77.56564,4.5
+P1371,Koramangala Business Bay 23,Tech Park,Koramangala,12.92444,77.64189,3.3
+P1372,Jayanagar Biryani House 3,Restaurant,Jayanagar,12.92563,77.61472,4.0
+P1373,BTM Layout Bar 31,Pub,BTM Layout,12.91262,77.63167,4.8
+P1374,Indiranagar Bar 7,Pub,Indiranagar,12.98938,77.64709,3.6
+P1375,MG Road Brew 35,Cafe,MG Road,12.95784,77.59619,4.8
+P1376,HSR Layout Tech Park 16,Tech Park,HSR Layout,12.89509,77.65427,3.6
+P1377,BTM Layout Brewpub 34,Pub,BTM Layout,12.92970,77.60091,3.4
+P1378,Bellandur Biryani House 21,Restaurant,Bellandur,12.95093,77.67826,4.6
+P1379,Electronic City Business Bay 32,Tech Park,Electronic City,12.83656,77.63312,4.0
+P1380,Whitefield Garden 22,Park,Whitefield,12.96985,77.72006,4.7
+P1381,Bellandur Institute 35,College,Bellandur,12.91363,77.67133,3.6
+P1382,Indiranagar Garden 2,Park,Indiranagar,12.97542,77.64390,4.0
+P1383,BTM Layout Garden 1,Park,BTM Layout,12.90072,77.59097,3.6
+P1384,Jayanagar Hospital 18,Hospital,Jayanagar,12.95041,77.60593,3.8
+P1385,Hebbal Business Bay 11,Tech Park,Hebbal,13.04250,77.60214,4.1
+P1386,Whitefield Arcade 1,Mall,Whitefield,12.97957,77.75288,4.5
+P1387,Indiranagar Business Bay 36,Tech Park,Indiranagar,13.00683,77.64421,4.1
+P1388,Malleshwaram Hospital 24,Hospital,Malleshwaram,12.98505,77.56199,3.7
+P1389,Yelahanka Health Centre 32,Hospital,Yelahanka,13.12296,77.60249,3.6
+P1390,Malleshwaram Plaza 34,Mall,Malleshwaram,12.99084,77.56878,3.5
+P1391,BTM Layout Institute 22,College,BTM Layout,12.91118,77.61583,4.3
+P1392,Koramangala Darshini 12,Cafe,Koramangala,12.91376,77.59904,4.9
+P1393,Majestic Hospital 5,Hospital,Majestic,12.98588,77.57525,4.6
+P1394,MG Road Tech Park 12,Tech Park,MG Road,12.95464,77.60689,3.3
+P1395,Malleshwaram Brewpub 1,Pub,Malleshwaram,13.00365,77.58064,4.1
+P1396,Bellandur Mall 18,Mall,Bellandur,12.97852,77.68298,4.5
+P1397,Majestic Dosa Corner 38,Restaurant,Majestic,12.97003,77.56248,4.6
+P1398,Bellandur Brew 5,Cafe,Bellandur,12.93327,77.65780,3.4
+P1399,BTM Layout Park 38,Park,BTM Layout,12.88591,77.61392,3.3
+P1400,Koramangala Clinic 22,Hospital,Koramangala,12.94086,77.62029,3.2
+P1401,HSR Layout Filter Coffee 11,Cafe,HSR Layout,12.91157,77.64575,3.6
+P1402,Majestic Meals 35,Restaurant,Majestic,12.95476,77.56158,3.5
+P1403,Majestic Garden 24,Park,Majestic,12.96507,77.57175,4.0
+P1404,Jayanagar Academy 21,College,Jayanagar,12.91843,77.60035,4.7
+P1405,MG Road Biryani House 36,Restaurant,MG Road,12.97766,77.61556,5.0
+P1406,BTM Layout Bar 4,Pub,BTM Layout,12.91125,77.60028,3.2
+P1407,Majestic Bar 29,Pub,Majestic,12.98105,77.56394,4.0
+P1408,Electronic City Biryani House 11,Restaurant,Electronic City,12.85381,77.67517,3.7
+P1409,Electronic City Hospital 32,Hospital,Electronic City,12.82733,77.65007,3.9
+P1410,BTM Layout Hospital 1,Hospital,BTM Layout,12.91487,77.60708,4.7
+P1411,BTM Layout Darshini 23,Cafe,BTM Layout,12.92538,77.61644,4.7
+P1412,Indiranagar Darshini 26,Cafe,Indiranagar,12.96833,77.64198,3.7
+P1413,Koramangala Health Centre 15,Hospital,Koramangala,12.94138,77.62495,5.0
+P1414,BTM Layout Lake View 28,Park,BTM Layout,12.92192,77.60041,3.2
+P1415,Whitefield Plaza 28,Mall,Whitefield,12.96169,77.75133,3.1
+P1416,Yelahanka Hospital 16,Hospital,Yelahanka,13.10131,77.60680,4.0
+P1417,Indiranagar Dosa Corner 34,Restaurant,Indiranagar,12.97786,77.65022,4.9
+P1418,BTM Layout Biryani House 12,Restaurant,BTM Layout,12.91319,77.60001,4.7
+P1419,Koramangala Arcade 18,Mall,Koramangala,12.94164,77.61148,3.5
+P1420,Bellandur Clinic 13,Hospital,Bellandur,12.93470,77.67457,3.2
+P1421,Majestic Brewpub 39,Pub,Majestic,12.97302,77.56526,4.2
+P1422,Malleshwaram Dosa Corner 7,Restaurant,Malleshwaram,12.99440,77.57750,4.8
+P1423,Jayanagar Meals 17,Restaurant,Jayanagar,12.90890,77.58218,3.1
+P1424,Electronic City Park 30,Park,Electronic City,12.84903,77.65601,4.5
+P1425,BTM Layout Garden 29,Park,BTM Layout,12.92423,77.59694,4.1
+P1426,Majestic Mall 12,Mall,Majestic,12.99817,77.55896,3.1
+P1427,Indiranagar Brewpub 10,Pub,Indiranagar,12.95415,77.64161,4.2
+P1428,Majestic Clinic 28,Hospital,Majestic,12.97201,77.57623,3.8
+P1429,Whitefield Meals 3,Restaurant,Whitefield,12.99287,77.75728,5.0
+P1430,Banashankari Filter Coffee 6,Cafe,Banashankari,12.92771,77.55278,4.5
+P1431,Koramangala Biryani House 25,Restaurant,Koramangala,12.92114,77.61580,3.7
+P1432,Marathahalli Bar 2,Pub,Marathahalli,12.97952,77.71036,4.0
+P1433,Whitefield IT Campus 33,Tech Park,Whitefield,12.98094,77.76134,3.0
+P1434,Whitefield Garden 30,Park,Whitefield,12.94049,77.74962,4.5
+P1435,Marathahalli Dosa Corner 7,Restaurant,Marathahalli,12.95200,77.68821,3.4
+P1436,Malleshwaram Health Centre 36,Hospital,Malleshwaram,12.99935,77.56074,3.5
+P1437,Malleshwaram Darshini 9,Cafe,Malleshwaram,13.02801,77.57893,3.5
+P1438,Banashankari Taproom 22,Pub,Banashankari,12.93552,77.55181,4.3
+P1439,Hebbal Brewpub 23,Pub,Hebbal,13.03399,77.59583,4.1
+P1440,BTM Layout College 27,College,BTM Layout,12.92728,77.60949,3.5
+P1441,Hebbal Business Bay 2,Tech Park,Hebbal,13.04214,77.57993,3.7
+P1442,Yelahanka Garden 34,Park,Yelahanka,13.10958,77.58869,5.0
+P1443,Indiranagar IT Campus 21,Tech Park,Indiranagar,12.97379,77.63452,4.2
+P1444,Whitefield Institute 8,College,Whitefield,12.95937,77.73775,4.5
+P1445,Malleshwaram Mall 2,Mall,Malleshwaram,13.00975,77.55828,3.6
+P1446,Jayanagar Filter Coffee 1,Cafe,Jayanagar,12.91917,77.60166,4.0
+P1447,Electronic City Business Bay 14,Tech Park,Electronic City,12.84779,77.65439,5.0
+P1448,Hebbal Hospital 20,Hospital,Hebbal,13.05224,77.59254,3.9
+P1449,Marathahalli Business Bay 6,Tech Park,Marathahalli,12.97696,77.70605,3.7
+P1450,Whitefield Business Bay 8,Tech Park,Whitefield,12.96098,77.75486,3.4
+P1451,MG Road Arcade 10,Mall,MG Road,12.97444,77.60830,3.7
+P1452,Jayanagar Lake View 38,Park,Jayanagar,12.92686,77.57590,3.1
+P1453,BTM Layout Bar 12,Pub,BTM Layout,12.91027,77.60905,3.1
+P1454,Koramangala Brew 9,Cafe,Koramangala,12.93149,77.61647,3.8
+P1455,Indiranagar Plaza 30,Mall,Indiranagar,12.95862,77.64109,4.2
+P1456,Malleshwaram Academy 34,College,Malleshwaram,13.01207,77.55570,4.2
+P1457,Indiranagar Academy 38,College,Indiranagar,12.97393,77.62931,4.6
+P1458,Marathahalli Lake View 9,Park,Marathahalli,12.95413,77.69116,4.3
+P1459,Marathahalli Lake View 14,Park,Marathahalli,12.95570,77.70256,4.8
+P1460,Electronic City Arcade 25,Mall,Electronic City,12.83257,77.64887,4.1
+P1461,Jayanagar Institute 10,College,Jayanagar,12.92309,77.58510,4.0
+P1462,Bellandur Mall 15,Mall,Bellandur,12.91378,77.67541,3.5
+P1463,Marathahalli Bar 21,Pub,Marathahalli,12.94467,77.69999,3.1
+P1464,Banashankari Brew 25,Cafe,Banashankari,12.92760,77.55853,4.2
+P1465,Whitefield Health Centre 10,Hospital,Whitefield,12.95470,77.74692,3.6
+P1466,Indiranagar Lake View 17,Park,Indiranagar,12.96353,77.63760,5.0
+P1467,Indiranagar Taproom 38,Pub,Indiranagar,12.98903,77.63785,3.1
+P1468,Whitefield Darshini 22,Cafe,Whitefield,12.96214,77.75176,3.9
+P1469,Hebbal College 13,College,Hebbal,13.02874,77.59774,4.4
+P1470,Malleshwaram Darshini 14,Cafe,Malleshwaram,13.01711,77.59070,4.2
+P1471,BTM Layout Biryani House 18,Restaurant,BTM Layout,12.92004,77.58441,3.3
+P1472,MG Road Dosa Corner 5,Restaurant,MG Road,12.96862,77.60739,3.1
+P1473,Jayanagar Park 22,Park,Jayanagar,12.92211,77.62006,4.5
+P1474,Jayanagar Plaza 1,Mall,Jayanagar,12.94625,77.61879,4.3
+P1475,MG Road College 13,College,MG Road,12.97804,77.60206,4.9
+P1476,Jayanagar Lake View 37,Park,Jayanagar,12.91717,77.56865,4.9
+P1477,Malleshwaram Arcade 26,Mall,Malleshwaram,12.99961,77.58250,3.6
+P1478,Bellandur College 3,College,Bellandur,12.92248,77.65902,3.7
+P1479,MG Road Garden 13,Park,MG Road,12.95909,77.61027,4.4
+P1480,Koramangala Mall 7,Mall,Koramangala,12.92402,77.60783,3.0
+P1481,Malleshwaram Garden 33,Park,Malleshwaram,13.00046,77.57235,4.2
+P1482,Majestic Arcade 22,Mall,Majestic,12.97061,77.58405,4.5
+P1483,Whitefield Mall 32,Mall,Whitefield,12.97982,77.75296,4.7
+P1484,Whitefield IT Campus 40,Tech Park,Whitefield,12.97626,77.73755,4.1
+P1485,HSR Layout Park 11,Park,HSR Layout,12.91554,77.66185,3.5
+P1486,Bellandur Meals 6,Restaurant,Bellandur,12.91850,77.67275,3.5
+P1487,Indiranagar Academy 22,College,Indiranagar,12.98276,77.65256,3.4
+P1488,BTM Layout Lake View 17,Park,BTM Layout,12.93828,77.59933,3.8
+P1489,Koramangala Hospital 9,Hospital,Koramangala,12.93326,77.63368,4.8
+P1490,Marathahalli Lake View 20,Park,Marathahalli,12.94512,77.66103,4.9
+P1491,Banashankari Arcade 7,Mall,Banashankari,12.91027,77.54647,3.8
+P1492,Whitefield Tech Park 18,Tech Park,Whitefield,13.00011,77.73813,4.8
+P1493,MG Road Meals 32,Restaurant,MG Road,12.97188,77.60719,4.5
+P1494,Hebbal Taproom 17,Pub,Hebbal,13.03977,77.60828,4.6
+P1495,Indiranagar Mall 21,Mall,Indiranagar,12.98240,77.61668,4.5
+P1496,Marathahalli Clinic 25,Hospital,Marathahalli,12.97003,77.69870,3.2
+P1497,BTM Layout College 39,College,BTM Layout,12.92214,77.61278,4.9
+P1498,Indiranagar Health Centre 37,Hospital,Indiranagar,12.98387,77.62763,3.7
+P1499,MG Road Business Bay 26,Tech Park,MG Road,12.98342,77.60247,3.5
+P1500,Whitefield Brewpub 26,Pub,Whitefield,12.97429,77.74068,4.0
+P1501,Koramangala Business Bay 23,Tech Park,Koramangala,12.94528,77.62584,3.6
+P1502,Majestic Arcade 34,Mall,Majestic,12.98114,77.56699,4.9
+P1503,Indiranagar Business Bay 28,Tech Park,Indiranagar,12.98996,77.64118,3.3
+P1504,Whitefield Hospital 6,Hospital,Whitefield,12.98979,77.75498,4.7
+P1505,Koramangala Tech Park 38,Tech Park,Koramangala,12.94086,77.61252,3.3
+P1506,Bellandur Clinic 23,Hospital,Bellandur,12.95514,77.68001,3.7
+P1507,Banashankari Brewpub 12,Pub,Banashankari,12.91776,77.54854,3.4
+P1508,Koramangala Biryani House 13,Restaurant,Koramangala,12.91711,77.64376,3.7
+P1509,Hebbal Taproom 27,Pub,Hebbal,13.04814,77.60719,4.7
+P1510,Whitefield Mall 35,Mall,Whitefield,12.97344,77.74006,3.7
+P1511,Indiranagar Meals 40,Restaurant,Indiranagar,12.97570,77.64678,3.2
+P1512,Electronic City Tech Park 4,Tech Park,Electronic City,12.85674,77.65504,3.2
+P1513,Indiranagar Dosa Corner 32,Restaurant,Indiranagar,12.97791,77.63122,4.2
+P1514,Malleshwaram Meals 25,Restaurant,Malleshwaram,12.99300,77.58526,4.3
+P1515,Indiranagar Biryani House 33,Restaurant,Indiranagar,12.96318,77.61606,3.7
+P1516,Koramangala Hospital 10,Hospital,Koramangala,12.93759,77.62969,3.9
+P1517,Jayanagar Mall 13,Mall,Jayanagar,12.90802,77.60264,4.6
+P1518,HSR Layout College 6,College,HSR Layout,12.93629,77.63826,3.5
+P1519,MG Road Mall 33,Mall,MG Road,12.99200,77.58095,3.3
+P1520,Whitefield Taproom 26,Pub,Whitefield,12.95395,77.75192,3.3
+P1521,HSR Layout Park 33,Park,HSR Layout,12.91165,77.63672,4.4
+P1522,Bellandur Academy 27,College,Bellandur,12.92624,77.69955,3.8
+P1523,Marathahalli Darshini 33,Cafe,Marathahalli,12.97330,77.71182,4.4
+P1524,Indiranagar Academy 34,College,Indiranagar,12.96679,77.65431,4.1
+P1525,Majestic Garden 17,Park,Majestic,12.99379,77.56963,3.2
+P1526,Indiranagar Dosa Corner 40,Restaurant,Indiranagar,12.95566,77.64483,4.0
+P1527,MG Road Dosa Corner 15,Restaurant,MG Road,12.97575,77.60932,3.5
+P1528,HSR Layout Institute 40,College,HSR Layout,12.93407,77.67060,3.2
+P1529,Banashankari Biryani House 12,Restaurant,Banashankari,12.93494,77.53527,4.2
+P1530,BTM Layout Bar 37,Pub,BTM Layout,12.93977,77.62820,3.7
+P1531,Malleshwaram Mall 16,Mall,Malleshwaram,12.97894,77.56752,3.9
+P1532,HSR Layout Academy 27,College,HSR Layout,12.88627,77.63913,4.3
+P1533,Marathahalli Bar 29,Pub,Marathahalli,12.96938,77.70041,4.2
+P1534,Jayanagar Hospital 37,Hospital,Jayanagar,12.94103,77.56445,3.2
+P1535,Electronic City Health Centre 13,Hospital,Electronic City,12.83566,77.68276,3.3
+P1536,MG Road Tech Park 26,Tech Park,MG Road,12.97577,77.61818,4.9
+P1537,Whitefield Garden 27,Park,Whitefield,12.98059,77.75629,3.6
+P1538,Bellandur Lake View 38,Park,Bellandur,12.92738,77.68078,4.7
+P1539,Electronic City Lake View 19,Park,Electronic City,12.83362,77.66317,4.2
+P1540,Hebbal Biryani House 11,Restaurant,Hebbal,13.03460,77.58955,3.7
+P1541,Malleshwaram Plaza 13,Mall,Malleshwaram,13.01298,77.56368,4.1
+P1542,Whitefield Institute 17,College,Whitefield,12.96762,77.75310,3.2
+P1543,Bellandur Lake View 31,Park,Bellandur,12.90303,77.69014,4.3
+P1544,MG Road IT Campus 33,Tech Park,MG Road,12.98992,77.61720,4.3
+P1545,Majestic Brew 16,Cafe,Majestic,12.97951,77.57399,4.2
+P1546,Hebbal Taproom 1,Pub,Hebbal,13.04367,77.58966,4.0
+P1547,Banashankari Hospital 11,Hospital,Banashankari,12.92691,77.53176,3.9
+P1548,Indiranagar Institute 27,College,Indiranagar,12.98911,77.62769,4.8
+P1549,Jayanagar Brew 1,Cafe,Jayanagar,12.90099,77.58871,3.4
+P1550,Banashankari Meals 18,Restaurant,Banashankari,12.94237,77.51147,5.0
+P1551,Indiranagar Bar 18,Pub,Indiranagar,12.97836,77.64383,3.6
+P1552,Marathahalli Brew 26,Cafe,Marathahalli,12.92513,77.66797,4.0
+P1553,Koramangala Darshini 38,Cafe,Koramangala,12.94254,77.61446,4.9
+P1554,HSR Layout Filter Coffee 4,Cafe,HSR Layout,12.91736,77.65042,3.0
+P1555,Koramangala Filter Coffee 39,Cafe,Koramangala,12.92043,77.63888,4.1
+P1556,Jayanagar Health Centre 36,Hospital,Jayanagar,12.91037,77.60288,3.0
+P1557,Majestic Meals 10,Restaurant,Majestic,12.99612,77.56341,4.1
+P1558,Yelahanka Filter Coffee 16,Cafe,Yelahanka,13.09640,77.61002,4.6
+P1559,Jayanagar Academy 17,College,Jayanagar,12.94556,77.59186,4.8
+P1560,Jayanagar Bar 28,Pub,Jayanagar,12.92937,77.59182,3.6
+P1561,Hebbal Clinic 5,Hospital,Hebbal,13.03909,77.57821,3.2
+P1562,HSR Layout Mall 24,Mall,HSR Layout,12.90160,77.65277,4.4
+P1563,Koramangala Park 4,Park,Koramangala,12.94872,77.62899,4.9
+P1564,Indiranagar Mall 27,Mall,Indiranagar,12.98336,77.60775,3.4
+P1565,Yelahanka Institute 39,College,Yelahanka,13.10066,77.58597,3.0
+P1566,Malleshwaram Garden 39,Park,Malleshwaram,12.99312,77.58275,3.3
+P1567,Koramangala Plaza 3,Mall,Koramangala,12.91127,77.61334,4.4
+P1568,Marathahalli Institute 3,College,Marathahalli,12.97422,77.68350,4.3
+P1569,Banashankari Tech Park 34,Tech Park,Banashankari,12.91214,77.53980,4.6
+P1570,Electronic City Hospital 23,Hospital,Electronic City,12.81644,77.65567,3.6
+P1571,BTM Layout Lake View 7,Park,BTM Layout,12.92157,77.61905,3.1
+P1572,Koramangala Institute 12,College,Koramangala,12.95036,77.61750,3.9
+P1573,Yelahanka College 28,College,Yelahanka,13.08570,77.59766,3.2
+P1574,Hebbal College 13,College,Hebbal,13.03716,77.61750,4.3
+P1575,MG Road Clinic 29,Hospital,MG Road,13.01564,77.62858,3.2
+P1576,Koramangala Meals 3,Restaurant,Koramangala,12.92630,77.61206,3.9
+P1577,Jayanagar Garden 32,Park,Jayanagar,12.92121,77.60543,4.6
+P1578,Malleshwaram Filter Coffee 2,Cafe,Malleshwaram,12.98855,77.58525,4.5
+P1579,BTM Layout Brewpub 15,Pub,BTM Layout,12.92158,77.60957,3.3
+P1580,Yelahanka Biryani House 21,Restaurant,Yelahanka,13.09622,77.58538,4.3
+P1581,Bellandur IT Campus 33,Tech Park,Bellandur,12.91922,77.68502,3.8
+P1582,MG Road Dosa Corner 37,Restaurant,MG Road,12.96819,77.62092,3.9
+P1583,Yelahanka Hospital 37,Hospital,Yelahanka,13.09723,77.60478,4.3
+P1584,Hebbal Tech Park 29,Tech Park,Hebbal,13.03860,77.60593,4.5
+P1585,Koramangala Meals 31,Restaurant,Koramangala,12.92889,77.64357,3.5
+P1586,Indiranagar Dosa Corner 35,Restaurant,Indiranagar,13.00109,77.64671,3.9
+P1587,Electronic City Health Centre 23,Hospital,Electronic City,12.85199,77.64338,3.3
+P1588,Electronic City Darshini 34,Cafe,Electronic City,12.86800,77.66900,3.5
+P1589,Marathahalli Bar 9,Pub,Marathahalli,12.93769,77.67383,3.2
+P1590,Majestic Mall 16,Mall,Majestic,12.95237,77.56369,4.6
+P1591,Bellandur Park 5,Park,Bellandur,12.93480,77.68104,3.4
+P1592,HSR Layout Business Bay 3,Tech Park,HSR Layout,12.92850,77.63566,4.7
+P1593,Bellandur IT Campus 21,Tech Park,Bellandur,12.92103,77.68820,3.6
+P1594,Jayanagar Meals 8,Restaurant,Jayanagar,12.91253,77.59288,3.8
+P1595,Electronic City Health Centre 40,Hospital,Electronic City,12.83744,77.67923,3.3
+P1596,Banashankari Health Centre 3,Hospital,Banashankari,12.92239,77.55303,4.4
+P1597,Whitefield Academy 3,College,Whitefield,12.96039,77.75772,4.8
+P1598,Yelahanka College 26,College,Yelahanka,13.12146,77.58968,3.7
+P1599,Banashankari Plaza 18,Mall,Banashankari,12.92979,77.54042,4.0
+P1600,Majestic Arcade 18,Mall,Majestic,12.99794,77.58387,4.3
+P1601,Majestic Arcade 14,Mall,Majestic,12.98007,77.59201,3.2
+P1602,Indiranagar College 32,College,Indiranagar,12.99973,77.64706,4.1
+P1603,Electronic City Health Centre 39,Hospital,Electronic City,12.84120,77.65094,4.5
+P1604,Indiranagar Park 9,Park,Indiranagar,12.96747,77.66947,3.4
+P1605,Bellandur Business Bay 16,Tech Park,Bellandur,12.94201,77.67965,4.0
+P1606,Koramangala Tech Park 7,Tech Park,Koramangala,12.93131,77.61925,5.0
+P1607,Whitefield Dosa Corner 9,Restaurant,Whitefield,12.96193,77.74166,4.3
+P1608,Marathahalli Clinic 25,Hospital,Marathahalli,12.96100,77.69962,3.8
+P1609,Hebbal Institute 14,College,Hebbal,13.04184,77.59491,5.0
+P1610,MG Road Darshini 17,Cafe,MG Road,12.96019,77.60811,3.5
+P1611,Whitefield Bar 4,Pub,Whitefield,12.99400,77.73987,4.5
+P1612,Electronic City Dosa Corner 27,Restaurant,Electronic City,12.83851,77.67985,3.1
+P1613,Koramangala Biryani House 26,Restaurant,Koramangala,12.93008,77.62158,3.5
+P1614,Majestic Taproom 2,Pub,Majestic,12.96817,77.57842,4.0
+P1615,MG Road Darshini 29,Cafe,MG Road,12.96145,77.60685,4.5
+P1616,Malleshwaram Darshini 7,Cafe,Malleshwaram,12.99236,77.54280,3.2
+P1617,MG Road Business Bay 14,Tech Park,MG Road,12.98630,77.60382,4.2
+P1618,MG Road Garden 17,Park,MG Road,12.96506,77.60484,4.3
+P1619,Hebbal Mall 7,Mall,Hebbal,13.06108,77.60053,4.0
+P1620,Jayanagar Plaza 30,Mall,Jayanagar,12.93351,77.60301,4.0
+P1621,Jayanagar Mall 35,Mall,Jayanagar,12.91289,77.59679,3.8
+P1622,HSR Layout Hospital 9,Hospital,HSR Layout,12.89213,77.65156,4.6
+P1623,Bellandur Business Bay 19,Tech Park,Bellandur,12.92154,77.67354,4.9
+P1624,Koramangala College 11,College,Koramangala,12.93073,77.62167,4.5
+P1625,HSR Layout Arcade 15,Mall,HSR Layout,12.88939,77.64513,4.9
+P1626,Majestic College 33,College,Majestic,12.98627,77.56849,3.9
+P1627,Yelahanka Health Centre 39,Hospital,Yelahanka,13.10146,77.59275,4.1
+P1628,HSR Layout College 21,College,HSR Layout,12.93174,77.64300,3.2
+P1629,BTM Layout Dosa Corner 16,Restaurant,BTM Layout,12.89907,77.60806,4.4
+P1630,HSR Layout Brewpub 38,Pub,HSR Layout,12.91691,77.64142,5.0
+P1631,BTM Layout Darshini 14,Cafe,BTM Layout,12.91719,77.61572,4.0
+P1632,HSR Layout Plaza 25,Mall,HSR Layout,12.90738,77.63800,5.0
+P1633,Yelahanka Meals 11,Restaurant,Yelahanka,13.12033,77.61669,3.1
+P1634,Jayanagar Darshini 38,Cafe,Jayanagar,12.93454,77.60573,4.3
+P1635,Koramangala Brew 38,Cafe,Koramangala,12.91361,77.60364,4.7
+P1636,MG Road Garden 35,Park,MG Road,12.95018,77.59620,5.0
+P1637,Majestic Park 8,Park,Majestic,12.97340,77.55959,3.7
+P1638,HSR Layout Meals 27,Restaurant,HSR Layout,12.90284,77.62651,3.8
+P1639,BTM Layout Garden 40,Park,BTM Layout,12.90878,77.61596,4.2
+P1640,BTM Layout Mall 23,Mall,BTM Layout,12.91799,77.61920,4.9
+P1641,Majestic Health Centre 26,Hospital,Majestic,12.99262,77.59169,3.0
+P1642,Banashankari Institute 35,College,Banashankari,12.94758,77.55970,4.6
+P1643,Indiranagar Dosa Corner 19,Restaurant,Indiranagar,12.98139,77.66828,3.4
+P1644,Majestic Meals 7,Restaurant,Majestic,12.99625,77.56690,4.7
+P1645,Jayanagar Hospital 36,Hospital,Jayanagar,12.92348,77.60656,4.2
+P1646,Koramangala Dosa Corner 37,Restaurant,Koramangala,12.91673,77.62382,4.7
+P1647,BTM Layout Lake View 30,Park,BTM Layout,12.91437,77.60337,3.5
+P1648,Koramangala Meals 39,Restaurant,Koramangala,12.97229,77.62712,5.0
+P1649,HSR Layout Garden 4,Park,HSR Layout,12.91362,77.63733,4.9
+P1650,Malleshwaram Lake View 30,Park,Malleshwaram,13.01969,77.57584,4.5
+P1651,Koramangala Arcade 2,Mall,Koramangala,12.91522,77.62026,4.6
+P1652,Bellandur Academy 33,College,Bellandur,12.91128,77.67128,4.2
+P1653,Jayanagar Garden 40,Park,Jayanagar,12.90100,77.60295,3.7
+P1654,Jayanagar Filter Coffee 13,Cafe,Jayanagar,12.94673,77.60542,4.0
+P1655,MG Road Academy 27,College,MG Road,12.95545,77.62734,3.5
+P1656,Koramangala Park 15,Park,Koramangala,12.93670,77.60881,4.7
+P1657,HSR Layout Park 24,Park,HSR Layout,12.91679,77.66106,3.5
+P1658,Jayanagar Darshini 34,Cafe,Jayanagar,12.90524,77.58139,4.5
+P1659,Majestic Plaza 18,Mall,Majestic,12.96086,77.58170,3.5
+P1660,Indiranagar Health Centre 2,Hospital,Indiranagar,12.97220,77.62161,4.0
+P1661,BTM Layout Lake View 33,Park,BTM Layout,12.90343,77.59608,4.6
+P1662,Malleshwaram Garden 5,Park,Malleshwaram,13.02013,77.59416,4.7
+P1663,Bellandur Meals 4,Restaurant,Bellandur,12.93842,77.68740,3.5
+P1664,Koramangala Business Bay 13,Tech Park,Koramangala,12.92294,77.63132,4.5
+P1665,Majestic Institute 35,College,Majestic,12.96289,77.57096,3.2
+P1666,HSR Layout Darshini 16,Cafe,HSR Layout,12.89378,77.63137,3.6
+P1667,Koramangala Filter Coffee 16,Cafe,Koramangala,12.94145,77.61309,4.2
+P1668,Indiranagar Mall 15,Mall,Indiranagar,12.99407,77.66093,3.1
+P1669,Koramangala Academy 8,College,Koramangala,12.94362,77.60462,4.8
+P1670,Majestic Health Centre 21,Hospital,Majestic,12.98706,77.56821,4.8
+P1671,Yelahanka Taproom 15,Pub,Yelahanka,13.12344,77.57514,4.4
+P1672,Marathahalli Filter Coffee 7,Cafe,Marathahalli,12.94702,77.73037,4.0
+P1673,Jayanagar Brew 3,Cafe,Jayanagar,12.91886,77.59490,3.4
+P1674,Banashankari Park 19,Park,Banashankari,12.90247,77.54901,4.1
+P1675,Whitefield Tech Park 16,Tech Park,Whitefield,13.01468,77.74781,4.1
+P1676,HSR Layout IT Campus 15,Tech Park,HSR Layout,12.92861,77.62594,4.3
+P1677,Indiranagar Dosa Corner 17,Restaurant,Indiranagar,12.97061,77.63077,4.6
+P1678,Majestic Clinic 1,Hospital,Majestic,12.96526,77.58631,3.7
+P1679,BTM Layout Arcade 28,Mall,BTM Layout,12.91338,77.61237,4.5
+P1680,Banashankari Dosa Corner 40,Restaurant,Banashankari,12.93986,77.54947,4.7
+P1681,Yelahanka Dosa Corner 35,Restaurant,Yelahanka,13.10687,77.60676,3.2
+P1682,Whitefield Brew 2,Cafe,Whitefield,12.95376,77.74331,4.9
+P1683,BTM Layout Filter Coffee 7,Cafe,BTM Layout,12.93673,77.61945,4.0
+P1684,Hebbal Bar 6,Pub,Hebbal,13.03960,77.59267,3.4
+P1685,HSR Layout Brewpub 39,Pub,HSR Layout,12.88978,77.66153,3.1
+P1686,Whitefield Academy 33,College,Whitefield,12.95893,77.76824,3.5
+P1687,Whitefield Plaza 31,Mall,Whitefield,12.98919,77.73462,4.1
+P1688,Malleshwaram Mall 20,Mall,Malleshwaram,13.00925,77.56947,3.6
+P1689,Hebbal Clinic 37,Hospital,Hebbal,13.06330,77.59075,3.5
+P1690,Indiranagar Clinic 6,Hospital,Indiranagar,12.99073,77.63373,4.7
+P1691,Banashankari Taproom 25,Pub,Banashankari,12.90602,77.55169,3.0
+P1692,Majestic Bar 20,Pub,Majestic,12.95208,77.57122,4.4
+P1693,HSR Layout Clinic 34,Hospital,HSR Layout,12.92131,77.64560,3.7
+P1694,Hebbal Bar 33,Pub,Hebbal,13.04885,77.60923,4.8
+P1695,Yelahanka Garden 13,Park,Yelahanka,13.11164,77.60215,4.0
+P1696,Majestic Plaza 24,Mall,Majestic,13.00650,77.55231,4.4
+P1697,Jayanagar Health Centre 14,Hospital,Jayanagar,12.92129,77.57024,4.7
+P1698,Hebbal Meals 3,Restaurant,Hebbal,13.02581,77.59934,4.3
+P1699,MG Road Taproom 8,Pub,MG Road,12.96494,77.60343,3.7
+P1700,Koramangala Academy 25,College,Koramangala,12.92669,77.60980,4.1
+P1701,MG Road IT Campus 18,Tech Park,MG Road,12.96042,77.60708,3.3
+P1702,Electronic City Arcade 31,Mall,Electronic City,12.84271,77.66224,4.7
+P1703,Bellandur Health Centre 25,Hospital,Bellandur,12.92848,77.67781,4.7
+P1704,Whitefield Bar 6,Pub,Whitefield,12.97825,77.74676,4.5
+P1705,Indiranagar Hospital 19,Hospital,Indiranagar,12.98452,77.62870,4.7
+P1706,Bellandur Arcade 30,Mall,Bellandur,12.91382,77.65413,3.4
+P1707,MG Road Clinic 4,Hospital,MG Road,12.96592,77.62290,3.6
+P1708,Koramangala Tech Park 19,Tech Park,Koramangala,12.91651,77.61689,4.1
+P1709,Majestic Academy 4,College,Majestic,12.95936,77.57306,3.4
+P1710,Electronic City Bar 18,Pub,Electronic City,12.84565,77.65688,3.0
+P1711,MG Road Bar 29,Pub,MG Road,12.96781,77.59999,4.4
+P1712,BTM Layout Bar 39,Pub,BTM Layout,12.94388,77.60485,4.4
+P1713,Koramangala Arcade 34,Mall,Koramangala,12.94109,77.60754,4.0
+P1714,Whitefield Health Centre 8,Hospital,Whitefield,12.97363,77.73534,4.5
+P1715,Jayanagar Biryani House 40,Restaurant,Jayanagar,12.91079,77.60847,3.1
+P1716,BTM Layout Clinic 6,Hospital,BTM Layout,12.92648,77.59375,4.9
+P1717,Malleshwaram Dosa Corner 2,Restaurant,Malleshwaram,12.97698,77.58282,4.0
+P1718,Banashankari Darshini 7,Cafe,Banashankari,12.92985,77.53495,3.4
+P1719,Indiranagar Bar 38,Pub,Indiranagar,12.97772,77.63286,4.9
+P1720,BTM Layout Clinic 12,Hospital,BTM Layout,12.92119,77.61272,3.8
+P1721,BTM Layout Meals 19,Restaurant,BTM Layout,12.89588,77.61808,3.8
+P1722,Koramangala Institute 13,College,Koramangala,12.94107,77.62275,3.1
+P1723,Indiranagar Taproom 26,Pub,Indiranagar,12.96643,77.63958,4.9
+P1724,Koramangala Taproom 27,Pub,Koramangala,12.94242,77.61410,4.6
+P1725,BTM Layout Taproom 2,Pub,BTM Layout,12.92188,77.61272,3.3
+P1726,Majestic Biryani House 26,Restaurant,Majestic,12.98008,77.56236,4.1
+P1727,MG Road Tech Park 18,Tech Park,MG Road,12.98297,77.61140,4.2
+P1728,Banashankari IT Campus 39,Tech Park,Banashankari,12.91275,77.55943,4.7
+P1729,Marathahalli Dosa Corner 3,Restaurant,Marathahalli,12.96694,77.70155,3.4
+P1730,Whitefield Garden 23,Park,Whitefield,12.96276,77.76291,4.3
+P1731,Koramangala Brew 24,Cafe,Koramangala,12.93147,77.63177,3.1
+P1732,Jayanagar Garden 25,Park,Jayanagar,12.90981,77.61785,3.7
+P1733,Jayanagar Bar 17,Pub,Jayanagar,12.94251,77.60881,3.6
+P1734,Koramangala Health Centre 39,Hospital,Koramangala,12.94374,77.61560,3.6
+P1735,Majestic Plaza 7,Mall,Majestic,12.98861,77.59047,4.4
+P1736,Yelahanka Plaza 21,Mall,Yelahanka,13.11809,77.60067,3.8
+P1737,BTM Layout Lake View 1,Park,BTM Layout,12.91196,77.58985,4.0
+P1738,Whitefield Mall 24,Mall,Whitefield,12.96217,77.74578,3.8
+P1739,Majestic Darshini 18,Cafe,Majestic,12.97262,77.58590,3.2
+P1740,HSR Layout Hospital 29,Hospital,HSR Layout,12.89807,77.65693,3.1
+P1741,Banashankari Plaza 25,Mall,Banashankari,12.92154,77.53926,4.7
+P1742,Jayanagar Mall 38,Mall,Jayanagar,12.90921,77.61650,3.1
+P1743,BTM Layout Garden 23,Park,BTM Layout,12.93661,77.61514,3.5
+P1744,BTM Layout Health Centre 27,Hospital,BTM Layout,12.90399,77.60653,3.3
+P1745,Majestic College 29,College,Majestic,12.97094,77.56141,4.5
+P1746,Koramangala Bar 38,Pub,Koramangala,12.95628,77.62919,3.6
+P1747,MG Road Mall 17,Mall,MG Road,12.97841,77.62942,3.2
+P1748,Indiranagar Taproom 24,Pub,Indiranagar,13.00511,77.64309,5.0
+P1749,Jayanagar Plaza 2,Mall,Jayanagar,12.90828,77.58433,3.8
+P1750,Indiranagar Mall 33,Mall,Indiranagar,12.98996,77.64127,3.5
+P1751,Jayanagar Filter Coffee 31,Cafe,Jayanagar,12.92198,77.60304,4.4
+P1752,Jayanagar Park 18,Park,Jayanagar,12.94451,77.57970,3.9
+P1753,Bellandur Tech Park 5,Tech Park,Bellandur,12.93092,77.68433,3.0
+P1754,MG Road IT Campus 27,Tech Park,MG Road,12.96145,77.63863,4.0
+P1755,Majestic Lake View 40,Park,Majestic,12.96022,77.56418,3.2
+P1756,Jayanagar Tech Park 19,Tech Park,Jayanagar,12.91597,77.57559,4.6
+P1757,Koramangala College 29,College,Koramangala,12.95100,77.63574,3.4
+P1758,Bellandur Biryani House 22,Restaurant,Bellandur,12.91865,77.67224,3.6
+P1759,Majestic Park 28,Park,Majestic,12.96884,77.58262,4.8
+P1760,Malleshwaram Institute 32,College,Malleshwaram,13.01000,77.58402,3.0
+P1761,Marathahalli IT Campus 35,Tech Park,Marathahalli,12.97345,77.67923,3.1
+P1762,Hebbal Taproom 19,Pub,Hebbal,13.01689,77.59636,3.7
+P1763,Banashankari Meals 37,Restaurant,Banashankari,12.90827,77.54018,4.8
+P1764,Electronic City Mall 2,Mall,Electronic City,12.85331,77.66215,4.7
+P1765,MG Road Health Centre 30,Hospital,MG Road,12.97783,77.60366,4.9
+P1766,Bellandur College 19,College,Bellandur,12.94113,77.67281,3.9
+P1767,Majestic Park 31,Park,Majestic,12.95798,77.59142,4.2
+P1768,Majestic Hospital 31,Hospital,Majestic,12.99096,77.55579,4.1
+P1769,Hebbal Brew 4,Cafe,Hebbal,13.03926,77.60221,4.9
+P1770,Hebbal Arcade 35,Mall,Hebbal,13.03396,77.59373,3.0
+P1771,MG Road Darshini 13,Cafe,MG Road,12.97522,77.61789,4.7
+P1772,Koramangala Arcade 24,Mall,Koramangala,12.94987,77.60102,3.4
+P1773,Indiranagar College 34,College,Indiranagar,12.97335,77.64583,3.2
+P1774,Jayanagar Plaza 3,Mall,Jayanagar,12.90934,77.60290,3.3
+P1775,BTM Layout Bar 31,Pub,BTM Layout,12.92935,77.62598,3.3
+P1776,Indiranagar Business Bay 26,Tech Park,Indiranagar,12.95543,77.65021,3.4
+P1777,Koramangala Academy 38,College,Koramangala,12.92145,77.62640,4.9
+P1778,Jayanagar Park 17,Park,Jayanagar,12.92117,77.58034,3.0
+P1779,Hebbal Filter Coffee 40,Cafe,Hebbal,13.03354,77.57527,3.3
+P1780,BTM Layout Biryani House 35,Restaurant,BTM Layout,12.91102,77.62020,3.8
+P1781,HSR Layout Lake View 15,Park,HSR Layout,12.91174,77.64455,3.2
+P1782,Bellandur Filter Coffee 1,Cafe,Bellandur,12.91971,77.69060,3.7
+P1783,Marathahalli Lake View 32,Park,Marathahalli,12.96172,77.71701,4.3
+P1784,Majestic Arcade 34,Mall,Majestic,12.97723,77.56483,4.5
+P1785,Electronic City Tech Park 21,Tech Park,Electronic City,12.84235,77.66626,4.6
+P1786,Indiranagar Clinic 3,Hospital,Indiranagar,12.96524,77.63434,3.1
+P1787,Electronic City Tech Park 15,Tech Park,Electronic City,12.85385,77.68543,4.2
+P1788,Indiranagar Filter Coffee 4,Cafe,Indiranagar,12.97055,77.62700,4.1
+P1789,Malleshwaram Meals 16,Restaurant,Malleshwaram,13.00463,77.57565,3.6
+P1790,Indiranagar Institute 16,College,Indiranagar,12.96725,77.63740,4.6
+P1791,BTM Layout Health Centre 32,Hospital,BTM Layout,12.91864,77.60629,4.1
+P1792,MG Road Clinic 32,Hospital,MG Road,12.99699,77.58524,4.0
+P1793,Marathahalli Park 13,Park,Marathahalli,12.97067,77.70216,3.4
+P1794,Majestic Health Centre 22,Hospital,Majestic,12.99794,77.56306,4.1
+P1795,Bellandur Hospital 34,Hospital,Bellandur,12.92962,77.66834,3.4
+P1796,Majestic Lake View 5,Park,Majestic,12.96882,77.57763,4.7
+P1797,Majestic Business Bay 21,Tech Park,Majestic,12.99101,77.57594,3.3
+P1798,Koramangala Plaza 17,Mall,Koramangala,12.93114,77.64509,4.6
+P1799,Jayanagar Mall 31,Mall,Jayanagar,12.92988,77.62380,3.7
+P1800,Majestic Garden 18,Park,Majestic,12.94597,77.55607,5.0
