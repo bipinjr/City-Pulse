@@ -133,6 +133,11 @@ function Explorer({initial, dark, onToggleTheme, onHome}: Props) {
   useEffect(() => {
     dispatch(mapStyleChange(basemap(dark)));
   }, [dark, dispatch]);
+  // kepler renders hidden helpers (export canvas, portals) that stretch the page; the map screen never scrolls.
+  useEffect(() => {
+    document.documentElement.style.overflow = 'hidden';
+    return () => void (document.documentElement.style.overflow = '');
+  }, []);
 
   // Facts follow the most recently added dataset (a preset or an upload).
   const ids = Object.keys(datasets);
@@ -228,7 +233,7 @@ function Explorer({initial, dark, onToggleTheme, onHome}: Props) {
             <>
               <div className="ui pointer-events-none absolute left-1/2 top-4 -translate-x-1/2 rounded-2xl bg-panel/95 px-6 py-3 text-center shadow-xl ring-1 ring-line">
                 <p className="text-sm text-muted">Trips starting between</p>
-                <p className="font-display text-3xl font-bold tabular-nums">
+                <p className="whitespace-nowrap font-display text-2xl font-bold tabular-nums xl:text-3xl">
                   {hhmm(timeFilter.value[0])} – {hhmm(timeFilter.value[1])}
                 </p>
                 <p className={`mt-1 text-sm font-bold ${mood.includes('rush') ? 'text-auto' : 'text-muted'}`}>{mood}</p>
