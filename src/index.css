@@ -1,0 +1,88 @@
+/* Tailwind without preflight, so kepler.gl's styled-components UI is left untouched. */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Palette: Bengaluru street vernacular. Auto-rickshaw yellow is the one action colour;
+   metro purple, BMTC red and leaf green are data colours. Night indigo is the base. */
+:root {
+  --paper: #f2f4fb;
+  --panel: #ffffff;
+  --sunk: #e6eaf6;
+  --ink: #141a3c;
+  --muted: #545d82;
+  --line: #d6dcee;
+}
+.dark {
+  --paper: #0f1538;
+  --panel: #161e4b;
+  --sunk: #1e275c;
+  --ink: #eef1ff;
+  --muted: #a7afd6;
+  --line: #2b3570;
+}
+
+@theme inline {
+  --font-display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", ui-sans-serif, system-ui, sans-serif;
+  --color-paper: var(--paper);
+  --color-panel: var(--panel);
+  --color-sunk: var(--sunk);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-auto: #f5c518;
+  --color-auto-deep: #d9a900;
+  --color-metro: #9b5de5;
+  --color-bus: #e63946;
+  --color-leaf: #2bb673;
+  --color-sky: #4cc9f0;
+}
+
+/* Mini-preflight scoped to our own UI (.ui), in the base layer so utilities still win.
+   kepler.gl's DOM never gets the .ui class, so its styles stay exactly as shipped. */
+@layer base {
+  .ui *, .ui ::before, .ui ::after { box-sizing: border-box; border: 0 solid; }
+  .ui :where(h1, h2, h3, p, ul, ol, dl, dd, figure) { margin: 0; padding: 0; }
+  .ui :where(ul, ol) { list-style: none; }
+  .ui :where(button) { background: none; padding: 0; }
+  .ui :where(a) { text-decoration: none; }
+  .ui :where(svg) { display: block; }
+}
+
+html, body, #root { margin: 0; height: 100%; }
+body {
+  font-family: var(--font-sans);
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+button { cursor: pointer; font: inherit; color: inherit; }
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--color-auto); outline-offset: 2px; border-radius: 6px; }
+
+/* Primary action: an auto-rickshaw-yellow button that physically "presses". */
+.btn-auto {
+  background: var(--color-auto);
+  color: #141a3c;
+  border: 0;
+  box-shadow: 0 4px 0 var(--color-auto-deep);
+  transition: transform 0.08s, box-shadow 0.08s;
+}
+.btn-auto:hover { filter: brightness(1.05); }
+.btn-auto:active { transform: translateY(3px); box-shadow: 0 1px 0 var(--color-auto-deep); }
+
+/* Hero map: commute arcs drawn on load, then dots travel along them. */
+.route { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 1.6s ease-out forwards; }
+@keyframes draw { to { stroke-dashoffset: 0; } }
+.rider { offset-rotate: 0deg; animation: ride 5s linear infinite; opacity: 0; }
+@keyframes ride {
+  0% { offset-distance: 0%; opacity: 0; }
+  10%, 90% { opacity: 1; }
+  100% { offset-distance: 100%; opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .route { animation: none; stroke-dashoffset: 0; }
+  .rider { animation: none; display: none; }
+}
