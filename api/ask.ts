@@ -2,6 +2,8 @@
 // The browser calls this only when the offline brain (src/ask.ts) can't understand a question.
 // The API key lives in Vercel's GROQ_API_KEY env var and never reaches the browser.
 // Without the key this returns 503 and the chat quietly stays offline-only.
+import {readFileSync} from 'node:fs';
+import {join} from 'node:path';
 import {facts, parseCity} from '../src/ask';
 
 // Free tier: 8,000 tokens/minute per model, in separate buckets. If one is busy, try the next.
@@ -26,21 +28,13 @@ const SCHEMA = {
   additionalProperties: false
 };
 
-let factSheet: Promise<string> | null = null;
-const loadFacts = (origin: string) =>
-  (factSheet ??= Promise.all(
-    ['bus_stops.csv', 'poi.csv', 'commute_trips.csv'].map(f =>
-      fetch(`${origin}/data/${f}`).then(r => {
-        if (!r.ok) throw new Error(`${f}: ${r.status}`);
-        return r.text();
-      })
-    )
-  )
-    .then(([s, p, t]) => facts(parseCity(s, p, t)))
-    .catch(e => {
-      factSheet = null;
-      throw e;
-    }));
+// CSVs are bundled with the function (vercel.json includeFiles) and read from disk, so this works
+// even when the deployment is behind Vercel Authentication. Built once per warm instance.
+let factSheet: string | null = null;
+const loadFacts = () =>
+  (factSheet ??= facts(
+    parseCity(...(['bus_stops.csv', 'poi.csv', 'commute_trips.csv'].map(f => readFileSync(join(process.cwd(), 'public/data', f), 'utf8')) as [string, string, string]))
+  ));
 
 type Msg = {from: 'you' | 'bot'; text: string};
 
@@ -63,7 +57,7 @@ export async function POST(request: Request): Promise<Response> {
     .map(m => ({role: m.from === 'you' ? 'user' : 'assistant', content: m.text.slice(0, 600)}));
 
   try {
-    const sheet = await loadFacts(new URL(request.url).origin);
+    const sheet = loadFacts();
     let res: Response | null = null;
     for (const model of MODELS) {
       res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
