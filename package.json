@@ -55,5 +55,8 @@
     "@luma.gl/shadertools": "9.3.2",
     "@luma.gl/webgl": "9.3.2",
     "@luma.gl/webgpu": "9.3.2"
+  },
+  "engines": {
+    "node": ">=22.18"
   }
 }
