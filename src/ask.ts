@@ -363,9 +363,9 @@ function help(): Answer {
 export function facts(d: CityData): string {
   const byArea = (f: (a: string) => string) => AREAS.map(a => `${a}: ${f(a)}`).join('\n');
   const stopsIn = (a: string) => d.stops.filter(s => s.area === a);
-  const top = [...d.stops].sort((a, b) => b.boardings - a.boardings).slice(0, 15);
+  const top = [...d.stops].sort((a, b) => b.boardings - a.boardings).slice(0, 10);
   const hours = countBy(d.trips, t => String(t.hour)).sort((a, b) => +a[0] - +b[0]);
-  const pairs = countBy(d.trips, t => `${t.from} -> ${t.to}`).slice(0, 25);
+  const pairs = countBy(d.trips, t => `${t.from} -> ${t.to}`).slice(0, 12);
   return [
     `BUS STOPS (${d.stops.length} stops, ${fmt(sum(d.stops.map(s => s.boardings)))} daily boardings in total)`,
     'Per area (stops, daily boardings, busiest stop):',
@@ -374,7 +374,7 @@ export function facts(d: CityData): string {
       const best = [...s].sort((x, y) => y.boardings - x.boardings)[0];
       return `${s.length} stops, ${fmt(sum(s.map(x => x.boardings)))} boardings, busiest ${best?.name} (${best?.id}, ${fmt(best?.boardings ?? 0)})`;
     }),
-    'Top 15 stops: ' + top.map(s => `${s.name} (${s.id}, ${s.area}) ${fmt(s.boardings)}`).join('; '),
+    'Top 10 stops: ' + top.map(s => `${s.name} (${s.id}, ${s.area}) ${fmt(s.boardings)}`).join('; '),
     '',
     `PLACES (${d.places.length} total). Count per area by category:`,
     byArea(a => countBy(d.places.filter(p => p.area === a), p => p.category).map(([c, n]) => `${c} ${n}`).join(', ')),
@@ -383,8 +383,13 @@ export function facts(d: CityData): string {
     'Trips starting per hour: ' + hours.map(([h, n]) => `${clock12(+h)} ${n}`).join(', '),
     'By mode: ' + countBy(d.trips, t => t.mode).map(([m, n]) => `${m} ${n}`).join(', '),
     `Average trip ${fmt(sum(d.trips.map(t => t.minutes)) / d.trips.length)} min, ${(sum(d.trips.map(t => t.km)) / d.trips.length).toFixed(1)} km`,
-    'Trips starting / ending per area: ' + AREAS.map(a => `${a} ${d.trips.filter(t => t.from === a).length}/${d.trips.filter(t => t.to === a).length}`).join(', '),
-    'Top 25 routes: ' + pairs.map(([p, n]) => `${p} ${n}`).join('; ')
+    'Trips starting / ending per area (more ending = work hub, more starting = home area): ' +
+      AREAS.map(a => {
+        const out = d.trips.filter(t => t.from === a).length;
+        const inn = d.trips.filter(t => t.to === a).length;
+        return `${a} ${out} start / ${inn} end = ${inn > out ? 'work hub' : 'home area'}`;
+      }).join('; '),
+    'Top 12 routes: ' + pairs.map(([p, n]) => `${p} ${n}`).join('; ')
   ].join('\n');
 }
 

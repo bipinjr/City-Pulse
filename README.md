@@ -25,9 +25,10 @@ Foundation, used here as a library inside a custom React app.
   rush hour?" and it answers from the data, switches to the right map and flies to the spot. It handles typos
   ("whitfield"), follow-ups ("what about Hebbal?"), small talk, and asks back when a question is vague.
   - **Offline brain** (`src/ask.ts`): instant, free, no key. Answers most questions.
-  - **AI backup** (`api/ask.ts`, optional): when the offline brain doesn't understand, a Vercel function asks Claude
-    (`claude-opus-5-5`, low effort) to answer from a fact sheet built from the same data. The API key stays on the server.
-    Set `ANTHROPIC_API_KEY` in Vercel to turn it on; without it, the site stays fully static.
+  - **AI backup** (`api/ask.ts`, optional): when the offline brain doesn't understand, a Vercel function asks an
+    open model on [Groq](https://groq.com) (free tier: `openai/gpt-oss-120b`, falling back to `gpt-oss-20b` and
+    `qwen3.8-27b` when one is busy) to answer from a fact sheet built from the same data. The key stays on the server.
+    Set `GROQ_API_KEY` in Vercel to turn it on; without it, the site stays fully static.
 - **Day bar playback**: a big play button plus one bar per hour (tap a bar to jump there) replaces kepler's expert timeline.
 - **What you're seeing panel**: a plain-language explanation, a colour key that matches the map, a "Try this" tip and quick
   facts (number of data points, busiest area, busiest hour, top category), computed in TypeScript.
