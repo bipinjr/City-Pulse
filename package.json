@@ -12,6 +12,7 @@
     "test": "node src/insights.check.ts && node src/ask.check.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0",
     "@deck.gl/mapbox": "9.3.1",
     "@kepler.gl/actions": "3.3.0-alpha.16",
     "@kepler.gl/components": "3.3.0-alpha.16",

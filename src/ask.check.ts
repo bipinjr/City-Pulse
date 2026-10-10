@@ -35,3 +35,42 @@ assert.match(answer('asdf qwerty', d).text, /didn't catch/);
 assert.deepEqual(findAreas('from hsr to e city'), ['HSR Layout', 'Electronic City']);
 for (const s of SUGGESTIONS) assert.doesNotMatch(answer(s, d).text, /didn't catch/, s);
 console.log('ask ok');
+
+// --- Smarter layer: typos, small talk, follow-ups, clarifying, AI hand-off.
+import {facts, lev, normalize} from './ask.ts';
+assert.equal(lev('whitfield', 'whitefield'), 1);
+assert.equal(normalize('Which bus stop is the busyest??'), 'which bus stop is the busiest');
+assert.equal(normalize('any good bars'), 'any good bars'); // real word, not "cars"
+assert.deepEqual(findAreas(normalize('how many board in whitfield')), ['Whitefield']);
+assert.deepEqual(findAreas(normalize('cafes in koramangla')), ['Koramangala']);
+assert.ok(answer('how many ppl board in whitfield', d).text.includes(wfTotal.toLocaleString('en-IN')));
+
+assert.match(answer('hii', d).text, /Bengaluru/);
+assert.match(answer('thanks!', d).text, /Happy to help/);
+assert.match(answer('what can you do', d).text, /City Pulse helper/);
+assert.match(answer('will it rain today', d).text, /only know the sample data/);
+
+const first = answer('how many people board in whitefield', d);
+const ind = d.stops.filter(s => s.area === 'Indiranagar').reduce((a, s) => a + s.boardings, 0);
+const follow = answer('what about indiranagar?', d, first.ctx);
+assert.ok(follow.text.includes(ind.toLocaleString('en-IN')), follow.text);
+const cafes = answer('how many cafes in jayanagar', d);
+const pubs = answer('and pubs?', d, cafes.ctx);
+const pubCount = d.places.filter(p => p.category === 'Pub' && p.area === 'Jayanagar').length;
+assert.ok(pubs.text.includes(`${pubCount} pubs in Jayanagar`), pubs.text);
+
+assert.match(answer('busiest?', d).text, /Busiest what/);
+const lost = answer('explain the meaning of life', d);
+assert.equal(lost.understood, false);
+assert.ok(lost.chips?.length);
+assert.equal(answer('which bus stop is busiest', d).understood, true);
+
+const sheet = facts(d);
+assert.match(sheet, /BUS STOPS \(900 stops/);
+assert.ok(sheet.length < 12000, `facts too long: ${sheet.length}`);
+console.log('ask smart ok');
+// Follow-up after a typo'd area must still swap the area.
+const typo = answer('how many ppl board in whitfield', d);
+const heb = d.stops.filter(s => s.area === 'Hebbal').reduce((a, s) => a + s.boardings, 0);
+assert.ok(answer('what about hebbal?', d, typo.ctx).text.includes(heb.toLocaleString('en-IN')));
+console.log('follow-up ok');

@@ -1,7 +1,7 @@
 import {useEffect, useRef, useState} from 'react';
-import {answer, parseCity, SUGGESTIONS, type Answer, type CityData} from './ask';
+import {answer, areaFocus, parseCity, SUGGESTIONS, type Answer, type CityData} from './ask';
 
-type Msg = {from: 'you' | 'bot'; text: string};
+type Msg = {from: 'you' | 'bot'; text: string; ai?: boolean; chips?: string[]};
 const GREETING: Msg = {
   from: 'bot',
   text: "Hi! Ask me anything about Bengaluru's bus stops, hangouts or commutes. I'll answer and show you the spot on the map."
@@ -27,6 +27,7 @@ export function AskPanel({onClose, onAnswer}: {onClose: () => void; onAnswer: (a
   const [msgs, setMsgs] = useState<Msg[]>([GREETING]);
   const [text, setText] = useState('');
   const [busy, setBusy] = useState(false);
+  const ctx = useRef(''); // last understood question, for follow-ups
   const logRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -45,8 +46,24 @@ export function AskPanel({onClose, onAnswer}: {onClose: () => void; onAnswer: (a
     setMsgs(m => [...m, {from: 'you', text: q}]);
     setBusy(true);
     try {
-      const a = answer(q, await loadCity());
-      setMsgs(m => [...m, {from: 'bot', text: a.text}]);
+      const city = await loadCity();
+      let a = answer(q, city, ctx.current);
+      let ai = false;
+      if (a.understood === false) {
+        // Offline brain gave up: ask the AI helper (only works when the site has an API key).
+        const res = await fetch('/api/ask', {
+          method: 'POST',
+          headers: {'content-type': 'application/json'},
+          body: JSON.stringify({question: q, history: msgs.slice(1).map(({from, text}) => ({from, text}))})
+        }).catch(() => null);
+        if (res?.ok) {
+          const r = (await res.json()) as {text: string; area: string | null};
+          a = {text: r.text, focus: r.area ? areaFocus(r.area, city) : undefined, understood: true};
+          ai = true;
+        }
+      }
+      if (a.ctx) ctx.current = a.ctx;
+      setMsgs(m => [...m, {from: 'bot', text: a.text, ai, chips: a.chips}]);
       onAnswer(a);
     } catch {
       setMsgs(m => [...m, {from: 'bot', text: "I couldn't load the city data. Check your internet connection and ask again."}]);
@@ -56,7 +73,8 @@ export function AskPanel({onClose, onAnswer}: {onClose: () => void; onAnswer: (a
     }
   }
 
-  const showChips = msgs.length <= 1 || msgs[msgs.length - 1].text.startsWith("I didn't catch");
+  const last = msgs[msgs.length - 1];
+  const chips = msgs.length <= 1 ? SUGGESTIONS : last.from === 'bot' ? last.chips : undefined;
 
   return (
     <section
@@ -81,12 +99,13 @@ export function AskPanel({onClose, onAnswer}: {onClose: () => void; onAnswer: (a
             }`}
           >
             {m.text}
+            {m.ai && <span className="mt-1 block text-xs text-muted">Answered by AI from the map data</span>}
           </p>
         ))}
         {busy && <p className="w-fit animate-pulse rounded-2xl rounded-bl-md bg-sunk px-3.5 py-2.5 text-[15px]">Looking it up…</p>}
-        {showChips && (
+        {!busy && chips && (
           <div className="flex flex-wrap gap-1.5 pt-1">
-            {SUGGESTIONS.map(s => (
+            {chips.map(s => (
               <button key={s} onClick={() => ask(s)} className="rounded-full border-2 border-line px-3 py-1 text-sm hover:border-auto">
                 {s}
               </button>
@@ -110,7 +129,7 @@ export function AskPanel({onClose, onAnswer}: {onClose: () => void; onAnswer: (a
           ref={inputRef}
           value={text}
           onChange={e => setText(e.target.value)}
-          placeholder="Which bus stop is busiest?"
+          placeholder="Ask anything, typos are fine"
           autoComplete="off"
           className="min-w-0 flex-1 rounded-xl border-2 border-line bg-paper px-3 py-2 text-[15px] text-ink outline-none placeholder:text-muted focus:border-auto"
         />

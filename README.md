@@ -22,8 +22,12 @@ Foundation, used here as a library inside a custom React app.
 | How does the city get to work? | Arcs from home to work, played hour by hour | Two rush hours, around 9 AM and 6 PM |
 
 - **Ask City Pulse**: a chat box. Type "Which bus stop is busiest?", "How many people board in Whitefield?" or "When is
-  rush hour?" and it answers from the data, switches to the right map and flies to the spot. It works offline by matching
-  keywords (`src/ask.ts`), so there is no AI service and no API key to leak.
+  rush hour?" and it answers from the data, switches to the right map and flies to the spot. It handles typos
+  ("whitfield"), follow-ups ("what about Hebbal?"), small talk, and asks back when a question is vague.
+  - **Offline brain** (`src/ask.ts`): instant, free, no key. Answers most questions.
+  - **AI backup** (`api/ask.ts`, optional): when the offline brain doesn't understand, a Vercel function asks Claude
+    (`claude-opus-5-5`, low effort) to answer from a fact sheet built from the same data. The API key stays on the server.
+    Set `ANTHROPIC_API_KEY` in Vercel to turn it on; without it, the site stays fully static.
 - **Day bar playback**: a big play button plus one bar per hour (tap a bar to jump there) replaces kepler's expert timeline.
 - **What you're seeing panel**: a plain-language explanation, a colour key that matches the map, a "Try this" tip and quick
   facts (number of data points, busiest area, busiest hour, top category), computed in TypeScript.

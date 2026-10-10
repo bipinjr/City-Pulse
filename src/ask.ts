@@ -8,7 +8,14 @@ export type Place = {name: string; category: string; area: string; lat: number; 
 export type Trip = {hour: number; from: string; to: string; mode: string; minutes: number; km: number};
 export type CityData = {stops: Stop[]; places: Place[]; trips: Trip[]};
 export type Focus = {lat: number; lng: number; zoom: number};
-export type Answer = {text: string; preset?: 'poi' | 'bus_stops' | 'commute_trips'; focus?: Focus};
+export type Answer = {
+  text: string;
+  preset?: 'poi' | 'bus_stops' | 'commute_trips';
+  focus?: Focus;
+  chips?: string[]; // follow-up suggestions to show as buttons
+  understood?: boolean; // false = offline brain gave up, worth asking the AI
+  ctx?: string; // normalised question, remembered for follow-ups like "what about Hebbal?"
+};
 
 export const SUGGESTIONS = [
   'Which bus stop is busiest?',
@@ -58,7 +65,19 @@ const centre = (pts: {lat: number; lng: number}[], zoom: number): Focus => ({
   zoom
 });
 
-/** All areas mentioned, in the order they appear in the question. */
+/** Edit distance, for typo tolerance ("whitfield", "koramangla", "busyest"). */
+export function lev(a: string, b: string): number {
+  let prev = Array.from({length: b.length + 1}, (_, j) => j);
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i];
+    for (let j = 1; j <= b.length; j++) cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    prev = cur;
+  }
+  return prev[b.length];
+}
+const typoOk = (word: string, target: string) => lev(word, target) <= (target.length >= 8 ? 2 : target.length >= 5 ? 1 : 0);
+
+/** All areas mentioned, in the order they appear (run normalize() first to fix typos). */
 export function findAreas(q: string): string[] {
   const hits: [number, string][] = [];
   for (const a of AREAS) {
@@ -72,9 +91,109 @@ export function findAreas(q: string): string[] {
   return hits.sort((x, y) => x[0] - y[0]).map(h => h[1]);
 }
 
-export function answer(question: string, d: CityData): Answer {
-  const q = question.toLowerCase().replace(/[?!.]/g, ' ').replace(/\s+/g, ' ').trim();
+// Words the keyword rules rely on; a misspelt word is snapped to the closest one.
+const VOCAB = (
+  'busiest bus stop stops board boarding boards people metro cafe cafes coffee restaurant restaurants college colleges ' +
+  'hospital hospitals park parks mall malls pubs trips trip commute commuters travel rush hour peak quietest least most ' +
+  'many where which when average longest rated rating best area areas auto bike car cars passengers riders popular ' +
+  'office offices places hangout destination morning evening bars bar shop shopping food garden time take ride rides'
+).split(' ');
+
+/** Lower-case, strip punctuation, and fix typos in key words. */
+export function normalize(question: string): string {
+  const q = question.toLowerCase().replace(/[?!.,'"]/g, ' ').replace(/\s+/g, ' ').trim();
+  let fixed = q
+    .split(' ')
+    .map(w => {
+      if (w.length < 4 || VOCAB.includes(w)) return w;
+      const fix = VOCAB.find(v => typoOk(w, v));
+      return fix ?? w;
+    })
+    .join(' ');
+  // Snap misspelt area names to the real ones ("whitfield" -> "whitefield"), so follow-ups can swap them.
+  for (const area of AREAS) {
+    const name = area.toLowerCase();
+    if (fixed.includes(name)) continue;
+    const words = fixed.split(' ');
+    const n = name.split(' ').length;
+    for (let i = 0; i + n <= words.length; i++) {
+      const window = words.slice(i, i + n).join(' ');
+      if (window.length >= 5 && typoOk(window, name)) {
+        fixed = [...words.slice(0, i), name, ...words.slice(i + n)].join(' ');
+        break;
+      }
+    }
+  }
+  return fixed;
+}
+
+const TOPIC = /\bbs ?\d|\bstops?\b|board|riders?|passengers?|trips?|commut|travel|rush|peak|hour|caf|restaurant|park|mall|hospital|college|pub|places?|metro|\bbus|auto|bike|car|busiest|how many|which|where|when/;
+const CHIPS = ['Which bus stop is busiest?', 'When is rush hour?', 'Which area has the most cafes?'];
+
+/**
+ * Main entry. `prev` is the last understood question (Answer.ctx), so short follow-ups
+ * like "what about Indiranagar?" or "and cafes?" reuse its intent.
+ */
+export function answer(question: string, d: CityData, prev = ''): Answer {
+  let q = normalize(question);
   if (!q) return help();
+
+  // Small talk and things the data can't know.
+  if (/^(hi+|hello|hey+|yo|hola|namaste|good (morning|evening|afternoon))\b/.test(q) && q.split(' ').length <= 4)
+    return {text: "Hey! I know Bengaluru's bus stops, hangout spots and commutes. Ask me anything about them.", chips: CHIPS, understood: true};
+  if (/^(thanks|thank you|thx|ty|cool|nice|awesome|great|ok|okay)\b/.test(q))
+    return {text: 'Happy to help! Want to know anything else about the city?', chips: CHIPS, understood: true};
+  if (/^(bye|see you|goodbye)\b/.test(q)) return {text: 'Bye! Come back and explore anytime.', understood: true};
+  if (/who are you|what are you|what can you (do|answer)|^help\b|what do you know/.test(q))
+    return {
+      text: "I'm the City Pulse helper. I can count bus riders at any stop or area, find busy places, tell you when rush hour is, and compare ways of travel. I'll also fly the map to what I find.",
+      chips: CHIPS,
+      understood: true
+    };
+  if (/weather|rain|temperature|news|cricket|movie|live traffic|right now|today|tomorrow|real.?time/.test(q))
+    return {
+      text: "I only know the sample data in this app (one typical weekday), so I can't tell live or real-world info. Try asking about bus stops, places or commutes.",
+      chips: CHIPS,
+      understood: true
+    };
+
+  // Follow-ups: "what about Hebbal?", "and cafes?", "in Indiranagar?".
+  const areas = findAreas(q);
+  const category = CATEGORIES.find(([re]) => re.test(q))?.[1];
+  const mode = MODES.find(([re]) => re.test(q))?.[1];
+  const shortSlotOnly = q.split(' ').length <= 4 && (areas.length > 0 || category || mode);
+  if (prev && (/^(what|how) about\b|^(and|also|same)\b|^in\b/.test(q) || shortSlotOnly)) {
+    let merged = prev;
+    if (areas.length) {
+      const old = findAreas(prev);
+      merged = old.length ? merged.replace(new RegExp(old[0], 'i'), areas[0].toLowerCase()) : `${merged} in ${areas[0].toLowerCase()}`;
+    }
+    if (category) {
+      for (const [re] of CATEGORIES) merged = merged.replace(new RegExp(re.source, 'g'), ' ');
+      merged = `${merged} ${category.toLowerCase()}s`;
+    }
+    if (mode) {
+      for (const [re] of MODES) merged = merged.replace(new RegExp(re.source, 'g'), ' ');
+      merged = `${merged} ${mode.toLowerCase()}`;
+    }
+    q = merged.replace(/\s+/g, ' ').trim();
+  } else if (!TOPIC.test(q) && !areas.length && !category) {
+    return help();
+  }
+
+  // Vague superlatives: "busiest?", "which is the most?"
+  if (/^(which|what)?( is)?( the)? ?(busiest|most|biggest|top|best)( one)?$/.test(q))
+    return {
+      text: 'Busiest what? I can find the busiest bus stop, the busiest area for buses, the area with the most cafes, or the busiest hour.',
+      chips: ['Which bus stop is busiest?', 'Which area is busiest for buses?', 'Which area has the most cafes?', 'When is rush hour?'],
+      understood: true
+    };
+
+  const a = core(q, d);
+  return a.understood === false ? a : {...a, understood: true, ctx: q};
+}
+
+function core(q: string, d: CityData): Answer {
   const areas = findAreas(q);
   const area = areas[0];
   const category = CATEGORIES.find(([re]) => re.test(q))?.[1];
@@ -234,8 +353,45 @@ export function answer(question: string, d: CityData): Answer {
 
 function help(): Answer {
   return {
-    text: `I didn't catch that. I can answer questions about bus stops, places to hang out and commutes. Try one of these: ${SUGGESTIONS.slice(0, 3).map(s => `"${s}"`).join(', ')}.`
+    text: "I didn't catch that. I can answer questions about bus stops, places to hang out and commutes. Try one of these:",
+    chips: SUGGESTIONS.slice(0, 4),
+    understood: false
   };
+}
+
+/** Compact fact sheet the AI answers from (so it never invents numbers). */
+export function facts(d: CityData): string {
+  const byArea = (f: (a: string) => string) => AREAS.map(a => `${a}: ${f(a)}`).join('\n');
+  const stopsIn = (a: string) => d.stops.filter(s => s.area === a);
+  const top = [...d.stops].sort((a, b) => b.boardings - a.boardings).slice(0, 15);
+  const hours = countBy(d.trips, t => String(t.hour)).sort((a, b) => +a[0] - +b[0]);
+  const pairs = countBy(d.trips, t => `${t.from} -> ${t.to}`).slice(0, 25);
+  return [
+    `BUS STOPS (${d.stops.length} stops, ${fmt(sum(d.stops.map(s => s.boardings)))} daily boardings in total)`,
+    'Per area (stops, daily boardings, busiest stop):',
+    byArea(a => {
+      const s = stopsIn(a);
+      const best = [...s].sort((x, y) => y.boardings - x.boardings)[0];
+      return `${s.length} stops, ${fmt(sum(s.map(x => x.boardings)))} boardings, busiest ${best?.name} (${best?.id}, ${fmt(best?.boardings ?? 0)})`;
+    }),
+    'Top 15 stops: ' + top.map(s => `${s.name} (${s.id}, ${s.area}) ${fmt(s.boardings)}`).join('; '),
+    '',
+    `PLACES (${d.places.length} total). Count per area by category:`,
+    byArea(a => countBy(d.places.filter(p => p.area === a), p => p.category).map(([c, n]) => `${c} ${n}`).join(', ')),
+    '',
+    `COMMUTE TRIPS (${d.trips.length} trips on one weekday)`,
+    'Trips starting per hour: ' + hours.map(([h, n]) => `${clock12(+h)} ${n}`).join(', '),
+    'By mode: ' + countBy(d.trips, t => t.mode).map(([m, n]) => `${m} ${n}`).join(', '),
+    `Average trip ${fmt(sum(d.trips.map(t => t.minutes)) / d.trips.length)} min, ${(sum(d.trips.map(t => t.km)) / d.trips.length).toFixed(1)} km`,
+    'Trips starting / ending per area: ' + AREAS.map(a => `${a} ${d.trips.filter(t => t.from === a).length}/${d.trips.filter(t => t.to === a).length}`).join(', '),
+    'Top 25 routes: ' + pairs.map(([p, n]) => `${p} ${n}`).join('; ')
+  ].join('\n');
+}
+
+/** Where to fly the map for an area the AI mentions. */
+export function areaFocus(area: string, d: CityData): Focus | undefined {
+  const pts = [...d.stops.filter(s => s.area === area), ...d.places.filter(p => p.area === area)];
+  return pts.length ? centre(pts, STOP_ZOOM) : undefined;
 }
 
 // --- CSV loading (our generated files never contain quoted commas, so a plain split is enough).
