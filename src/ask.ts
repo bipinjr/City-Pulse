@@ -190,7 +190,12 @@ export function answer(question: string, d: CityData, prev = ''): Answer {
     };
 
   const a = core(q, d);
-  return a.understood === false ? a : {...a, understood: true, ctx: q};
+  if (a.understood === false) return a;
+  // Advice / judgement questions need reasoning: prefer the AI, keep this answer as the offline backup.
+  const needsReasoning =
+    /\b(should|why|good|better|worse|recommend|suggest|compare|versus|vs|worth|advice|ideal|suitable|live|stay|move|plan)\b/.test(q) ||
+    q.split(' ').length > 12;
+  return {...a, understood: !needsReasoning, ctx: q};
 }
 
 function core(q: string, d: CityData): Answer {

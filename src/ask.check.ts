@@ -74,3 +74,9 @@ const typo = answer('how many ppl board in whitfield', d);
 const heb = d.stops.filter(s => s.area === 'Hebbal').reduce((a, s) => a + s.boardings, 0);
 assert.ok(answer('what about hebbal?', d, typo.ctx).text.includes(heb.toLocaleString('en-IN')));
 console.log('follow-up ok');
+// Advice questions are handed to the AI, with an offline answer kept as backup.
+const advice = answer('is hebbal a good place to live for a student who goes to college in koramangala?', d);
+assert.equal(advice.understood, false);
+assert.ok(advice.text.length > 0);
+assert.equal(answer('which bus stop is busiest', d).understood, true);
+console.log('advice hand-off ok');

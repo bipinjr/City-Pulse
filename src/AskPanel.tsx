@@ -60,7 +60,7 @@ export function AskPanel({onClose, onAnswer}: {onClose: () => void; onAnswer: (a
           const r = (await res.json()) as {text: string; area: string | null};
           a = {text: r.text, focus: r.area ? areaFocus(r.area, city) : undefined, understood: true};
           ai = true;
-        } else if (res?.status === 429) {
+        } else if (res?.status === 429 && a.text.startsWith("I didn't catch")) {
           a = {...a, text: "My AI helper is busy right now (free plan limit). Try again in a minute, or tap one of these:"};
         }
       }
