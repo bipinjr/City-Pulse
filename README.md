@@ -1,3 +1,5 @@
+<p align="center"><img src="public/logo.svg" width="96" alt="City Pulse logo"></p>
+
 # City Pulse
 
 **How does Bengaluru move?** An interactive map explorer made for school and PU students. Pick a question, press play and spot

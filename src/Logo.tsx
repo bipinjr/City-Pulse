@@ -1,0 +1,17 @@
+// City Pulse mark: a map pin with a heartbeat line, the city's pulse on a map.
+export function Logo({className = 'size-9'}: {className?: string}) {
+  return (
+    <svg viewBox="0 0 64 64" className={className} aria-hidden>
+      <rect width="64" height="64" rx="16" fill="#141A3C" />
+      <path d="M32 54s-15-14.2-15-25.5a15 15 0 0 1 30 0C47 39.8 32 54 32 54z" fill="#F5C518" />
+      <polyline
+        points="21,28.5 26,28.5 29,21.5 33.5,35 37,25.5 39,28.5 43,28.5"
+        fill="none"
+        stroke="#141A3C"
+        strokeWidth="3.4"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}

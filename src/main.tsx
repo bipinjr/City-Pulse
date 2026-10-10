@@ -2,6 +2,7 @@ import {lazy, StrictMode, Suspense, useEffect, useState} from 'react';
 import {createRoot} from 'react-dom/client';
 import {PRESETS} from './presets';
 import {MoonIcon, SunIcon} from './icons';
+import {Logo} from './Logo';
 import './index.css';
 
 // kepler.gl is heavy (~2 MB gzipped, several seconds to start). Load it lazily, and warm it up
@@ -138,7 +139,10 @@ function Hero({dark, onToggleTheme}: {dark: boolean; onToggleTheme: () => void})
   return (
     <div className="ui min-h-screen bg-paper text-ink">
       <header className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
-        <span className="font-display text-2xl font-extrabold tracking-tight">City Pulse</span>
+        <span className="flex items-center gap-2.5 font-display text-2xl font-extrabold tracking-tight">
+          <Logo className="size-10" />
+          City Pulse
+        </span>
         <button
           onClick={onToggleTheme}
           aria-label={`Switch to ${dark ? 'light' : 'dark'} mode`}

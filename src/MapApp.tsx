@@ -11,6 +11,7 @@ import {initApplicationConfig} from '@kepler.gl/utils';
 import {PRESETS, type Preset} from './presets';
 import {clock, computeInsights, hourCounts} from './insights';
 import {MoonIcon, SunIcon} from './icons';
+import {Logo} from './Logo';
 
 // Store + setup per kepler.gl examples/get-started-vite.
 initApplicationConfig({enableAnnotations: false});
@@ -177,7 +178,8 @@ function Explorer({initial, dark, onToggleTheme, onHome}: Props) {
   return (
     <div className="flex h-screen flex-col bg-paper text-ink">
       <header className="ui flex flex-wrap items-center gap-x-5 gap-y-2 border-b border-line bg-panel px-5 py-3">
-        <button onClick={onHome} className="font-display text-2xl font-extrabold tracking-tight" aria-label="City Pulse home">
+        <button onClick={onHome} className="flex items-center gap-2 font-display text-2xl font-extrabold tracking-tight" aria-label="City Pulse home">
+          <Logo className="size-9" />
           City Pulse
         </button>
         <nav className="flex gap-1 rounded-2xl bg-sunk p-1" aria-label="Pick a question">
