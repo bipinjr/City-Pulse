@@ -3,7 +3,7 @@ import {Provider, useDispatch, useSelector} from 'react-redux';
 import {applyMiddleware, combineReducers, compose, legacy_createStore as createStore} from 'redux';
 import KeplerGl from '@kepler.gl/components';
 import keplerGlReducer, {enhanceReduxMiddleware} from '@kepler.gl/reducers';
-import {addDataToMap, mapStyleChange, removeDataset, setFilter, toggleModal} from '@kepler.gl/actions';
+import {addDataToMap, mapStyleChange, removeDataset, setFilter, toggleModal, updateMap} from '@kepler.gl/actions';
 import {ADD_DATA_ID} from '@kepler.gl/constants';
 import {processCsvData} from '@kepler.gl/processors';
 import {themeLT} from '@kepler.gl/styles';
@@ -12,6 +12,8 @@ import {PRESETS, type Preset} from './presets';
 import {clock, computeInsights, hourCounts} from './insights';
 import {MoonIcon, SunIcon} from './icons';
 import {Logo} from './Logo';
+import {AskPanel} from './AskPanel';
+import type {Answer} from './ask';
 
 // Store + setup per kepler.gl examples/get-started-vite.
 initApplicationConfig({enableAnnotations: false});
@@ -88,6 +90,18 @@ function Explorer({initial, dark, onToggleTheme, onHome}: Props) {
   const [ref, {width, height}] = useSize();
   const [active, setActive] = useState(PRESETS.some(p => p.id === initial) ? initial : 'commute_trips');
   const [error, setError] = useState('');
+  const [askOpen, setAskOpen] = useState(false);
+  const [pulseKey, setPulseKey] = useState(0); // >0 shows a pulse ring at the map centre
+
+  // Chat answers switch to the right map, then fly to the spot they talk about.
+  async function showAnswer(a: Answer) {
+    const p = PRESETS.find(x => x.id === a.preset);
+    if (p && p.id !== active) await load(p);
+    if (a.focus) {
+      dispatch(updateMap({latitude: a.focus.lat, longitude: a.focus.lng, zoom: a.focus.zoom}));
+      setPulseKey(k => k + 1);
+    }
+  }
   const datasets = useSelector((s: RootState) => visState(s)?.datasets ?? {});
   const timeFilter: {value: number[]; domain: number[]} | undefined = useSelector((s: RootState) => visState(s)?.filters?.find(isTime));
   const [playing, setPlaying] = useState(() => !matchMedia('(prefers-reduced-motion: reduce)').matches);
@@ -203,6 +217,16 @@ function Explorer({initial, dark, onToggleTheme, onHome}: Props) {
         </nav>
         <div className="ml-auto flex items-center gap-2">
           <button
+            onClick={() => setAskOpen(o => !o)}
+            aria-expanded={askOpen}
+            className="btn-auto flex items-center gap-2 rounded-xl px-4 py-2 text-sm font-bold"
+          >
+            <svg viewBox="0 0 24 24" className="size-4" fill="none" stroke="currentColor" strokeWidth="2.4" aria-hidden>
+              <path d="M21 12a8 8 0 0 1-11.6 7.1L4 20.5l1.4-4.9A8 8 0 1 1 21 12z" />
+            </svg>
+            Ask City Pulse
+          </button>
+          <button
             onClick={() => dispatch(toggleModal(ADD_DATA_ID))}
             className="rounded-xl border-2 border-line px-4 py-2 text-sm font-semibold hover:border-auto"
           >
@@ -231,9 +255,18 @@ function Explorer({initial, dark, onToggleTheme, onHome}: Props) {
               deckGlProps={DECK_GL_PROPS}
             />
           )}
+          {askOpen && <AskPanel onClose={() => setAskOpen(false)} onAnswer={showAnswer} />}
+          {pulseKey > 0 && (
+            <span
+              key={pulseKey}
+              className="pointer-events-none absolute left-1/2 top-1/2 size-16 -translate-x-1/2 -translate-y-1/2 rounded-full border-4 border-auto animate-[ping_1s_ease-out_3]"
+              onAnimationEnd={() => setPulseKey(0)}
+              aria-hidden
+            />
+          )}
           {isTrips && timeFilter && (
             <>
-              <div className="ui pointer-events-none absolute left-1/2 top-4 -translate-x-1/2 rounded-2xl bg-panel/95 px-6 py-3 text-center shadow-xl ring-1 ring-line">
+              <div className={`ui pointer-events-none absolute top-4 rounded-2xl ${askOpen ? 'left-14' : 'left-1/2 -translate-x-1/2'} bg-panel/95 px-6 py-3 text-center shadow-xl ring-1 ring-line`}>
                 <p className="text-sm text-muted">Trips starting between</p>
                 <p className="whitespace-nowrap font-display text-2xl font-bold tabular-nums xl:text-3xl">
                   {hhmm(timeFilter.value[0])} – {hhmm(timeFilter.value[1])}

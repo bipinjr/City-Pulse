@@ -9,7 +9,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "gen-data": "node scripts/gen-data.mjs",
-    "test": "node src/insights.check.ts"
+    "test": "node src/insights.check.ts && node src/ask.check.ts"
   },
   "dependencies": {
     "@deck.gl/mapbox": "9.3.1",

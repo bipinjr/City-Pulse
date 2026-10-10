@@ -47,6 +47,7 @@
   .ui :where(h1, h2, h3, p, ul, ol, dl, dd, figure) { margin: 0; padding: 0; }
   .ui :where(ul, ol) { list-style: none; }
   .ui :where(button) { background: none; padding: 0; }
+  .ui :where(input) { font: inherit; }
   .ui :where(a) { text-decoration: none; }
   .ui :where(svg) { display: block; }
 }
