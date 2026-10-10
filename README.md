@@ -21,6 +21,9 @@ Foundation, used here as a library inside a custom React app.
 | Which bus stops are busiest? | 3D hexagon towers of daily boardings | The tallest towers sit on the busiest routes |
 | How does the city get to work? | Arcs from home to work, played hour by hour | Two rush hours, around 9 AM and 6 PM |
 
+- **Ask City Pulse**: a chat box. Type "Which bus stop is busiest?", "How many people board in Whitefield?" or "When is
+  rush hour?" and it answers from the data, switches to the right map and flies to the spot. It works offline by matching
+  keywords (`src/ask.ts`), so there is no AI service and no API key to leak.
 - **Day bar playback**: a big play button plus one bar per hour (tap a bar to jump there) replaces kepler's expert timeline.
 - **What you're seeing panel**: a plain-language explanation, a colour key that matches the map, a "Try this" tip and quick
   facts (number of data points, busiest area, busiest hour, top category), computed in TypeScript.
