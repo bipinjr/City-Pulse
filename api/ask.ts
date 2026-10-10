@@ -4,7 +4,7 @@
 // Without the key this returns 503 and the chat quietly stays offline-only.
 import {readFileSync} from 'node:fs';
 import {join} from 'node:path';
-import {facts, parseCity} from '../src/ask';
+import {facts, parseCity} from '../src/ask.js'; // .js required: Node ESM on Vercel needs extensions
 
 // Free tier: 8,000 tokens/minute per model, in separate buckets. If one is busy, try the next.
 const MODELS = (process.env.GROQ_MODELS || 'openai/gpt-oss-120b,openai/gpt-oss-20b,qwen/qwen3.8-27b').split(',');
